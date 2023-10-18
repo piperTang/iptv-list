@@ -1,8 +1,8 @@
 import os
 
 # 获取当前目录下的所有txt文件
-txt_files = [file for file in os.listdir() if file.endswith(".txt")]
-
+txt_files = ['央视频道.txt', '卫视频道.txt', '港澳台.txt', '广东频道.txt', '少儿频道.txt', 'ipv6专区.txt']
+print(txt_files)
 # 打开index.txt文件，以追加模式添加内容
 with open("index.txt", "a") as index_file:
     for txt_file in txt_files:
