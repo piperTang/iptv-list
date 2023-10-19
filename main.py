@@ -1,8 +1,9 @@
 import os
 import time
-
 import json5
 import requests
+from urllib import request
+from urllib.parse import urlparse
 
 
 def get_url_json():
@@ -116,6 +117,57 @@ def get_iptv_list():
                 file.close()
 
 
+# 替换字符串string中指定位置p的字符为c
+def sub(string, p, c):
+    new = []
+    for s in string:
+        new.append(s)
+    new[p] = c
+    return ''.join(new)
+
+
+def readM3U8(url):
+    s_url = None
+    response = requests.get(url)
+    response.encoding = 'utf-8'
+    str = response.text
+    result = urlparse(url)
+    url_tou = result[0] + '://' + result[1]
+
+    # 获取m3u8中的片段ts文件
+    # 需要替换 ../
+    list = str.split("\n");
+    for str in list:
+
+        if str.find(".ts") != -1:
+            # 特殊格式==>回退目录
+            if (str.find("../../../../..") != -1):
+                s_url = str.replace("../../../../..", url_tou)
+            # 普通格式，直接替换，如果ts文件的开头是/则表示根目录
+            else:
+                if str[0:1] == '/':
+                    s_url = sub(str, 0, url_tou + "/")
+                else:
+                    pos = url.rfind("/")
+                    s_url = url.replace(url[pos:], "/" + str)
+
+            break
+
+    return check_iptv(s_url)
+
+
+# 检测直播源是否可用
+def check_iptv(url):
+    try:
+        with request.urlopen(url) as file:
+            if file.status != 200:
+                return False
+            else:
+                return True
+    except BaseException as err:
+        return False
+
+
 # 生成节目单
 def generate_playlist():
     # 定义文件数组
@@ -146,8 +198,13 @@ def generate_playlist():
                                     if line not in result:
                                         # 对line进行处理
                                         line = line.replace(f"{rule},", name + ",")
-                                        result.append(line)
-                                        print(result)
+                                        # 根据逗号拆分，获取url
+                                        play_url = line.split(",")[1]
+                                        # 检测直播源是否可用
+                                        if check_iptv(play_url):
+                                            result.append(line)
+                                            print("(直播源可用)" + name + ":" + play_url)
+
             # 把数据写入到 index.txt
             with open("index.txt", "w", encoding="utf-8") as output_file:
                 for line in result:
