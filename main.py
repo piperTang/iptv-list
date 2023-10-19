@@ -131,6 +131,7 @@ def generate_playlist():
             result.append(f"{file_name},#genre#\n")
             # 对 JSON 数据进行循环
             for item in template_data:
+                name = item.get("name", "")
                 rules = item.get("rule", "")
                 for rule in rules:
                     # 根据规则查找匹配的行并写入到 index.txt
@@ -143,6 +144,8 @@ def generate_playlist():
                                 if line.startswith(f"{rule},"):
                                     # 防止重复写
                                     if line not in result:
+                                        # 对line进行处理
+                                        line = line.replace(f"{rule},", name + ",")
                                         result.append(line)
                                         print(result)
             # 把数据写入到 index.txt
