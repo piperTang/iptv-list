@@ -221,8 +221,9 @@ def main():
     print("2. 拉取 vbox 配置")
     print("3. 拉取直播源")
     print("4. 生成index.txt")
+    print("5. 以上全部执行")
 
-    choice = input("请输入数字 (1/2/3/4): ")
+    choice = input("请输入数字 (1/2/3/4/5): ")
 
     if choice == "1":
         get_url_json()
@@ -232,8 +233,13 @@ def main():
         get_iptv_list()
     elif choice == "4":
         generate_playlist()
+    elif choice == "5":
+        get_url_json()
+        get_vbox_config()
+        get_iptv_list()
+        generate_playlist()
     else:
-        print("无效的选择。请输入 1、2、3 或 4。")
+        print("无效的选择。请输入 1、2、3、4或 5。")
 
 
 if __name__ == "__main__":
