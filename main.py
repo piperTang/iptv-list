@@ -157,10 +157,24 @@ def generate_playlist():
 
 
 def main():
-    get_url_json()
-    get_vbox_config()
-    get_iptv_list()
-    generate_playlist()
+    print("选择要执行的操作:")
+    print("1. 拉取源站配置")
+    print("2. 拉取 vbox 配置")
+    print("3. 拉取直播源")
+    print("4. 生成index.txt")
+
+    choice = input("请输入数字 (1/2/3/4): ")
+
+    if choice == "1":
+        get_url_json()
+    elif choice == "2":
+        get_vbox_config()
+    elif choice == "3":
+        get_iptv_list()
+    elif choice == "4":
+        generate_playlist()
+    else:
+        print("无效的选择。请输入 1、2、3 或 4。")
 
 
 if __name__ == "__main__":

@@ -3727,9 +3727,10 @@ CCTV风云足球,http://hls.live.cqccn.com/__cl/cg:live/__c/fyzqHD/__op/default/
 云浮公共,https://pili-live-hdl-ysx.tianma3600.com/gdyf/gdyfgg.m3u8
 云浮公共,https://pili-live-hdl-ysx.tianma3600.com/gdyf/gdyfgg.m3u8?zguangd
 港澳台,#genre#
-凤凰卫视中文台,https://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
-凤凰卫视中文台,http://awei.beimua.com/iptv.php?id=1
-凤凰卫视香港台,http://lcx-olt.8866.org:8181/tsfile/live/1071_1.m3u8
+凤凰中文,https://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
+凤凰中文,http://awei.beimua.com/iptv.php?id=1
+凤凰香港,http://lcx-olt.8866.org:8181/tsfile/live/1071_1.m3u8
+凤凰香港,http://lcx-olt.8866.org:8181/tsfile/live/1071_1.m3u8
 无线新闻,http://r.jdshipin.com/CkuBd
 无线新闻,http://radius.8866.org:800/hls/82/index.m3u8
 无线新闻,http://162.19.247.76:22222/live/tvbnews/index.m3u8
