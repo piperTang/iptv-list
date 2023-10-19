@@ -1,4 +1,4 @@
-//🇨🇳欧歌2023-10-19 18:44:43整合本接口
+//🇨🇳欧歌2023-10-19 19:02:28整合本接口
 
 {
 "wallpaper":"./t/",
@@ -37,7 +37,6 @@
 {"key":"py_cctvdc","name":"🇨🇳央视片库┃PY","type":3,"api":"py_cctv","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/py_cctvdc.json"},
 
 //阿里
-{"key":"csp_AListxy","name":"🐲️阿雃┃搜索","type":3,"jar":"./jar.php?id=xx;md5;caf2d12e5d059b70e2b2b7da5a09f743","api":"csp_AListxy","searchable":1,"quickSearch":1,"ext":{"drives":[{"name":"💃小雅搜索1","server":"http://124.71.206.236:5678","version":3},{"name":"💃小雅搜索2","server":"http://60.204.139.228:5678","version":3},{"name":"💃小雅搜索3","server":"http://182.116.92.150:5678","version":3},{"name":"💃小雅搜索4","server":"http://112.226.137.40:5678","version":3},{"name":"💃小雅搜索5","server":"http://115.57.11.199:5678","version":3},{"name":"💃小雅搜索6","server":"http://116.22.128.30:5678","version":3},{"name":"💃小雅搜索7","server":"http://117.63.42.183:5678","version":3}]}},
 
 
 //{"key":"csp_LocalFile","name":"💻本地视频","type":3,"api":"csp_LocalFile","searchable":0,"quickSearch":0,"filterable":0,"type_flag":0},
@@ -55,7 +54,7 @@
 {"key":"纸条","name":"❤️阿里｜纸条","type":3,"api":"csp_Paper","searchable":1,"filterable":0,"changeable":0,"ext": "http://127.0.0.1:9978/file/tvbox/token.txt"},
 
 
-
+{ "key": "MV_vod", "name": "🎸明星┃MV", "type": 1, "api": "https://tvbox-mv--leosam2048.repl.co/mv/vod", "searchable": 1, "quickSearch": 1, "filterable": 1 },
 //磁力资源区
 {"key": "csp_Mp4Mov","name": "🧲Mp4电影|磁力","type": 3,"api": "csp_Mp4Mov","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "csp_New6v","name": "🧲新6V|磁力","type": 3,"api": "csp_New6v","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"http://www.xb6v.com"},
@@ -226,8 +225,11 @@
 {"key":"csp_Czsapp","name":"💡厂长|直连","type":3,"api":"csp_Czsapp","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://cz01.me"},
 
 {"key":"csp_Ddys","name":"💡低端|直连","type":3,"api":"csp_Ddys","searchable":1,"quickSearch":1,"filterable":1},
-{ "key": "MV_vod", "name": "🎸明星┃MV", "type": 1, "api": "https://tvbox-mv--leosam2048.repl.co/mv/vod", "searchable": 1, "quickSearch": 1, "filterable": 1 },
+
 {"key":"csp_Alist","name":"🍰Alist┃网盘","type":3,"jar":"./jar.php?id=xx;md5;caf2d12e5d059b70e2b2b7da5a09f743","api":"csp_AList","searchable":1,"quickSearch":1,"ext":{"drives":[{"name":"🦆鸭鸭","server":"http://shicheng.wang:555/","version":3},{"name":"ECVE","server":"https://pan.ecve.cn","version":3},{"name":"觸光","server":"https://pan.ichuguang.com","version":3},{"name":"神族九帝","server":"https://alist.shenzjd.com","version":3},{"name":"小雅","server":"http://alist.xiaoya.pro","version":3},{"name":"觸光","server":"https://pan.ichuguang.com","version":3},{"name":"七米藍","server":"https://al.chirmyram.com","version":3},{"name":"神族九帝","server":"https://alist.shenzjd.com","version":3}]}},
+
+{"key":"csp_AListxy","name":"🍰阿雃┃云盘","type":3,"jar":"./jar.php?id=xx;md5;caf2d12e5d059b70e2b2b7da5a09f743","api":"csp_AListxy","searchable":1,"quickSearch":1,"ext":{"drives":[{"name":"💃小雅搜索1","server":"http://124.71.206.236:5678","version":3},{"name":"💃小雅搜索2","server":"http://60.204.139.228:5678","version":3},{"name":"💃小雅搜索3","server":"http://182.116.92.150:5678","version":3},{"name":"💃小雅搜索4","server":"http://112.226.137.40:5678","version":3},{"name":"💃小雅搜索5","server":"http://115.57.11.199:5678","version":3},{"name":"💃小雅搜索6","server":"http://116.22.128.30:5678","version":3},{"name":"💃小雅搜索7","server":"http://117.63.42.183:5678","version":3}]}},
+
 
 {"key" : "drpy_js_榜单荐片4","name" : "软件接口免费","type" : 3,"api":"./lib/apiv71apiv71drpy2.min.js","ext":"./lib/drpy.js"},
 {"key" : "drpy_js_榜单荐片3","name" : "长期维护，切勿贩卖。","type" : 3,"api":"./lib/drpy2.min.js","ext":"./lib/drpy.js"}
