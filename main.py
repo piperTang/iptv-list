@@ -115,14 +115,44 @@ def get_iptv_list():
             finally:
                 file.close()
 
+
 # 生成节目单
 def generate_playlist():
-    # 循环打开节目生成模板下的所有文件
+    # 定义文件数组
+    file_list = ["央视频道", "卫视频道", "广东频道", "港澳台", "少儿频道"]
+    # 定义文件结果
+    result = []
+    # 循环打开 json 文件
+    for file_name in file_list:
+        with open("节目生成模板/" + file_name+'.json', "r", encoding="utf-8") as json_file:
+            template_data = json5.load(json_file)  # 加载 JSON 数据
+            # 先往 result 数组中写入标题
+            print(file_name)
+            result.append(f"{file_name},#genre#\n")
+            # 对 JSON 数据进行循环
+            for item in template_data:
+                rules = item.get("rule", "")
+                for rule in rules:
+                    # 根据规则查找匹配的行并写入到 index.txt
+                    current_directory = os.getcwd() + "/直播源"
+                    iptv_files = os.listdir(current_directory)
 
+                    for iptv_file in iptv_files:
+                        with open(current_directory + "/" + iptv_file, "r", encoding="utf-8") as source_file:
+                            for line in source_file:
+                                if line.startswith(f"{rule},"):
+                                    # 防止重复写
+                                    if line not in result:
+                                        result.append(line)
+                                        print(result)
+            # 把数据写入到 index.txt
+            with open("index.txt", "w", encoding="utf-8") as output_file:
+                for line in result:
+                    output_file.write(line)
 
 
 def main():
-    get_iptv_list()
+    generate_playlist()
     # print("选择一个操作:")
     # print("1. 请求JSON数据并下载文件")
     # choice = input("输入数字选择操作: ")

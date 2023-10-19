@@ -1,8 +1,386 @@
 [
   {
+    "name": "熊猫频道",
+    "rule": [
+      "熊猫频道"
+    ]
+  },
+  {
     "name": "CCTV1",
     "rule": [
       "CCTV1"
+    ]
+  },
+  {
+    "name": "CCTV2",
+    "rule": [
+      "CCTV2"
+    ]
+  },
+  {
+    "name": "CCTV3",
+    "rule": [
+      "CCTV3"
+    ]
+  },
+  {
+    "name": "CCTV4",
+    "rule": [
+      "CCTV4"
+    ]
+  },
+  {
+    "name": "CCTV5",
+    "rule": [
+      "CCTV5"
+    ]
+  },
+  {
+    "name": "CCTV5+",
+    "rule": [
+      "CCTV5+"
+    ]
+  },
+  {
+    "name": "CCTV6",
+    "rule": [
+      "CCTV6"
+    ]
+  },
+  {
+    "name": "CCTV7",
+    "rule": [
+      "CCTV7"
+    ]
+  },
+  {
+    "name": "CCTV8",
+    "rule": [
+      "CCTV8"
+    ]
+  },
+  {
+    "name": "CCTV9",
+    "rule": [
+      "CCTV9"
+    ]
+  },
+  {
+    "name": "CCTV10",
+    "rule": [
+      "CCTV10"
+    ]
+  },
+  {
+    "name": "CCTV11",
+    "rule": [
+      "CCTV11"
+    ]
+  },
+  {
+    "name": "CCTV12",
+    "rule": [
+      "CCTV12"
+    ]
+  },
+  {
+    "name": "CCTV13",
+    "rule": [
+      "CCTV13"
+    ]
+  },
+  {
+    "name": "CCTV14",
+    "rule": [
+      "CCTV14"
+    ]
+  },
+  {
+    "name": "CCTV15",
+    "rule": [
+      "CCTV15"
+    ]
+  },
+  {
+    "name": "CCTV17",
+    "rule": [
+      "CCTV17"
+    ]
+  },
+  {
+    "name": "CCTV16",
+    "rule": [
+      "CCTV16"
+    ]
+  },
+  {
+    "name": "CETV1",
+    "rule": [
+      "CETV1"
+    ]
+  },
+  {
+    "name": "CETV2",
+    "rule": [
+      "CETV2"
+    ]
+  },
+  {
+    "name": "CETV3",
+    "rule": [
+      "CETV3"
+    ]
+  },
+  {
+    "name": "CETV4",
+    "rule": [
+      "CETV4"
+    ]
+  },
+  {
+    "name": "CCTV女性时尚",
+    "rule": [
+      "CCTV女性时尚"
+    ]
+  },
+  {
+    "name": "CCTV世界地理",
+    "rule": [
+      "CCTV世界地理"
+    ]
+  },
+  {
+    "name": "CCTV怀旧剧场",
+    "rule": [
+      "CCTV怀旧剧场"
+    ]
+  },
+  {
+    "name": "CCTV第一剧场",
+    "rule": [
+      "CCTV第一剧场"
+    ]
+  },
+  {
+    "name": "CCTV风云剧场",
+    "rule": [
+      "CCTV风云剧场"
+    ]
+  },
+  {
+    "name": "CCTV兵器科技",
+    "rule": [
+      "CCTV兵器科技"
+    ]
+  },
+  {
+    "name": "CCTV风云音乐",
+    "rule": [
+      "CCTV风云音乐"
+    ]
+  },
+  {
+    "name": "CCTV央视文化精品",
+    "rule": [
+      "CCTV央视文化精品"
+    ]
+  },
+  {
+    "name": "CCTV电视指南",
+    "rule": [
+      "CCTV电视指南"
+    ]
+  },
+  {
+    "name": "CCTV央视台球",
+    "rule": [
+      "CCTV央视台球"
+    ]
+  },
+  {
+    "name": "CCTV央视网球",
+    "rule": [
+      "CCTV央视网球"
+    ]
+  },
+  {
+    "name": "CHC高清电影",
+    "rule": [
+      "CHC高清电影"
+    ]
+  },
+  {
+    "name": "CHC家庭影院",
+    "rule": [
+      "CHC家庭影院"
+    ]
+  },
+  {
+    "name": "CHC动作电影",
+    "rule": [
+      "CHC动作电影"
+    ]
+  },
+  {
+    "name": "中央新影发现之旅",
+    "rule": [
+      "中央新影发现之旅"
+    ]
+  },
+  {
+    "name": "中央新影老故事",
+    "rule": [
+      "中央新影老故事"
+    ]
+  },
+  {
+    "name": "中央新影中学生",
+    "rule": [
+      "中央新影中学生"
+    ]
+  },
+  {
+    "name": "环球奇观",
+    "rule": [
+      "环球奇观"
+    ]
+  },
+  {
+    "name": "中国交通",
+    "rule": [
+      "中国交通"
+    ]
+  },
+  {
+    "name": "早期教育",
+    "rule": [
+      "早期教育"
+    ]
+  },
+  {
+    "name": "中国教育1台",
+    "rule": [
+      "中国教育1台"
+    ]
+  },
+  {
+    "name": "CCTV4欧洲",
+    "rule": [
+      "CCTV4欧洲"
+    ]
+  },
+  {
+    "name": "CCTV4美洲",
+    "rule": [
+      "CCTV4美洲"
+    ]
+  },
+  {
+    "name": "新华中文",
+    "rule": [
+      "新华中文"
+    ]
+  },
+  {
+    "name": "新华海外",
+    "rule": [
+      "新华海外"
+    ]
+  },
+  {
+    "name": "CGTN-新闻频道",
+    "rule": [
+      "CGTN-新闻频道"
+    ]
+  },
+  {
+    "name": "CGTN-纪录频道",
+    "rule": [
+      "CGTN-纪录频道"
+    ]
+  },
+  {
+    "name": "CGTN法语频道",
+    "rule": [
+      "CGTN法语频道"
+    ]
+  },
+  {
+    "name": "CGTN俄语频道",
+    "rule": [
+      "CGTN俄语频道"
+    ]
+  },
+  {
+    "name": "CGTN西班牙语频道",
+    "rule": [
+      "CGTN西班牙语频道"
+    ]
+  },
+  {
+    "name": "CGTN阿拉伯语频道",
+    "rule": [
+      "CGTN阿拉伯语频道"
+    ]
+  },
+  {
+    "name": "CGTN拉丁美洲频道",
+    "rule": [
+      "CGTN拉丁美洲频道"
+    ]
+  },
+  {
+    "name": "CEC国际汉语文化",
+    "rule": [
+      "CEC国际汉语文化"
+    ]
+  },
+  {
+    "name": "CEC国际旅游",
+    "rule": [
+      "CEC国际旅游"
+    ]
+  },
+  {
+    "name": "CEC国际教育",
+    "rule": [
+      "CEC国际教育"
+    ]
+  },
+  {
+    "name": "CEC国际健康",
+    "rule": [
+      "CEC国际健康"
+    ]
+  },
+  {
+    "name": "CNC中文",
+    "rule": [
+      "CNC中文"
+    ]
+  },
+  {
+    "name": "CEC汉语文化",
+    "rule": [
+      "CEC汉语文化"
+    ]
+  },
+  {
+    "name": "CCTV风云足球",
+    "rule": [
+      "CCTV风云足球"
+    ]
+  },
+  {
+    "name": "书画频道",
+    "rule": [
+      "书画频道"
+    ]
+  },
+  {
+    "name": "中央新影_老故事",
+    "rule": [
+      "中央新影_老故事"
     ]
   }
 ]
