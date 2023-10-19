@@ -11,7 +11,7 @@ def get_url_json():
     response = requests.get(url)
     if response.status_code == 200:
         with open("url.json", "wb") as file:
-            print(response.content)
+            # print(response.content)
             file.write(response.content)
         print("已下载文件: url.json")
 
@@ -124,7 +124,7 @@ def generate_playlist():
     result = []
     # 循环打开 json 文件
     for file_name in file_list:
-        with open("节目生成模板/" + file_name+'.json', "r", encoding="utf-8") as json_file:
+        with open("节目生成模板/" + file_name + '.json', "r", encoding="utf-8") as json_file:
             template_data = json5.load(json_file)  # 加载 JSON 数据
             # 先往 result 数组中写入标题
             print(file_name)
@@ -149,18 +149,15 @@ def generate_playlist():
             with open("index.txt", "w", encoding="utf-8") as output_file:
                 for line in result:
                     output_file.write(line)
+                # 文件写入成功
+                print("已写入文件: index.txt")
 
 
 def main():
+    get_url_json()
+    get_vbox_config()
+    get_iptv_list()
     generate_playlist()
-    # print("选择一个操作:")
-    # print("1. 请求JSON数据并下载文件")
-    # choice = input("输入数字选择操作: ")
-    #
-    # if choice == "1":
-    #     download_json()
-    # else:
-    #     print("无效的选择。")
 
 
 if __name__ == "__main__":
