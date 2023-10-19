@@ -204,6 +204,8 @@ def generate_playlist():
                                         if check_iptv(play_url):
                                             result.append(line)
                                             print("(直播源可用)" + name + ":" + play_url)
+                                        else:
+                                            print("(跳过直播源)" + name + ":" + play_url)
 
             # 把数据写入到 index.txt
             with open("index.txt", "w", encoding="utf-8") as output_file:

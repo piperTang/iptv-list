@@ -45,7 +45,10 @@
     "name": "有线新闻",
     "rule": [
       "有线新闻",
-      "有线新闻台"
+      "有线新闻台",
+      "有线直播",
+      "有线直播新闻",
+      "香港有线直播新闻台"
     ]
   },
   {
@@ -166,6 +169,55 @@
     "name": "RTHK33 FHD",
     "rule": [
       "RTHK33 FHD"
+    ]
+  },
+    {
+    "name": "CNA新闻",
+    "rule": [
+      "CNA International (1080p)",
+      "CNA新闻",
+      "CNA 938",
+      "CNA亞洲新聞",
+      "CNA News",
+      "CNA(备)",
+      "CNA(1080p)[480*270]"
+    ]
+  },
+    {
+    "name": "BBC新闻",
+    "rule": [
+      "BBC News",
+      "BBC WORLD NEWS",
+      "BBC America",
+      "BBC1[1280x720]",
+      "BBC2[1280x720]",
+      "BBCEarthHD[1280x720]",
+      "BBCWorldNews[1280x720]",
+      "BBCEarthHD",
+      "BBC World News(备)",
+      "BBC Earth(备)",
+      "BBC World News(备)",
+      "BBC World News HD"
+    ]
+  },
+    {
+    "name": "CNN新闻",
+    "rule": [
+      "CNN",
+      "CNN[1280x720]",
+      "CNN(备)",
+      "CNN USA(备)",
+      "CNN HD"
+    ]
+  },
+    {
+    "name": "半岛新闻",
+    "rule": [
+      "半岛新闻",
+      "半岛国际新闻",
+      "CNN(备)",
+      "CNN USA(备)",
+      "CNN HD"
     ]
   }
 ]
