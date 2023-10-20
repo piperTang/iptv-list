@@ -42,7 +42,7 @@
     ]
   },
   {
-    "name": "有线新闻",
+    "name": "HOY资讯",
     "rule": [
       "有线新闻",
       "有线新闻台",
@@ -94,7 +94,7 @@
     ]
   },
   {
-    "name": "TVBRICS",
+    "name": "TV BRICS",
     "rule": [
       "TVBRICS"
     ]
