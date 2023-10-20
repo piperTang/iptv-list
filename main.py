@@ -169,9 +169,7 @@ def check_iptv(url):
 
 
 # 生成节目单
-def generate_playlist():
-    # 定义文件数组
-    file_list = ["央视频道", "卫视频道", "广东频道", "港澳台", "少儿频道"]
+def generate_playlist(file_list):
     # 定义文件结果
     result = []
     # 循环打开 json 文件
@@ -207,12 +205,36 @@ def generate_playlist():
                                         else:
                                             print("(跳过直播源)" + name + ":" + play_url)
 
-            # 把数据写入到 index.txt
-            with open("index.txt", "w", encoding="utf-8") as output_file:
+            # 把数据写入到 节目列表文件夹
+            with open("节目列表/" + file_name + ".txt", "w", encoding="utf-8") as output_file:
                 for line in result:
                     output_file.write(line)
                 # 文件写入成功
-                print("已写入文件: index.txt")
+                print("已写入文件: " + file_name + ".txt")
+                # 清空 result 数组
+                result.clear()
+
+
+# 读取节目列表所有文件，合并到index.txt
+def merge_playlist():
+    file_list = ["央视频道", "卫视频道", "广东频道", "港澳台", "少儿频道"]
+    # 获取当前目录下的所有文件
+    current_directory = os.getcwd() + "/节目列表"
+    playlist_files = [f for f in os.listdir(current_directory) if f.endswith(".txt")]
+
+    # 打开或创建 index.txt 文件，以覆盖模式写入
+    with open("index.txt", "w", encoding="utf-8") as index_file:
+        # 遍历每个文件名，按照指定顺序合并文件
+        for file_name in file_list:
+            if file_name + ".txt" in playlist_files:
+                print("正在合并: " + file_name + ".txt")
+                with open("节目列表/" + file_name + ".txt", "r", encoding="utf-8") as source_file:
+                    # 读取每个节目列表文件的内容并写入到 index.txt
+                    for line in source_file:
+                        index_file.write(line)
+
+    # 文件写入成功
+    print("已覆盖文件: index.txt")
 
 
 def main():
@@ -220,10 +242,11 @@ def main():
     print("1. 拉取源站配置")
     print("2. 拉取 vbox 配置")
     print("3. 拉取直播源")
-    print("4. 生成index.txt")
-    print("5. 以上全部执行")
+    print("4. 生成节目txt文件")
+    print("5. 合并所有节目txt文件")
+    print("6. 以上全部执行")
 
-    choice = input("请输入数字 (1/2/3/4/5): ")
+    choice = input("请输入数字 (1/2/3/4/5/6): ")
 
     if choice == "1":
         get_url_json()
@@ -232,14 +255,41 @@ def main():
     elif choice == "3":
         get_iptv_list()
     elif choice == "4":
-        generate_playlist()
+        file_list = []
+        # 手动输入模板
+        print("选择要生成的模板:")
+        print("1. 央视频道")
+        print("2. 卫视频道")
+        print("3. 广东频道")
+        print("4. 港澳台")
+        print("5. 少儿频道")
+        print("6. 以上全部生成")
+        choice = input("请输入数字 (1/2/3/4/5/6): ")
+        if choice == "1":
+            file_list = ["央视频道"]
+        elif choice == "2":
+            file_list = ["卫视频道"]
+        elif choice == "3":
+            file_list = ["广东频道"]
+        elif choice == "4":
+            file_list = ["港澳台"]
+        elif choice == "5":
+            file_list = ["少儿频道"]
+        elif choice == "6":
+            file_list = ["央视频道", "卫视频道", "广东频道", "港澳台", "少儿频道"]
+        generate_playlist(file_list)
     elif choice == "5":
+        merge_playlist()
+
+    elif choice == "6":
+        file_list = ["央视频道", "卫视频道", "广东频道", "港澳台", "少儿频道"]
         get_url_json()
         get_vbox_config()
         get_iptv_list()
-        generate_playlist()
+        generate_playlist(file_list)
+        merge_playlist()
     else:
-        print("无效的选择。请输入 1、2、3、4或 5。")
+        print("无效的选择。请输入 1、2、3、4、5或 6。")
 
 
 if __name__ == "__main__":
