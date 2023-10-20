@@ -1,5 +1,5 @@
 """
-cron: 8  8 * * *
+cron: 1  1 * * *
 new Env('自动更新iptv节目');
 """
 import os
