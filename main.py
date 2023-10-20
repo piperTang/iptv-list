@@ -172,6 +172,11 @@ def check_iptv(url):
 def generate_playlist(file_list):
     # 定义文件结果
     result = []
+    # 读取黑名单文件
+    blacklist = set()
+    with open("节目列表/黑名单.txt", "r", encoding="utf-8") as blacklist_file:
+        for line in blacklist_file:
+            blacklist.add(line.strip())
     # 循环打开 json 文件
     for file_name in file_list:
         with open("节目生成模板/" + file_name + '.json', "r", encoding="utf-8") as json_file:
@@ -198,12 +203,20 @@ def generate_playlist(file_list):
                                         line = line.replace(f"{rule},", name + ",")
                                         # 根据逗号拆分，获取url
                                         play_url = line.split(",")[1]
+                                        if play_url in blacklist:
+                                            print("(直播源在黑名单中)" + name + ":" + play_url)
+                                            continue
                                         # 检测直播源是否可用
                                         if check_iptv(play_url):
                                             result.append(line)
                                             print("(直播源可用)" + name + ":" + play_url)
                                         else:
-                                            print("(跳过直播源)" + name + ":" + play_url)
+                                            # 添加到黑名单
+                                            blacklist.add(play_url)
+                                            # 把不可用的直播源写入黑名单文件
+                                            with open("节目列表/黑名单.txt", "a", encoding="utf-8") as blacklist_file:
+                                                blacklist_file.write(play_url + "\n")
+                                            print("(直播源失效，写入黑名单)" + name + ": " + play_url)
 
             # 把数据写入到 节目列表文件夹
             with open("节目列表/" + file_name + ".txt", "w", encoding="utf-8") as output_file:
