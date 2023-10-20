@@ -5,7 +5,6 @@
 金鹰卡通,http://lovegfs.top:8000/udp/239.120.1.139:8892
 金鹰卡通,http://lovegfs.top:8000/udp/239.120.2.53:5141
 金鹰卡通,http://lovegfs.top:8000/udp/239.120.2.60:5141
-金鹰卡通,https://cntv.sbs/tv?auth=231013&id=jykt
 金鹰卡通,http://223.151.51.27:85/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0
 优漫卡通,http://111.20.35.103:6610/000000001000/5574405527570022182/index.m3u8?channel-id=ystenlive&Contentid=5574405527570022182&livemode=1&stbId=00
 优漫卡通,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225795/index.m3u8
@@ -22,7 +21,6 @@
 哈哈炫动,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226213/index.m3u8
 哈哈炫动,http://lovegfs.top:8000/udp/239.120.2.50:5141
 哈哈炫动,http://lovegfs.top:8000/udp/239.120.2.134:5141
-哈哈炫动,https://cntv.sbs/tv?auth=231013&id=hhxd
 哈哈炫动,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001232/index.m3u8?
 哈哈炫动,https://cntv.sbs/v6?auth=2307280808&id=232
 哈哈炫动,http://222.71.90.218:8888/newlive/live/hls/52/live.m3u8
@@ -34,7 +32,6 @@
 嘉佳卡通,http://lovegfs.top:8000/udp/239.120.1.108:8640
 嘉佳卡通,http://lovegfs.top:8000/udp/239.120.2.30:5141
 嘉佳卡通,http://lovegfs.top:8000/udp/239.120.2.45:5141
-嘉佳卡通,https://cntv.sbs/tv?auth=231013&id=jjkt
 CCTV14,http://123.6.9.146/live/jz-cctv-14/live.m3u8?zyangd
 CCTV14,http://222.71.90.218:8888/newlive/live/hls/15/live.m3u8
 CCTV14,http://1.195.111.251:11190/tsfile/live/0014_1.m3u8
@@ -44,7 +41,6 @@ CCTV14,http://111.20.35.103:6610/000000001000/1000000001000008170/index.m3u8?cha
 CCTV14,http://221.0.78.198:1681/hls/10214/index.m3u8
 CCTV14,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226193/index.m3u8
 CCTV14,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226193/index.m3u8
-CCTV14,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226193/1.m3u8
 CCTV14,http://59.47.226.94:8880/sql/2605/hls.m3u8
 CCTV14,http://china.733240.com/cqyx.php?id=cctvseHD
 CCTV14,http://[2409:8087:2001:20:2800:0:df6e:eb22]/wh7f454c46tw340147088_1594094424/ott.mobaibox.com/PLTV/3/224/3221228292/index.m3u8?icpid=3&RTS=1668595134&from=40&popid=40&hms_devid=2291&prioritypopid=40&vqe=3
@@ -56,7 +52,6 @@ CCTV14,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226645/1.m
 CCTV14,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226663/1.m3u8
 CCTV14,http://hls.live.cqccn.com/__cl/cg:live/__c/cctvseHD/__op/default/__f/index.m3u8
 动漫秀场,http://lovegfs.top:8000/udp/239.120.1.219:9328
-动漫秀场,https://cntv.sbs/tv?auth=231013&id=dmxc
 动漫秀场,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001196/index.m3u8?
 南京少儿,http://live.nbs.cn/channels/njtv/sepd/500k.m3u8
 南京少儿,http://live.nbs.cn/channels/njtv/sepd/m3u8:500k/live.m3u8

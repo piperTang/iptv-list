@@ -136,7 +136,7 @@ def readM3U8(url):
 
     # 获取m3u8中的片段ts文件
     # 需要替换 ../
-    list = str.split("\n");
+    list = str.split("\n")
     for str in list:
 
         if str.find(".ts") != -1:
@@ -215,7 +215,7 @@ def generate_playlist(file_list):
                                             blacklist.add(play_url)
                                             # 把不可用的直播源写入黑名单文件
                                             with open("节目列表/黑名单.txt", "a", encoding="utf-8") as blacklist_file:
-                                                blacklist_file.write(play_url + "\n")
+                                                blacklist_file.write(play_url)
                                             print("(直播源失效，写入黑名单)" + name + ": " + play_url)
 
             # 把数据写入到 节目列表文件夹
