@@ -1,3 +1,7 @@
+"""
+cron: 8  8 * * *
+new Env('自动更新iptv节目');
+"""
 import os
 import time
 import json5
@@ -238,58 +242,64 @@ def merge_playlist():
 
 
 def main():
-    print("选择要执行的操作:")
-    print("1. 拉取源站配置")
-    print("2. 拉取 vbox 配置")
-    print("3. 拉取直播源")
-    print("4. 生成节目txt文件")
-    print("5. 合并所有节目txt文件")
-    print("6. 以上全部执行")
-
-    choice = input("请输入数字 (1/2/3/4/5/6): ")
-
-    if choice == "1":
-        get_url_json()
-    elif choice == "2":
-        get_vbox_config()
-    elif choice == "3":
-        get_iptv_list()
-    elif choice == "4":
-        file_list = []
-        # 手动输入模板
-        print("选择要生成的模板:")
-        print("1. 央视频道")
-        print("2. 卫视频道")
-        print("3. 广东频道")
-        print("4. 港澳台")
-        print("5. 少儿频道")
-        print("6. 以上全部生成")
-        choice = input("请输入数字 (1/2/3/4/5/6): ")
-        if choice == "1":
-            file_list = ["央视频道"]
-        elif choice == "2":
-            file_list = ["卫视频道"]
-        elif choice == "3":
-            file_list = ["广东频道"]
-        elif choice == "4":
-            file_list = ["港澳台"]
-        elif choice == "5":
-            file_list = ["少儿频道"]
-        elif choice == "6":
-            file_list = ["央视频道", "卫视频道", "广东频道", "港澳台", "少儿频道"]
-        generate_playlist(file_list)
-    elif choice == "5":
-        merge_playlist()
-
-    elif choice == "6":
-        file_list = ["央视频道", "卫视频道", "广东频道", "港澳台", "少儿频道"]
-        get_url_json()
-        get_vbox_config()
-        get_iptv_list()
-        generate_playlist(file_list)
-        merge_playlist()
-    else:
-        print("无效的选择。请输入 1、2、3、4、5或 6。")
+    file_list = ["央视频道", "卫视频道", "广东频道", "港澳台", "少儿频道"]
+    get_url_json()
+    get_vbox_config()
+    get_iptv_list()
+    generate_playlist(file_list)
+    merge_playlist()
+    # print("选择要执行的操作:")
+    # print("1. 拉取源站配置")
+    # print("2. 拉取 vbox 配置")
+    # print("3. 拉取直播源")
+    # print("4. 生成节目txt文件")
+    # print("5. 合并所有节目txt文件")
+    # print("6. 以上全部执行")
+    #
+    # choice = input("请输入数字 (1/2/3/4/5/6): ")
+    #
+    # if choice == "1":
+    #     get_url_json()
+    # elif choice == "2":
+    #     get_vbox_config()
+    # elif choice == "3":
+    #     get_iptv_list()
+    # elif choice == "4":
+    #     file_list = []
+    #     # 手动输入模板
+    #     print("选择要生成的模板:")
+    #     print("1. 央视频道")
+    #     print("2. 卫视频道")
+    #     print("3. 广东频道")
+    #     print("4. 港澳台")
+    #     print("5. 少儿频道")
+    #     print("6. 以上全部生成")
+    #     choice = input("请输入数字 (1/2/3/4/5/6): ")
+    #     if choice == "1":
+    #         file_list = ["央视频道"]
+    #     elif choice == "2":
+    #         file_list = ["卫视频道"]
+    #     elif choice == "3":
+    #         file_list = ["广东频道"]
+    #     elif choice == "4":
+    #         file_list = ["港澳台"]
+    #     elif choice == "5":
+    #         file_list = ["少儿频道"]
+    #     elif choice == "6":
+    #         file_list = ["央视频道", "卫视频道", "广东频道", "港澳台", "少儿频道"]
+    #     generate_playlist(file_list)
+    # elif choice == "5":
+    #     merge_playlist()
+    #
+    # elif choice == "6":
+    #     file_list = ["央视频道", "卫视频道", "广东频道", "港澳台", "少儿频道"]
+    #     get_url_json()
+    #     get_vbox_config()
+    #     get_iptv_list()
+    #     generate_playlist(file_list)
+    #     merge_playlist()
+    # else:
+    #     print("无效的选择。请输入 1、2、3、4、5或 6。")
 
 
 if __name__ == "__main__":
