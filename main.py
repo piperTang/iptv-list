@@ -262,8 +262,7 @@ def merge_playlist():
 
 
 def main():
-    # file_list = ["央视频道", "卫视频道", "广东频道", "港澳台", "少儿频道"]
-    file_list = ["港澳台"]
+    file_list = ["央视频道", "卫视频道", "广东频道", "港澳台", "少儿频道"]
     get_url_json()
     get_vbox_config()
     get_iptv_list()
