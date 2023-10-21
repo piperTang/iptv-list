@@ -120,15 +120,12 @@ def get_iptv_list():
 # 检测直播源是否可用
 def check_iptv(url):
     try:
-        response = requests.get(url)
-        if response.status_code == 200:
-            print(f'M3U8链接 {url} 可用')
-            return True
-        else:
-            print(f'M3U8链接 {url} 不可用，状态码：{response.status_code}')
-            return False
-    except requests.exceptions.RequestException as e:
-        print(f'无法访问M3U8链接 {url}: {e}')
+        with request.urlopen(url) as file:
+            if file.status != 200:
+                return False
+            else:
+                return True
+    except BaseException as err:
         return False
 
 
@@ -199,7 +196,7 @@ def generate_playlist(file_list):
     # 把黑名单写入到文件
     with open("节目列表/黑名单.txt", "w", encoding="utf-8") as blacklist_file:
         for line in blacklist:
-            blacklist_file.write(line + "\n")
+            blacklist_file.write(line)
     print("已写入文件: 黑名单.txt")
 
 
