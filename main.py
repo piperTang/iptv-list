@@ -117,54 +117,18 @@ def get_iptv_list():
                 file.close()
 
 
-# 替换字符串string中指定位置p的字符为c
-def sub(string, p, c):
-    new = []
-    for s in string:
-        new.append(s)
-    new[p] = c
-    return ''.join(new)
-
-
-def readM3U8(url):
-    s_url = None
-    response = requests.get(url)
-    response.encoding = 'utf-8'
-    str = response.text
-    result = urlparse(url)
-    url_tou = result[0] + '://' + result[1]
-
-    # 获取m3u8中的片段ts文件
-    # 需要替换 ../
-    list = str.split("\n")
-    for str in list:
-
-        if str.find(".ts") != -1:
-            # 特殊格式==>回退目录
-            if (str.find("../../../../..") != -1):
-                s_url = str.replace("../../../../..", url_tou)
-            # 普通格式，直接替换，如果ts文件的开头是/则表示根目录
-            else:
-                if str[0:1] == '/':
-                    s_url = sub(str, 0, url_tou + "/")
-                else:
-                    pos = url.rfind("/")
-                    s_url = url.replace(url[pos:], "/" + str)
-
-            break
-
-    return check_iptv(s_url)
-
-
 # 检测直播源是否可用
 def check_iptv(url):
     try:
-        with request.urlopen(url) as file:
-            if file.status != 200:
-                return False
-            else:
-                return True
-    except BaseException as err:
+        response = requests.get(url)
+        if response.status_code == 200:
+            print(f'M3U8链接 {url} 可用')
+            return True
+        else:
+            print(f'M3U8链接 {url} 不可用，状态码：{response.status_code}')
+            return False
+    except requests.exceptions.RequestException as e:
+        print(f'无法访问M3U8链接 {url}: {e}')
         return False
 
 
