@@ -137,7 +137,7 @@ def generate_playlist(file_list):
     blacklist = set()
     with open("节目列表/黑名单.txt", "r", encoding="utf-8") as blacklist_file:
         for line in blacklist_file:
-            blacklist.add(line.strip())
+            blacklist.add(line)
     # 循环打开 json 文件
     for file_name in file_list:
         with open("节目生成模板/" + file_name + '.json', "r", encoding="utf-8") as json_file:
@@ -173,7 +173,7 @@ def generate_playlist(file_list):
                                             print("(直播源可用)" + name + ":" + play_url)
                                         else:
                                             # 添加到黑名单
-                                            blacklist.add(play_url + "\n")
+                                            blacklist.add(play_url)
                                             print("(直播源失效，加入黑名单)" + name + ": " + play_url)
 
             # 把数据写入到 节目列表文件夹
