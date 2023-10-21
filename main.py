@@ -210,7 +210,6 @@ def generate_playlist(file_list):
                                                 # 直播源不可用，进行处理
                                                 blacklist.add(key)
                                                 print("(直播源失效，加入黑名单)" + name + ": " + key)
-            print("---------------------------------------------------------------------------------")
             # 把数据写入到 节目列表文件夹
             with open("节目列表/" + file_name + ".txt", "w", encoding="utf-8") as output_file:
                 # 定义一个数组，用于存储已经写入的行
