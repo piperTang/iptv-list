@@ -1,4 +1,5 @@
 import os
+import threading
 import time
 import json5
 import requests
@@ -145,13 +146,6 @@ def generate_playlist(file_list):
     # 读取黑名单文件
     blacklist = set()
 
-    # 创建线程列表
-    threads = []
-
-    # 创建一个共享的字典
-    manager = Manager()
-    result_dict = manager.dict()
-
     with open("节目列表/黑名单.txt", "r", encoding="utf-8") as blacklist_file:
         for line in blacklist_file:
             blacklist.add(line)
@@ -162,6 +156,14 @@ def generate_playlist(file_list):
             # 先往 result 数组中写入标题
             print(file_name)
             result.append(f"{file_name},#genre#\n")
+
+            # 创建线程列表
+            threads = []
+
+            # 创建一个共享的字典
+            manager = Manager()
+            result_dict = manager.dict()
+
             # 对 JSON 数据进行循环
             for item in template_data:
                 name = item.get("name", "")
