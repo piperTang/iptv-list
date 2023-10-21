@@ -120,15 +120,12 @@ def get_iptv_list():
 # 检测直播源是否可用
 def check_iptv(url):
     try:
-        response = requests.get(url)
-        if response.status_code == 200:
-            print(f'M3U8链接 {url} 可用')
-            return True
-        else:
-            print(f'M3U8链接 {url} 不可用，状态码：{response.status_code}')
-            return False
-    except requests.exceptions.RequestException as e:
-        print(f'无法访问M3U8链接 {url}: {e}')
+        with request.urlopen(url) as file:
+            if file.status != 200:
+                return False
+            else:
+                return True
+    except BaseException as err:
         return False
 
 
