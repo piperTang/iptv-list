@@ -263,10 +263,19 @@ def merge_playlist():
 
 def main():
     file_list = ["央视频道", "卫视频道", "广东频道", "港澳台", "少儿频道"]
-    get_url_json()
-    get_vbox_config()
-    get_iptv_list()
-    generate_playlist(file_list)
+    # 创建多线程并行执行各个功能模块
+    threads = []
+    threads.append(threading.Thread(target=get_url_json))
+    threads.append(threading.Thread(target=get_vbox_config))
+    threads.append(threading.Thread(target=get_iptv_list))
+    threads.append(threading.Thread(target=generate_playlist, args=(file_list,)))
+
+    for thread in threads:
+        thread.start()
+
+    for thread in threads:
+        thread.join()
+
     merge_playlist()
 
 
