@@ -213,19 +213,30 @@ def generate_playlist(file_list):
                                         else:
                                             # 添加到黑名单
                                             blacklist.add(play_url)
-                                            # 把不可用的直播源写入黑名单文件
-                                            with open("节目列表/黑名单.txt", "a", encoding="utf-8") as blacklist_file:
-                                                blacklist_file.write(play_url)
-                                            print("(直播源失效，写入黑名单)" + name + ": " + play_url)
+                                            print("(直播源失效，加入黑名单)" + name + ": " + play_url)
 
             # 把数据写入到 节目列表文件夹
             with open("节目列表/" + file_name + ".txt", "w", encoding="utf-8") as output_file:
+                # 定义一个数组，用于存储已经写入的行
+                written_lines = []
                 for line in result:
+                    # 防止重复写
+                    if line in written_lines:
+                        continue
+                    else:
+                        written_lines.append(line)
                     output_file.write(line)
                 # 文件写入成功
                 print("已写入文件: " + file_name + ".txt")
                 # 清空 result 数组
                 result.clear()
+    # 对黑名单进行去重
+    blacklist = set(blacklist)
+    # 把黑名单写入到文件
+    with open("节目列表/黑名单.txt", "w", encoding="utf-8") as blacklist_file:
+        for line in blacklist:
+            blacklist_file.write(line + "\n")
+    print("已写入文件: 黑名单.txt")
 
 
 # 读取节目列表所有文件，合并到index.txt
