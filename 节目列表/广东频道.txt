@@ -1,10 +1,8 @@
 广东频道,#genre#
 广东珠江,http://v2.91kds.cn/b9/itouchv3.m3u8?id=gdzj&auth=rinimabi
 广东珠江,http://9.zhxinda.xyz/gdtv.php?pk=1183
-广东珠江,http://www.namewee.xyz/gudou.php?id=364&id=gdzhujiangHD_7500
 广东公共,http://111.221.137.154:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=0&authid=0
 广东公共,http://9.zhxinda.xyz/gdtv.php?pk=1185
-大湾区卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226218/index.m3u8
 大湾区卫视,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226218/index.m3u8?
 大湾区卫视,http://111.20.35.103:6610/000000001000/1000000002000011619/index.m3u8?channel-id=ystenlive&Contentid=1000000002000011619&livemode=1&stbId=00
 大湾区卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226218/index.m3u8?
