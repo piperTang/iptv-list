@@ -1,4 +1,5 @@
 import os
+import threading
 import time
 import json5
 import requests
@@ -128,6 +129,16 @@ def check_iptv(url):
     except BaseException as err:
         return False
 
+# 修改new_check_iptv()函数，以将结果存储在共享数据结构中
+def new_check_iptv(url, result_dict):
+    try:
+        response = requests.get(url)
+        if response.status_code == 200:
+            result_dict[url] = True
+        else:
+            result_dict[url] = False
+    except requests.exceptions.RequestException as e:
+        result_dict[url] = False
 
 # 生成节目单
 def generate_playlist(file_list):
@@ -154,6 +165,12 @@ def generate_playlist(file_list):
                     current_directory = os.getcwd() + "/直播源"
                     iptv_files = os.listdir(current_directory)
 
+                    # 创建一个字典来存储检查结果
+                    result_dict = {}
+
+                    # 创建线程列表
+                    threads = []
+
                     for iptv_file in iptv_files:
                         with open(current_directory + "/" + iptv_file, "r", encoding="utf-8") as source_file:
                             for line in source_file:
@@ -168,13 +185,32 @@ def generate_playlist(file_list):
                                             print("(直播源在黑名单中)" + name + ":" + play_url)
                                             continue
                                         # 检测直播源是否可用
-                                        if check_iptv(play_url):
-                                            result.append(line)
-                                            print("(直播源可用)" + name + ":" + play_url)
-                                        else:
-                                            # 添加到黑名单
-                                            blacklist.add(play_url + "\n")
-                                            print("(直播源失效，加入黑名单)" + name + ": " + play_url)
+                                        # 创建线程并启动它，将new_check_iptv()函数传递给线程
+                                        thread = threading.Thread(target=new_check_iptv, args=(play_url, result_dict))
+                                        threads.append(thread)
+                                        thread.start()
+
+                    # 等待所有线程完成
+                    for thread in threads:
+                        thread.join()
+
+                    # 迭代检查结果，根据结果来生成节目列表
+                    for line in source_file:
+                        rule, name, play_url = line.strip().split(",")
+                        if result_dict.get(play_url, False):
+                            # 直播源可用，写入到结果文件
+                            result.append(line)
+                        else:
+                            # 直播源不可用，进行处理
+                            blacklist.add(play_url)
+                            print("(直播源失效，加入黑名单)" + name + ": " + play_url)
+                            # if check_iptv(play_url):
+                            #     result.append(line)
+                            #     print("(直播源可用)" + name + ":" + play_url)
+                            # else:
+                            #     # 添加到黑名单
+                            #     blacklist.add(play_url + "\n")
+                            #     print("(直播源失效，加入黑名单)" + name + ": " + play_url)
 
             # 把数据写入到 节目列表文件夹
             with open("节目列表/" + file_name + ".txt", "w", encoding="utf-8") as output_file:
