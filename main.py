@@ -241,8 +241,7 @@ def generate_playlist(file_list):
 
 # 读取节目列表所有文件，合并到index.txt
 def merge_playlist():
-    # file_list = ["央视频道", "卫视频道", "广东频道", "港澳台", "少儿频道"]
-    file_list = ["港澳台"]
+    file_list = ["央视频道", "卫视频道", "广东频道", "港澳台", "少儿频道"]
     # 获取当前目录下的所有文件
     current_directory = os.getcwd() + "/节目列表"
     playlist_files = [f for f in os.listdir(current_directory) if f.endswith(".txt")]
@@ -263,7 +262,8 @@ def merge_playlist():
 
 
 def main():
-    file_list = ["央视频道", "卫视频道", "广东频道", "港澳台", "少儿频道"]
+    # file_list = ["央视频道", "卫视频道", "广东频道", "港澳台", "少儿频道"]
+    file_list = ["港澳台"]
     get_url_json()
     get_vbox_config()
     get_iptv_list()
