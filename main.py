@@ -1,5 +1,4 @@
 import os
-import threading
 import time
 import json5
 import requests
@@ -127,7 +126,7 @@ def check_iptv(url):
                 return True
     except BaseException as err:
         return False
-    
+
 # 修改new_check_iptv()函数，以将结果存储在共享数据结构中
 def new_check_iptv(url, result_dict):
     try:
@@ -171,7 +170,7 @@ def generate_playlist(file_list):
                     # 根据规则查找匹配的行并写入到 index.txt
                     current_directory = os.getcwd() + "/直播源"
                     iptv_files = os.listdir(current_directory)
-                    
+
                     for iptv_file in iptv_files:
                         with open(current_directory + "/" + iptv_file, "r", encoding="utf-8") as source_file:
                             for line in source_file:
@@ -257,24 +256,12 @@ def merge_playlist():
     # 文件写入成功
     print("已覆盖文件: index.txt")
 
+
 def main():
     file_list = ["央视频道", "卫视频道", "广东频道", "港澳台", "少儿频道"]
-    # 创建多线程并行执行各个功能模块
-    # threads = []
-    # threads.append(threading.Thread(target=get_url_json))
-    # threads.append(threading.Thread(target=get_vbox_config))
-    # threads.append(threading.Thread(target=get_iptv_list))
-    # threads.append(threading.Thread(target=generate_playlist, args=(file_list,)))
-    #
-    # for thread in threads:
-    #     thread.start()
-    #
-    # for thread in threads:
-    #     thread.join()
-
-    # get_url_json()
-    # get_vbox_config()
-    # get_iptv_list()
+    get_url_json()
+    get_vbox_config()
+    get_iptv_list()
     generate_playlist(file_list)
     merge_playlist()
 

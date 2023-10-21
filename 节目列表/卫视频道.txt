@@ -64,7 +64,6 @@
 广东卫视,http://106.39.160.148/live.aishang.ctlcdn.com/00000110240137_1/playlist.m3u8?CONTENTID=00000110240137_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
 广东卫视,https://cntv.sbs/v6?auth=2307280808&id=032
 广东卫视,http://live.dxhmt.cn:9081/tv/11003-1.m3u8
-广东卫视,http://www.namewee.xyz/gudou.php?id=364&id=1401
 深圳卫视,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226205/index.m3u8?
 深圳卫视,http://221.2.36.34:8888/newlive/live/hls/28/live.m3u8
 深圳卫视,http://hls.live.cqccn.com/__cl/cg:live/__c/shenzhenHD/__op/default/__f/index.m3u8
@@ -164,7 +163,6 @@
 四川卫视,https://cntv.sbs/tv/v6.php?id=scwsH265
 四川卫视,https://cntv.sbs/v6?auth=2307280808&id=130
 四川卫视,http://lovegfs.top:8000/udp/239.120.1.147:8940
-重庆卫视,https://sjlivecdn9.cbg.cn/204912315959/app_2/_definst_/ls_2.stream/chunklist.m3u8
 重庆卫视,http://221.2.36.34:8888/newlive/live/hls/31/live.m3u8
 重庆卫视,http://hls.live.cqccn.com/__cl/cg:live/__c/chongqingHD/__op/default/__f/index.m3u8
 重庆卫视,http://111.221.137.154:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=0&authid=0
@@ -177,6 +175,7 @@
 重庆卫视,https://cntv.sbs/tv/v6.php?id=cqwsH265
 重庆卫视,http://106.39.160.148/live.aishang.ctlcdn.com/00000110240397_1/playlist.m3u8?CONTENTID=00000110240397_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
 重庆卫视,https://cntv.sbs/v6?auth=2307280808&id=129
+重庆卫视,https://sjlivecdn9.cbg.cn/204912315959/app_2/_definst_/ls_2.stream/chunklist.m3u8
 重庆卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225791/index.m3u8
 重庆卫视,http://8.210.232.168/php/migu.php?id=cqws
 重庆卫视,http://lovegfs.top:8000/udp/239.120.1.146:8934
@@ -318,6 +317,7 @@
 海南卫视,https://cntv.sbs/tv/v6.php?id=hnws
 海南卫视,https://cntv.sbs/v6?auth=2307280808&id=183
 海南卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225769/index.m3u8
+海南卫视,http://8.210.232.168/php/migu.php?id=hinws
 海南卫视,http://lovegfs.top:8000/udp/239.120.2.31:5141
 云南卫视,http://tvlive.ynradio.com/live/yunnanweishi/chunks.m3u8
 云南卫视,http://221.2.36.34:8888/newlive/live/hls/27/live.m3u8
@@ -367,6 +367,7 @@
 大湾区卫视,http://111.20.35.103:6610/000000001000/1000000002000011619/index.m3u8?channel-id=ystenlive&Contentid=1000000002000011619&livemode=1&stbId=00
 大湾区卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226218/index.m3u8?
 大湾区卫视,http://v2.91kds.cn/b9/itouchtv.m3u8?fmt=hls&id=gdtvs2&auth=rinimabi
+大湾区卫视,http://8.210.232.168/php/migu.php?id=dwqws
 大湾区卫视,http://www.namewee.xyz/gudou.php?id=364&id=1456_4500
 青海卫视,http://stream.qhbtv.com/qhws/sd/live.m3u8
 青海卫视,http://stream.qhbtv.com/qhws/sd/live.m3u8?_upt=63cf437e1591689484
@@ -389,7 +390,6 @@
 内蒙古卫视,http://china.733240.com/cqyx.php?id=neimengkuSD
 内蒙古卫视,https://cntv.sbs/tv?auth=2310201855&id=nmws
 内蒙古卫视,https://cntv.sbs/tv/v6.php?id=nmgws
-内蒙古卫视,http://8.210.232.168/php/migu.php?id=nmws
 内蒙古卫视,http://lovegfs.top:8000/udp/239.120.1.135:8868
 内蒙古卫视,http://lovegfs.top:8000/udp/239.120.2.44:5141
 宁夏卫视,http://hls.live.cqccn.com/__cl/cg:live/__c/ningxia/__op/default/__f/index.m3u8
@@ -402,14 +402,12 @@
 宁夏卫视,https://cntv.sbs/tv?auth=2310201855&id=nxws
 宁夏卫视,http://8.210.232.168/php/migu.php?id=nxws
 宁夏卫视,http://lovegfs.top:8000/udp/239.120.1.130:8838
-宁夏卫视,http://lovegfs.top:8000/udp/239.120.2.25:5141
 甘肃卫视,http://111.20.35.103:6610/000000001000/1000000002000017827/index.m3u8?channel-id=ystenlive&Contentid=1000000002000017827&livemode=1&stbId=00
 甘肃卫视,http://221.213.43.82:8888/newlive/live/hls/36/live.m3u8
 甘肃卫视,https://cntv.sbs/tv?auth=2310201855&id=gsws
 甘肃卫视,https://cntv.sbs/tv/v6.php?id=gsws
 甘肃卫视,https://cntv.sbs/v6?auth=2307280808&id=298
 甘肃卫视,http://39.134.32.102:6610/270000001111/1110000322/index.m3u8?IASHttpSessionId=OTT
-甘肃卫视,http://8.210.232.168/php/migu.php?id=gsws
 甘肃卫视,http://lovegfs.top:8000/udp/239.120.1.118:8700
 新疆卫视,http://221.2.36.34:8888/newlive/live/hls/38/live.m3u8
 新疆卫视,http://hls.live.cqccn.com/__cl/cg:live/__c/xinjiangSD/__op/default/__f/index.m3u8
@@ -445,6 +443,12 @@
 兵团卫视,https://cntv.sbs/tv/v6.php?id=btws
 兵团卫视,http://lovegfs.top:8000/udp/239.120.1.240:9404
 兵团卫视,http://lovegfs.top:8000/udp/239.120.2.35:5141
+香港卫视,http://zhibo.hkstv.tv:80/livestream/mutfysrq.flv
+香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq.flv
+香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=3c732f93c14e1bc0c07641df-156388849014752&wsIPSercert=8de23d0849e78e3b16ec92a809235421&wsMonitor=0
+香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8 
+香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=3c732f93c14e1bc0c07641df-156388849014752&wsIPSercert=8de23d0849e78e3b16ec92a809235421&wsMonitor=0 
 澳亚卫视,https://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8
 澳亚卫视,http://111.221.137.154:9901/tsfile/live/1015_1.m3u8?key=txiptv&playlive=0&authid=0
 澳亚卫视,http://107.151.203.111:2209/135/hk.php?id=aoya
@@ -460,17 +464,11 @@
 农林卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226229/index.m3u8?
 农林卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226229/index.m3u8
 农林卫视,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226229/index.m3u8?
-厦门卫视,https://cntv.sbs/tv?auth=2310201855&id=xmws
 三沙卫视,https://pullsstv90080111.ssws.tv/live/SSTV20220729.m3u8
 三沙卫视,http://hls.live.cqccn.com/__cl/cg:live/__c/sanshaSD/__op/default/__f/index.m3u8
-三沙卫视,http://china.733240.com/cqyx.php?id=sanshaSD
-三沙卫视,https://cntv.sbs/tv?auth=2310201855&id=ssws
 三沙卫视,http://lovegfs.top:8000/udp/239.120.2.222:5141
-海峡卫视,https://cntv.sbs/tv?auth=2310201855&id=hxws
 康巴卫视,http://111.202.12.159:8080/kYGHWzA/1000/live.m3u8
 康巴卫视,http://111.202.12.159:8080/3zvkK28/1000/live.m3u8
 康巴卫视,http://v2.91kds.cn/b9/sctv.m3u8?id=kbws&auth=rinimabi
-康巴卫视,https://cntv.sbs/tv?auth=2310201855&id=kbws
-康巴卫视,https://cntv.sbs/tv/v6.php?id=kbwsH264_2000
 安多卫视,http://stream.qhbtv.com/adws/sd/live.m3u8
 安多卫视,http://lovegfs.top:8000/udp/239.120.1.40:8214
