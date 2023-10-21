@@ -400,6 +400,7 @@ KCTV 광주,http://119.77.96.184:1935/chn05/chn05/chunklist.m3u8
 湖南金鹰纪实,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226351/index.m3u8
 
 香港,#genre#
+凤凰资讯 高清,http://lzoq.hk3.20212021.cf/daili/liugongzi.php?id=test2_4000
 凤凰资讯,http://162.19.247.76:22222/live/fenghuangzhixun/index.m3u8
 翡翠台,http://111.221.137.154:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=0&authid=0
 明珠台,http://111.221.137.154:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=0&authid=0
