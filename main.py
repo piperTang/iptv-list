@@ -173,7 +173,7 @@ def generate_playlist(file_list):
                                             print("(直播源可用)" + name + ":" + play_url)
                                         else:
                                             # 添加到黑名单
-                                            blacklist.add(play_url)
+                                            blacklist.add(play_url + "\n")
                                             print("(直播源失效，加入黑名单)" + name + ": " + play_url)
 
             # 把数据写入到 节目列表文件夹
