@@ -1,4 +1,4 @@
-//🇨🇳欧歌2023-10-20 18:16:21整合本接口
+//🇨🇳欧歌2023-10-21 00:04:17整合本接口
 
 {
 "wallpaper":"./t/",
@@ -13,7 +13,7 @@
 {"key":"drpy_js_榜单荐片2","name":"📢公众号欧歌app榜单荐片","type":3,"api":"./lib/drpy2.min.js","ext":"./lib/drpy.js"},
 { "key": "玩偶内置", "name": "🐲玩偶┃T4", "type": 4,"api":"http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=0068144bf4d24f3284819c15f3a49482"},
 //jar
-{"key":"360_spider","name":"💡360|直连","type":3,"api":"csp_SP360","filterable":1,"quickSearch":1,"searchable":1},
+
 {"key":"csp_JianPian","name":"💡荐片|直连","type":3,"api":"csp_JianPian","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ownjpykxttjzuhy.jiesiwa.com"},
 
 {"key":"csp_Kuaikan","name":"💡快看|直连","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
@@ -23,10 +23,7 @@
 //{"key":"csp_77","name":"🌟酷酷七七|直连","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 
 //js
-{"key":"drpy_js_奇珍异兽","name":"💡奇珍异兽 | [js]","type":3,"api":"./lib/drpy2.min.js","ext":"./lib/奇珍异兽.js"},
-{"key":"drpy_js_优酷","name":"💡优个酷你 | [js]","type":3,"api":"./lib/drpy2.min.js","ext":"./lib/优酷.js"},
-{"key":"drpy_js_腾云驾雾","name":"💡腾云驾雾 | [js]","type":3,"api":"./lib/drpy2.min.js","ext":"./lib/腾云驾雾.js"},
-{"key":"drpy_js_百忙无果","name":"💡百忙无果 | [js]","type":3,"api":"./lib/drpy2.min.js","ext":"./lib/百忙无果.js"},
+
 {"key":"drpy_js_77","name":"🌟酷酷七七 | [js]","type":3,"api":"./lib/apiv71apiv71drpy2.min.js","ext":"./a3/77.js"},
 
   //py
@@ -200,19 +197,7 @@
   
 
 
-  {
-            "key": "360影视弹幕版",
-            "name": "🌟360┃弹幕版",
-            "type": 3,
-            "api": "csp_Sp360",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "jar": "https://jiucen.s3-us-east-1.ossfiles.com/ok.jar",
-            "ext": {
-                "danmu": true
-            }
-        },
+
         {
             "key": "jojo",
             "name": "🌟JOJO┃弹幕版",
