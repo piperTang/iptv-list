@@ -196,7 +196,7 @@ def generate_playlist(file_list):
     # 把黑名单写入到文件
     with open("节目列表/黑名单.txt", "w", encoding="utf-8") as blacklist_file:
         for line in blacklist:
-            blacklist_file.write(line + "\n")
+            blacklist_file.write(line)
     print("已写入文件: 黑名单.txt")
 
 
