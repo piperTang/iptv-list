@@ -6,6 +6,7 @@ import requests
 from urllib import request
 from multiprocessing import Manager, Process
 
+
 def get_url_json():
     # 请求json数据
     url = "https://api.lige.fit/getJson"
@@ -117,27 +118,17 @@ def get_iptv_list():
                 file.close()
 
 
-# 检测直播源是否可用
-def check_iptv(url):
+# 修改new_check_iptv()函数，以将结果存储在共享数据结构中
+def check_iptv_thread(url, result_dict):
     try:
         with request.urlopen(url) as file:
-            if file.status != 200:
-                return False
+            if file.status == 200:
+                result_dict[url] = True
             else:
-                return True
+                result_dict[url] = False
     except BaseException as err:
-        return False
-
-# 修改new_check_iptv()函数，以将结果存储在共享数据结构中
-def new_check_iptv(url, result_dict):
-    try:
-        response = requests.get(url)
-        if response.status_code == 200:
-            result_dict[url] = True
-        else:
-            result_dict[url] = False
-    except requests.exceptions.RequestException as e:
         result_dict[url] = False
+
 
 # 生成节目单
 def generate_playlist(file_list):
@@ -188,12 +179,15 @@ def generate_playlist(file_list):
                                             continue
                                         # 检测直播源是否可用
                                         # 创建线程并启动它，将new_check_iptv()函数传递给线程
-                                        thread = threading.Thread(target=new_check_iptv, args=(play_url, result_dict))
+                                        thread = threading.Thread(target=check_iptv_thread, args=(play_url, result_dict))
                                         threads.append(thread)
                                         thread.start()
+                    # 打印当前线程数
+                    print("当前线程数: " + str(len(threads)))
                     # 等待所有线程完成
                     for thread in threads:
-                        thread.join()
+                        # 10秒超时
+                        thread.join(10)
 
                     # 迭代检查结果，根据结果来生成节目列表
                     for iptv_file in iptv_files:
