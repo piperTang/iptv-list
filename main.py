@@ -263,6 +263,7 @@ def generate_playlist(file_list):
                     output_file.write(line)
                 # 文件写入成功
                 print("已写入文件: " + file_name + ".txt")
+                print("--------------------------------------------------")
                 # 清空 result 数组
                 result.clear()
 
