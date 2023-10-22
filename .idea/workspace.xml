@@ -4,20 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b9a1a668-3f03-4ec3-8f78-5f5a65debdd7" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.txt" beforeDir="false" afterPath="$PROJECT_DIR$/index.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vbox配置/️荷城茶秀.json" beforePathEscaped="$PROJECT_DIR$/vbox配置/🏄️荷城茶秀.json" beforeDir="false" afterPath="$PROJECT_DIR$/vbox配置/️荷城茶秀.json" afterPathEscaped="$PROJECT_DIR$/vbox配置/🏄️荷城茶秀.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vbox配置/不良帅线路.json" beforePathEscaped="$PROJECT_DIR$/vbox配置/💎不良帅线路.json" beforeDir="false" afterPath="$PROJECT_DIR$/vbox配置/不良帅线路.json" afterPathEscaped="$PROJECT_DIR$/vbox配置/💎不良帅线路.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vbox配置/小米线路.json" beforePathEscaped="$PROJECT_DIR$/vbox配置/🚀小米线路.json" beforeDir="false" afterPath="$PROJECT_DIR$/vbox配置/小米线路.json" afterPathEscaped="$PROJECT_DIR$/vbox配置/🚀小米线路.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/直播源/欧歌线路.txt" beforePathEscaped="$PROJECT_DIR$/直播源/🐹欧歌线路.txt" beforeDir="false" afterPath="$PROJECT_DIR$/直播源/欧歌线路.txt" afterPathEscaped="$PROJECT_DIR$/直播源/🐹欧歌线路.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/节目列表/卫视频道.txt" beforeDir="false" afterPath="$PROJECT_DIR$/节目列表/卫视频道.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/节目列表/央视频道.txt" beforeDir="false" afterPath="$PROJECT_DIR$/节目列表/央视频道.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/节目列表/少儿频道.txt" beforeDir="false" afterPath="$PROJECT_DIR$/节目列表/少儿频道.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/节目列表/广东频道.txt" beforeDir="false" afterPath="$PROJECT_DIR$/节目列表/广东频道.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/节目列表/港澳台.txt" beforeDir="false" afterPath="$PROJECT_DIR$/节目列表/港澳台.txt" afterDir="false" />
-    </list>
+    <list default="true" id="b9a1a668-3f03-4ec3-8f78-5f5a65debdd7" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -40,23 +27,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "ASKED_MARK_IGNORED_FILES_AS_EXCLUDED": "true",
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "D:/code/python/iptv-list/节目生成模板",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;ASKED_MARK_IGNORED_FILES_AS_EXCLUDED&quot;: &quot;true&quot;,
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/code/python/iptv-list/节目生成模板&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\code\python\iptv-list\节目生成模板" />
