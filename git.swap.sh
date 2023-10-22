@@ -1,5 +1,5 @@
 #!/bin/bash
-
+pwd
 # 进入到目录
 cd /opt/1panel/apps/qinglong/qinglong/data/scripts/iptv-list
 # 获取当前日期，格式为“年月日”
