@@ -219,11 +219,12 @@ def generate_playlist(file_list):
                                         thread = threading.Thread(target=check_iptv_thread,
                                                                   args=(play_url, result_dict))
                                         threads.append(thread)
+            # 打印当前线程数
+            print("当前线程数: " + str(len(threads)) + ",正在检测直播源是否可用")
             # 批量开启线程
             for thread in threads:
                 thread.start()
-            # 打印当前线程数
-            print("当前线程数: " + str(len(threads)))
+
             # 等待所有线程完成
             for thread in threads:
                 thread.join()
