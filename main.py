@@ -1,10 +1,9 @@
 import os
 import threading
-import time
-import json5
+import orjson
 import requests
 from urllib import request
-from multiprocessing import Manager, Process
+from multiprocessing import Manager
 
 
 def get_url_json():
@@ -23,39 +22,56 @@ def get_vbox_config():
     # 读取json文件
     try:
         with open("url.json", "r", encoding="utf-8") as json_file:
-            data = json5.load(json_file)
+            json_data = json_file.read()
+            data = orjson.loads(json_data)
     finally:
         json_file.close()
 
+    # 创建线程列表
+    threads = []
+
     # 循环获取json文件
     for i in range(len(data)):
-        print("正在下载: " + data[i]["name"])
-        # 请求json数据
-        url = "https://api.lige.fit/ua"
-        res_data = {
-            "url": data[i]["url"]
-        }
+        # 创建线程并启动它，down_vbox_json()函数传递给线程
+        thread = threading.Thread(target=down_vbox_json, args=(data[i],))
+        threads.append(thread)
 
-        response = requests.post(url, res_data)
+    # 批量开启线程
+    for thread in threads:
+        thread.start()
+
+    # 等待所有线程完成
+    for thread in threads:
+        thread.join()
+
+
+# 下载json文件
+def down_vbox_json(data):
+    print("正在下载: " + data["name"])
+    # 请求json数据
+    url = "https://api.lige.fit/ua"
+    res_data = {
+        "url": data["url"]
+    }
+
+    response = requests.post(url, res_data)
+    # print(response.text)
+    if response.status_code == 200:
         # print(response.text)
-        if response.status_code == 200:
+        # 替换文件名中的/字符
+        data["name"] = data["name"].replace("/", "")
+        with open("vbox配置/" + data["name"] + ".json", "wb") as file:
             # print(response.text)
-            # 替换文件名中的/字符
-            data[i]["name"] = data[i]["name"].replace("/", "")
-            with open("vbox配置/" + data[i]["name"] + ".json", "wb") as file:
-                # print(response.text)
-                content = response.text
-                # 去除注释行（以双斜杠 # 开头的行）和其他不必要内容
-                lines = content.split('\n')
-                cleaned_lines = [line for line in lines if not line.strip().startswith("#")]
-                # 去除 // 开头的注释行
-                cleaned_lines = [line for line in cleaned_lines if not line.strip().startswith("//")]
-                cleaned_content = ''.join(cleaned_lines)
+            content = response.text
+            # 去除注释行（以双斜杠 # 开头的行）和其他不必要内容
+            lines = content.split('\n')
+            cleaned_lines = [line for line in lines if not line.strip().startswith("#")]
+            # 去除 // 开头的注释行
+            cleaned_lines = [line for line in cleaned_lines if not line.strip().startswith("//")]
+            cleaned_content = ''.join(cleaned_lines)
 
-                file.write(cleaned_content.encode("utf-8"))
-            print("已下载文件: " + data[i]["name"] + ".json")
-        # 休息一秒
-        time.sleep(1)
+            file.write(cleaned_content.encode("utf-8"))
+        print("已下载文件: " + data["name"] + ".json")
 
 
 # 下载配置文件中的所有直播源
@@ -63,6 +79,9 @@ def get_iptv_list():
     # 获取当前文件夹的路径
     current_directory = os.path.dirname(os.path.realpath(__file__))
     vbox_config_directory = os.path.join(current_directory, "vbox配置")
+
+    # 创建线程列表
+    threads = []
 
     # 遍历目录中的文件
     for file_name in os.listdir(vbox_config_directory):
@@ -80,7 +99,7 @@ def get_iptv_list():
             try:
                 with open(file_path, "r", encoding="utf-8") as file:
                     content = file.read()
-                    json_data = json5.loads(content)
+                    json_data = orjson.loads(content)
                     # 读取lives数组
                     # 判断是否有lives数组
                     if "lives" not in json_data:
@@ -95,27 +114,38 @@ def get_iptv_list():
                         # 根据文件名，在url.json中查找对应的url
                         try:
                             with open("url.json", "r", encoding="utf-8") as json_file:
-                                data = json5.load(json_file)
+                                url_json_data = json_file.read()
+                                data = orjson.loads(url_json_data)
                                 for i in range(len(data)):
                                     if data[i]["name"] == file_name.replace(".json", ""):
                                         iptv_url = data[i]["url"] + iptv_url
                                         break
                         finally:
                             json_file.close()
-                    print(iptv_url)
-                    print("正在下载: " + file_name)
-                    response = requests.get(iptv_url)
-                    if response.status_code == 200:
-                        with open("直播源/" + file_name.replace(".json", ".txt"), "wb") as iptv_txt:
-                            iptv_txt.write(response.content)
-                        print("已下载文件: " + file_name)
-                    else:
-                        print("下载失败: " + file_name)
+                    # 创建线程并启动它，down_iptv_list()函数传递给线程
+                    thread = threading.Thread(target=down_iptv_list, args=(iptv_url, file_name))
+                    threads.append(thread)
+                    thread.start()
+
             # 报错
             except Exception as e:
                 print(f"打开错误： {file_name} : {e}")
-            finally:
-                file.close()
+
+    # 等待所有线程完成
+    for thread in threads:
+        thread.join()
+
+
+def down_iptv_list(iptv_url, file_name):
+    print(iptv_url)
+    print("正在下载: " + file_name)
+    response = requests.get(iptv_url)
+    if response.status_code == 200:
+        with open("直播源/" + file_name.replace(".json", ".txt"), "wb") as iptv_txt:
+            iptv_txt.write(response.content)
+        print("已下载文件: " + file_name)
+    else:
+        print("下载失败: " + file_name)
 
 
 # 修改new_check_iptv()函数，以将结果存储在共享数据结构中
@@ -128,7 +158,6 @@ def check_iptv_thread(url, result_dict):
                 result_dict[url] = False
     except BaseException as err:
         result_dict[url] = False
-
 
 # 生成节目单
 def generate_playlist(file_list):
@@ -143,7 +172,8 @@ def generate_playlist(file_list):
     # 循环打开 json 文件
     for file_name in file_list:
         with open("节目生成模板/" + file_name + '.json', "r", encoding="utf-8") as json_file:
-            template_data = json5.load(json_file)  # 加载 JSON 数据
+            json_data = json_file.read()
+            template_data = orjson.loads(json_data)
             # 先往 result 数组中写入标题
             print(file_name)
             result.append(f"{file_name},#genre#\n")
@@ -178,17 +208,27 @@ def generate_playlist(file_list):
                                             print("(直播源在黑名单中)" + name + ":" + play_url)
                                             continue
                                         # 检测直播源是否可用
-                                        # 创建线程并启动它，将new_check_iptv()函数传递给线程
+                                        # 创建线程并启动它，check_iptv_thread()函数传递给线程
                                         thread = threading.Thread(target=check_iptv_thread, args=(play_url, result_dict))
                                         threads.append(thread)
-                                        thread.start()
-                    # 打印当前线程数
-                    print("当前线程数: " + str(len(threads)))
-                    # 等待所有线程完成
-                    for thread in threads:
-                        # 10秒超时
-                        thread.join(10)
+            # 批量开启线程
+            for thread in threads:
+                thread.start()
+            # 打印当前线程数
+            print("当前线程数: " + str(len(threads)))
+            # 等待所有线程完成
+            for thread in threads:
+                # 10秒超时
+                thread.join(10)
 
+            # 对 JSON 数据进行循环
+            for item in template_data:
+                name = item.get("name", "")
+                rules = item.get("rule", "")
+                for rule in rules:
+                    # 根据规则查找匹配的行并写入到 index.txt
+                    current_directory = os.getcwd() + "/直播源"
+                    iptv_files = os.listdir(current_directory)
                     # 迭代检查结果，根据结果来生成节目列表
                     for iptv_file in iptv_files:
                         with open(current_directory + "/" + iptv_file, "r", encoding="utf-8") as source_file:
@@ -254,9 +294,9 @@ def merge_playlist():
 
 def main():
     file_list = ["央视频道", "卫视频道", "广东频道", "港澳台", "少儿频道"]
-    get_url_json()
-    get_vbox_config()
-    get_iptv_list()
+    # get_url_json()
+    # get_vbox_config()
+    # get_iptv_list()
     generate_playlist(file_list)
     merge_playlist()
 
