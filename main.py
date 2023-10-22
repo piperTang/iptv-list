@@ -3,6 +3,7 @@ import threading
 import orjson
 import requests
 from multiprocessing import Manager
+from urllib import request
 import m3u8
 
 
@@ -149,29 +150,33 @@ def down_iptv_list(iptv_url, file_name):
 
 
 # 修改check_iptv_thread()函数，以将结果存储在共享数据结构中
-def check_iptv_thread(url, result_dict):
+def check_iptv_thread(name_play_url, result_dict):
+    url = name_play_url.split(",")[1]
     try:
         # 发出HTTP请求获取M3U8文件内容
-        response = requests.get(url)
-        response.raise_for_status()
-
-        # 解析M3U8文件
-        m3u8_obj = m3u8.loads(response.text)
-
-        # 检查是否有有效的视频流
-        if m3u8_obj.data.get('segments'):
-            print("M3U8链接可正常播放:"+url)
-            result_dict[url] = True
-        else:
-            print("M3U8链接没有有效的视频流:"+url)
-            result_dict[url] = False
-            # print("M3U8链接没有有效的视频流")
-
-    except requests.exceptions.RequestException as e:
-        print("无法访问M3U8链接:", e)
-        result_dict[url] = False
+        with request.urlopen(url) as file:
+            if file.status == 200:
+                result_dict[name_play_url] = True
+        # response = requests.get(url)
+        # response.raise_for_status()
+        #
+        # # 解析M3U8文件
+        # m3u8_obj = m3u8.loads(response.text)
+        #
+        # # 检查是否有有效的视频流
+        # if m3u8_obj.data.get('segments'):
+        #     print("M3U8链接可正常播放:" + url)
+        #     result_dict[name_play_url] = True
+    #     else:
+    #         print("M3U8链接没有有效的视频流:"+url)
+    #         result_dict[name_play_url] = False
+    #         # print("M3U8链接没有有效的视频流")
+    #
+    # except requests.exceptions.RequestException as e:
+    #     print("无法访问M3U8链接:", e)
+    #     result_dict[name_play_url] = False
     except Exception as e:
-        result_dict[url] = False
+        #     result_dict[name_play_url] = False
         print("无法解析M3U8文件:", e)
 
 
@@ -215,10 +220,12 @@ def generate_playlist(file_list):
                                         line = line.replace(f"{rule},", name + ",")
                                         # 根据逗号拆分，获取url
                                         play_url = line.split(",")[1]
+                                        # 将play_url 和 name 用,号相加
+                                        name_play_url = name + "," + play_url
                                         # 检测直播源是否可用
                                         # 创建线程并启动它，check_iptv_thread()函数传递给线程
                                         thread = threading.Thread(target=check_iptv_thread,
-                                                                  args=(play_url, result_dict))
+                                                                  args=(name_play_url, result_dict))
                                         threads.append(thread)
             # 打印当前线程数
             print("当前线程数: " + str(len(threads)) + ",正在检测直播源是否可用")
@@ -230,26 +237,12 @@ def generate_playlist(file_list):
             for thread in threads:
                 thread.join()
 
-            # 对 JSON 数据进行循环
-            for item in template_data:
-                name = item.get("name", "")
-                rules = item.get("rule", "")
-                for rule in rules:
-                    # 根据规则查找匹配的行并写入到 index.txt
-                    current_directory = os.getcwd() + "/直播源"
-                    iptv_files = os.listdir(current_directory)
-                    # 迭代检查结果，根据结果来生成节目列表
-                    for iptv_file in iptv_files:
-                        with open(current_directory + "/" + iptv_file, "r", encoding="utf-8") as source_file:
-                            for line in source_file:
-                                if line.startswith(f"{rule},"):
-                                    # 防止重复写
-                                    if line not in result:
-                                        # 对line进行处理
-                                        line = line.replace(f"{rule},", name + ",")
-                                        for key, value in result_dict.items():
-                                            if value:
-                                                result.append(line)
+            # 将可用数据加入 result
+            for key, value in result_dict.items():
+                if value:
+                    result.append(key)
+                    print("(直播源可用)" + key)
+
             # 把数据写入到 节目列表文件夹
             with open("节目列表/" + file_name + ".txt", "w", encoding="utf-8") as output_file:
                 # 定义一个数组，用于存储已经写入的行
