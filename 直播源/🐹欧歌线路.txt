@@ -1,4 +1,4 @@
-//🇨🇳欧歌2023-10-22 21:17:45整合本接口
+//🇨🇳欧歌2023-10-23 00:00:11整合本接口
 
 {
 "wallpaper":"./t/",
@@ -8,7 +8,7 @@
 "lives":[{"name":"live","type":0,"url":"./tv/","playerType":1,"ua": "okhttp/3.12.13","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
 {"name":"TV","type":0,"url":"https://agit.ai/fantaiying/fmm/raw/branch/main/tv/m3u/global.m3u","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}],
 "sites": [
-{"key":"drpy_js_榜单荐片","name":"❤更新:10/20❤tv.nxog.top","type":3,"api":"./lib/apiv71apiv71drpy2.min.js","ext":"./lib/drpy.js"},
+{"key":"drpy_js_榜单荐片","name":"❤更新:10/22❤tv.nxog.top","type":3,"api":"./lib/apiv71apiv71drpy2.min.js","ext":"./lib/drpy.js"},
 
 {"key":"drpy_js_榜单荐片2","name":"📢公众号欧歌app榜单荐片","type":3,"api":"./lib/drpy2.min.js","ext":"./lib/drpy.js"},
 { "key": "玩偶内置", "name": "🐲玩偶┃T4", "type": 4,"api":"http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=0068144bf4d24f3284819c15f3a49482"},
@@ -36,9 +36,9 @@
 
 
 {"key":"csp_LocalFile","name":"💻本地视频","type":3,"api":"csp_LocalFile","searchable":0,"quickSearch":0,"filterable":0,"type_flag":0},
-{"key": "csp_KungFu4041","name": "🐲️阿里｜4k有效","type": 3,"api": "csp_KungFu404","searchable": 1,"filterable": 0,"changeable": 0,"jar":"http://w1.nxog.top/d/nxog/jar/ali.jar?sign=orWMokcDUD7WcNWj0KW7ujK2IHqSoD5GsYOCiqL7QBs=:0;md5;89344c61eb48e87c06678805ad697464"},
-{"key": "csp_KungFu404","name": "🐲️阿里｜登录设置","type": 3,"api": "csp_KungFu404","searchable": 1,"filterable": 0,"changeable": 0,"jar":"http://w1.nxog.top/d/nxog/jar/404.jar?sign=axazeoLD62ueDNKCGCpNlx0vxRCAN6cQgkZnC2hyAsA=:0;md5;332d0e5a28640ee88589390ad4a23a39"},
-{"key":"Gitcafe","name":"❤️阿里｜纸条","type":3,"api":"csp_Gitcafe","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://127.0.0.1:9978/file/tvbox/token.txt"},
+{"key": "csp_KungFu4041","name": "🐲️阿里｜4k有效","type": 3,"api": "csp_KungFu404","searchable": 1,"filterable": 0,"changeable": 0,"jar":"http://w2.nxog.top/d/nxog/jar/ali.jar?sign=orWMokcDUD7WcNWj0KW7ujK2IHqSoD5GsYOCiqL7QBs=:0;md5;89344c61eb48e87c06678805ad697464"},
+{"key": "csp_KungFu404","name": "🐲️阿里｜登录设置","type": 3,"api": "csp_KungFu404","searchable": 1,"filterable": 0,"changeable": 0,"jar":"http://w2.nxog.top/d/nxog/jar/404.jar?sign=axazeoLD62ueDNKCGCpNlx0vxRCAN6cQgkZnC2hyAsA=:0;md5;332d0e5a28640ee88589390ad4a23a39"},
+{"key":"Gitcafe","name":"❤️阿里｜纸条","type":3,"api":"csp_Gitcafe","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://127.0.0.1:9978/file/tvbox/tok.txt"},
 {"key":"csp_Zhaozy","name":"❤️阿里｜找资源","type":3,"api":"csp_Zhaozy","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://127.0.0.1:9978/file/tvbox/token.txt"},
 {"key":"csp_AliPS","name":"❤️阿里｜喵狸","type":3,"api":"csp_AliPS","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://127.0.0.1:9978/file/tvbox/token.txt"},
 {"key":"csp_Yisou","name":"❤️阿里｜易搜","type":3,"api":"csp_Yisou","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://127.0.0.1:9978/file/tvbox/token.txt"},
@@ -216,9 +216,9 @@
 
 {"key":"csp_Ddys","name":"💡低端|直连","type":3,"api":"csp_Ddys","searchable":1,"quickSearch":1,"filterable":1},
 
-{"key":"csp_Alist","name":"🍰Alist┃网盘","type":3,"jar":"http://w1.nxog.top/d/nxog/jar/xx.jar?sign=KN34ee5gQq-mVrur4ysgflFYOOJXgW0V9TRpR1tJWwo=:0;md5;caf2d12e5d059b70e2b2b7da5a09f743","api":"csp_AList","searchable":1,"quickSearch":1,"ext":{"drives":[{"name":"🦆鸭鸭","server":"http://shicheng.wang:555/","version":3},{"name":"ECVE","server":"https://pan.ecve.cn","version":3},{"name":"觸光","server":"https://pan.ichuguang.com","version":3},{"name":"神族九帝","server":"https://alist.shenzjd.com","version":3},{"name":"小雅","server":"http://alist.xiaoya.pro","version":3},{"name":"觸光","server":"https://pan.ichuguang.com","version":3},{"name":"七米藍","server":"https://al.chirmyram.com","version":3},{"name":"神族九帝","server":"https://alist.shenzjd.com","version":3}]}},
+{"key":"csp_Alist","name":"🍰Alist┃网盘","type":3,"jar":"http://w2.nxog.top/d/nxog/jar/xx.jar?sign=KN34ee5gQq-mVrur4ysgflFYOOJXgW0V9TRpR1tJWwo=:0;md5;caf2d12e5d059b70e2b2b7da5a09f743","api":"csp_AList","searchable":1,"quickSearch":1,"ext":{"drives":[{"name":"🦆鸭鸭","server":"http://shicheng.wang:555/","version":3},{"name":"ECVE","server":"https://pan.ecve.cn","version":3},{"name":"觸光","server":"https://pan.ichuguang.com","version":3},{"name":"神族九帝","server":"https://alist.shenzjd.com","version":3},{"name":"小雅","server":"http://alist.xiaoya.pro","version":3},{"name":"觸光","server":"https://pan.ichuguang.com","version":3},{"name":"七米藍","server":"https://al.chirmyram.com","version":3},{"name":"神族九帝","server":"https://alist.shenzjd.com","version":3}]}},
 
-{"key":"csp_AListxy","name":"🍰阿雃┃云盘","type":3,"jar":"http://w1.nxog.top/d/nxog/jar/xx.jar?sign=KN34ee5gQq-mVrur4ysgflFYOOJXgW0V9TRpR1tJWwo=:0;md5;caf2d12e5d059b70e2b2b7da5a09f743","api":"csp_AListxy","searchable":1,"quickSearch":1,"ext":{"drives":[{"name":"💃小雅搜索1","server":"http://124.71.206.236:5678","version":3},{"name":"💃小雅搜索2","server":"http://60.204.139.228:5678","version":3},{"name":"💃小雅搜索3","server":"http://182.116.92.150:5678","version":3},{"name":"💃小雅搜索4","server":"http://112.226.137.40:5678","version":3},{"name":"💃小雅搜索5","server":"http://115.57.11.199:5678","version":3},{"name":"💃小雅搜索6","server":"http://116.22.128.30:5678","version":3},{"name":"💃小雅搜索7","server":"http://117.63.42.183:5678","version":3}]}},
+{"key":"csp_AListxy","name":"🍰阿雃┃云盘","type":3,"jar":"http://w2.nxog.top/d/nxog/jar/xx.jar?sign=KN34ee5gQq-mVrur4ysgflFYOOJXgW0V9TRpR1tJWwo=:0;md5;caf2d12e5d059b70e2b2b7da5a09f743","api":"csp_AListxy","searchable":1,"quickSearch":1,"ext":{"drives":[{"name":"💃小雅搜索1","server":"http://124.71.206.236:5678","version":3},{"name":"💃小雅搜索2","server":"http://60.204.139.228:5678","version":3},{"name":"💃小雅搜索3","server":"http://182.116.92.150:5678","version":3},{"name":"💃小雅搜索4","server":"http://112.226.137.40:5678","version":3},{"name":"💃小雅搜索5","server":"http://115.57.11.199:5678","version":3},{"name":"💃小雅搜索6","server":"http://116.22.128.30:5678","version":3},{"name":"💃小雅搜索7","server":"http://117.63.42.183:5678","version":3}]}},
 
 
 {"key" : "drpy_js_榜单荐片4","name" : "软件接口免费","type" : 3,"api":"./lib/apiv71apiv71drpy2.min.js","ext":"./lib/drpy.js"},
