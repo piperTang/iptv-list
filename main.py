@@ -156,6 +156,7 @@ def check_iptv_thread(name_play_url, result_dict):
         # 发出HTTP请求获取M3U8文件内容
         with request.urlopen(url) as file:
             if file.status == 200:
+                print("M3U8链接可正常播放:" + url)
                 result_dict[name_play_url] = True
         # response = requests.get(url)
         # response.raise_for_status()
@@ -177,7 +178,7 @@ def check_iptv_thread(name_play_url, result_dict):
     #     result_dict[name_play_url] = False
     except Exception as e:
         #     result_dict[name_play_url] = False
-        print("无法解析M3U8文件:", e)
+        print(name_play_url + "直播源不可用 错误信息为:", e)
 
 
 # 生成节目单
@@ -214,19 +215,17 @@ def generate_playlist(file_list):
                         with open(current_directory + "/" + iptv_file, "r", encoding="utf-8") as source_file:
                             for line in source_file:
                                 if line.startswith(f"{rule},"):
-                                    # 防止重复写
-                                    if line not in result:
-                                        # 对line进行处理
-                                        line = line.replace(f"{rule},", name + ",")
-                                        # 根据逗号拆分，获取url
-                                        play_url = line.split(",")[1]
-                                        # 将play_url 和 name 用,号相加
-                                        name_play_url = name + "," + play_url
-                                        # 检测直播源是否可用
-                                        # 创建线程并启动它，check_iptv_thread()函数传递给线程
-                                        thread = threading.Thread(target=check_iptv_thread,
-                                                                  args=(name_play_url, result_dict))
-                                        threads.append(thread)
+                                    # 对line进行处理
+                                    line = line.replace(f"{rule},", name + ",")
+                                    # 根据逗号拆分，获取url
+                                    play_url = line.split(",")[1]
+                                    # 将play_url 和 name 用,号相加
+                                    name_play_url = name + "," + play_url
+                                    # 检测直播源是否可用
+                                    # 创建线程并启动它，check_iptv_thread()函数传递给线程
+                                    thread = threading.Thread(target=check_iptv_thread,
+                                                              args=(name_play_url, result_dict))
+                                    threads.append(thread)
             # 打印当前线程数
             print("当前线程数: " + str(len(threads)) + ",正在检测直播源是否可用")
             # 批量开启线程
@@ -237,22 +236,18 @@ def generate_playlist(file_list):
             for thread in threads:
                 thread.join()
 
-            # 将可用数据加入 result
-            for key, value in result_dict.items():
-                if value:
-                    result.append(key)
-                    print("(直播源可用)" + key)
+            # 加载模板文件，按模板文件name的顺序写入到 result 数组
+            for item in template_data:
+                # 获取模板文件中的 name 和 rule
+                name = item.get("name", "")
+                for key, value in result_dict.items():
+                    if key.startswith(name + ",") and value:
+                        result.append(key)
+                        print("(直播源可用)" + key)
 
             # 把数据写入到 节目列表文件夹
             with open("节目列表/" + file_name + ".txt", "w", encoding="utf-8") as output_file:
-                # 定义一个数组，用于存储已经写入的行
-                written_lines = []
                 for line in result:
-                    # 防止重复写
-                    if line in written_lines:
-                        continue
-                    else:
-                        written_lines.append(line)
                     output_file.write(line)
                 # 文件写入成功
                 print("已写入文件: " + file_name + ".txt")

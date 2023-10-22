@@ -5,15 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b9a1a668-3f03-4ec3-8f78-5f5a65debdd7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vbox配置/小雅线路.json" afterPathEscaped="$PROJECT_DIR$/vbox配置/🚀小雅线路.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.txt" beforeDir="false" afterPath="$PROJECT_DIR$/index.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/vbox配置/️荷城茶秀.json" beforePathEscaped="$PROJECT_DIR$/vbox配置/🏄️荷城茶秀.json" beforeDir="false" afterPath="$PROJECT_DIR$/vbox配置/️荷城茶秀.json" afterPathEscaped="$PROJECT_DIR$/vbox配置/🏄️荷城茶秀.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vbox配置/不良帅线路.json" beforePathEscaped="$PROJECT_DIR$/vbox配置/💎不良帅线路.json" beforeDir="false" afterPath="$PROJECT_DIR$/vbox配置/不良帅线路.json" afterPathEscaped="$PROJECT_DIR$/vbox配置/💎不良帅线路.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/vbox配置/小米线路.json" beforePathEscaped="$PROJECT_DIR$/vbox配置/🚀小米线路.json" beforeDir="false" afterPath="$PROJECT_DIR$/vbox配置/小米线路.json" afterPathEscaped="$PROJECT_DIR$/vbox配置/🚀小米线路.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vbox配置/饭太硬线路.json" beforePathEscaped="$PROJECT_DIR$/vbox配置/🚀饭太硬线路.json" beforeDir="false" afterPath="$PROJECT_DIR$/vbox配置/饭太硬线路.json" afterPathEscaped="$PROJECT_DIR$/vbox配置/🚀饭太硬线路.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/直播源/星辰线路.txt" beforePathEscaped="$PROJECT_DIR$/直播源/🐹星辰线路.txt" beforeDir="false" afterPath="$PROJECT_DIR$/直播源/星辰线路.txt" afterPathEscaped="$PROJECT_DIR$/直播源/🐹星辰线路.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/直播源/欧歌线路.txt" beforePathEscaped="$PROJECT_DIR$/直播源/🐹欧歌线路.txt" beforeDir="false" afterPath="$PROJECT_DIR$/直播源/欧歌线路.txt" afterPathEscaped="$PROJECT_DIR$/直播源/🐹欧歌线路.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/节目列表/卫视频道.txt" beforeDir="false" afterPath="$PROJECT_DIR$/节目列表/卫视频道.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/节目列表/央视频道.txt" beforeDir="false" afterPath="$PROJECT_DIR$/节目列表/央视频道.txt" afterDir="false" />
@@ -30,7 +27,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/main.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/main.py" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -137,7 +134,7 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/iptv_list$main__1_.coverage" NAME="main (1) Coverage Results" MODIFIED="1697970938585" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/iptv_list$main__1_.coverage" NAME="main (1) Coverage Results" MODIFIED="1697972212905" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/iptv_list$merge.coverage" NAME="merge Coverage Results" MODIFIED="1697651577592" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
