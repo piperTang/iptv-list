@@ -124,29 +124,30 @@ def get_iptv_list():
                         finally:
                             json_file.close()
                     # 创建线程并启动它，down_iptv_list()函数传递给线程
-                    thread = threading.Thread(target=down_iptv_list, args=(iptv_url, file_name))
+                    thread = threading.Thread(target=down_iptv_txt, args=(iptv_url, file_name))
                     threads.append(thread)
                     thread.start()
 
             # 报错
             except Exception as e:
-                print(f"打开错误： {file_name} : {e}")
+                print(f"打开json文件错误： {file_name} : {e}")
 
     # 等待所有线程完成
     for thread in threads:
         thread.join()
 
 
-def down_iptv_list(iptv_url, file_name):
-    print(iptv_url)
-    print("正在下载: " + file_name)
-    response = requests.get(iptv_url)
-    if response.status_code == 200:
-        with open("直播源/" + file_name.replace(".json", ".txt"), "wb") as iptv_txt:
-            iptv_txt.write(response.content)
-        print("已下载文件: " + file_name)
-    else:
-        print("下载失败: " + file_name)
+def down_iptv_txt(iptv_url, file_name):
+    # print(iptv_url)
+    # print("正在下载: " + file_name)
+    try:
+        response = requests.get(iptv_url)
+        if response.status_code == 200:
+            with open("直播源/" + file_name.replace(".json", ".txt"), "wb") as iptv_txt:
+                iptv_txt.write(response.content)
+            print("已下载文件: " + iptv_txt.name)
+    except Exception as e:
+        print("下载失败: " + iptv_txt.name + " 错误信息为: " + str(e))
 
 
 # 修改check_iptv_thread()函数，以将结果存储在共享数据结构中
