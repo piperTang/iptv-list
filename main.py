@@ -2,8 +2,8 @@ import os
 import threading
 import orjson
 import requests
-from urllib import request
 from multiprocessing import Manager
+import m3u8
 
 
 def get_url_json():
@@ -148,27 +148,37 @@ def down_iptv_list(iptv_url, file_name):
         print("下载失败: " + file_name)
 
 
-# 修改new_check_iptv()函数，以将结果存储在共享数据结构中
+# 修改check_iptv_thread()函数，以将结果存储在共享数据结构中
 def check_iptv_thread(url, result_dict):
     try:
-        with request.urlopen(url) as file:
-            if file.status == 200:
-                result_dict[url] = True
-            else:
-                result_dict[url] = False
-    except BaseException as err:
+        # 发出HTTP请求获取M3U8文件内容
+        response = requests.get(url)
+        response.raise_for_status()
+
+        # 解析M3U8文件
+        m3u8_obj = m3u8.loads(response.text)
+        # print(m3u8_obj.dumps())
+
+        # 检查是否有有效的视频流
+        if m3u8_obj.data.get('segments'):
+            # print("M3U8链接可正常播放")
+            result_dict[url] = True
+        else:
+            result_dict[url] = False
+            # print("M3U8链接没有有效的视频流")
+
+    except requests.exceptions.RequestException as e:
         result_dict[url] = False
+        # print("无法访问M3U8链接:", e)
+    except Exception as e:
+        result_dict[url] = False
+        print("无法解析M3U8文件:", e)
+
 
 # 生成节目单
 def generate_playlist(file_list):
     # 定义文件结果
     result = []
-    # 读取黑名单文件
-    blacklist = set()
-
-    with open("节目列表/黑名单.txt", "r", encoding="utf-8") as blacklist_file:
-        for line in blacklist_file:
-            blacklist.add(line)
     # 循环打开 json 文件
     for file_name in file_list:
         with open("节目生成模板/" + file_name + '.json', "r", encoding="utf-8") as json_file:
@@ -204,12 +214,10 @@ def generate_playlist(file_list):
                                         line = line.replace(f"{rule},", name + ",")
                                         # 根据逗号拆分，获取url
                                         play_url = line.split(",")[1]
-                                        if play_url in blacklist:
-                                            print("(直播源在黑名单中)" + name + ":" + play_url)
-                                            continue
                                         # 检测直播源是否可用
                                         # 创建线程并启动它，check_iptv_thread()函数传递给线程
-                                        thread = threading.Thread(target=check_iptv_thread, args=(play_url, result_dict))
+                                        thread = threading.Thread(target=check_iptv_thread,
+                                                                  args=(play_url, result_dict))
                                         threads.append(thread)
             # 批量开启线程
             for thread in threads:
@@ -218,8 +226,7 @@ def generate_playlist(file_list):
             print("当前线程数: " + str(len(threads)))
             # 等待所有线程完成
             for thread in threads:
-                # 10秒超时
-                thread.join(10)
+                thread.join()
 
             # 对 JSON 数据进行循环
             for item in template_data:
@@ -242,10 +249,6 @@ def generate_playlist(file_list):
                                             if value:
                                                 result.append(line)
                                                 print("(直播源可用)" + name + ":" + key)
-                                            else:
-                                                # 直播源不可用，进行处理
-                                                blacklist.add(key)
-                                                print("(直播源失效，加入黑名单)" + name + ": " + key)
             # 把数据写入到 节目列表文件夹
             with open("节目列表/" + file_name + ".txt", "w", encoding="utf-8") as output_file:
                 # 定义一个数组，用于存储已经写入的行
@@ -261,13 +264,6 @@ def generate_playlist(file_list):
                 print("已写入文件: " + file_name + ".txt")
                 # 清空 result 数组
                 result.clear()
-    # 对黑名单进行去重
-    blacklist = set(blacklist)
-    # 把黑名单写入到文件
-    with open("节目列表/黑名单.txt", "w", encoding="utf-8") as blacklist_file:
-        for line in blacklist:
-            blacklist_file.write(line)
-    print("已写入文件: 黑名单.txt")
 
 
 # 读取节目列表所有文件，合并到index.txt
