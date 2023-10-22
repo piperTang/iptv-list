@@ -185,6 +185,7 @@ def generate_playlist(file_list):
             json_data = json_file.read()
             template_data = orjson.loads(json_data)
             # 先往 result 数组中写入标题
+            print("--------------------------------------------------")
             print(file_name)
             result.append(f"{file_name},#genre#\n")
 
