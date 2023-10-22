@@ -160,10 +160,10 @@ def check_iptv_thread(url, result_dict):
 
         # 检查是否有有效的视频流
         if m3u8_obj.data.get('segments'):
-            print("M3U8链接可正常播放"+url)
+            print("M3U8链接可正常播放:"+url)
             result_dict[url] = True
         else:
-            print("M3U8链接没有有效的视频流"+url)
+            print("M3U8链接没有有效的视频流:"+url)
             result_dict[url] = False
             # print("M3U8链接没有有效的视频流")
 
