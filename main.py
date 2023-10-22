@@ -157,19 +157,19 @@ def check_iptv_thread(url, result_dict):
 
         # 解析M3U8文件
         m3u8_obj = m3u8.loads(response.text)
-        # print(m3u8_obj.dumps())
 
         # 检查是否有有效的视频流
         if m3u8_obj.data.get('segments'):
-            # print("M3U8链接可正常播放")
+            print("M3U8链接可正常播放"+url)
             result_dict[url] = True
         else:
+            print("M3U8链接没有有效的视频流"+url)
             result_dict[url] = False
             # print("M3U8链接没有有效的视频流")
 
     except requests.exceptions.RequestException as e:
+        print("无法访问M3U8链接:", e)
         result_dict[url] = False
-        # print("无法访问M3U8链接:", e)
     except Exception as e:
         result_dict[url] = False
         print("无法解析M3U8文件:", e)
@@ -250,7 +250,6 @@ def generate_playlist(file_list):
                                         for key, value in result_dict.items():
                                             if value:
                                                 result.append(line)
-                                                print("(直播源可用)" + name + ":" + key)
             # 把数据写入到 节目列表文件夹
             with open("节目列表/" + file_name + ".txt", "w", encoding="utf-8") as output_file:
                 # 定义一个数组，用于存储已经写入的行
