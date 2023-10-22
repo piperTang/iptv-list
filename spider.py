@@ -82,6 +82,6 @@ with open("节目生成模板/港澳台.json", "r") as f:
             print("休眠1秒")
 
 # 把列表中的M3U8 URL写入文件
-with open("节目列表/spider.txt", "w") as f:
+with open("直播源/spider.txt", "w") as f:
     for m3u8_url in result:
         f.write(m3u8_url + "\n")
