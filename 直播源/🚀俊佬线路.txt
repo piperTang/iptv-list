@@ -14,6 +14,7 @@
 凤凰电影,http://218.202.220.2:5000/nn_live.ts?id=NEWSASIA
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8 
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=3c732f93c14e1bc0c07641df-156388849014752&wsIPSercert=8de23d0849e78e3b16ec92a809235421&wsMonitor=0 
+翡翠台,http://36.36.200.212:9901/tsfile/live/1008_1.m3u8?key=txiptv&url=tvzb.com
 翡翠台,http://107.167.12.58:27347/livehttpplay?channel_id=30025
 翡翠台,http://107.167.12.58:27347/livehttpplay?channel_id=20127
 翡翠台,http://107.167.12.58:27347/livehttpplay?channel_id=30025
@@ -25,12 +26,14 @@
 翡翠台,http://113.117.74.12:8081/hls/25/index.m3u8
 翡翠台,http://66.181.39.224/ml.php?id=jade_twn
 翡翠台,http://198.16.100.90:8278/jade_twn/playlist.m3u8?tid=MDAD1890217018902170&ct=19249&tsum=36346362d72a1e85802fa5d3eee3861c
+明珠台,http://36.36.200.212:9901/tsfile/live/1009_1.m3u8?key=txiptv&url=tvzb.com
 明珠台,http://107.167.12.58:27347/livehttpplay?channel_id=30026
 明珠台,http://107.167.12.58:27347/livehttpplay?channel_id=20125
 明珠台,http://107.167.12.58:27347/livehttpplay?channel_id=30026
 明珠台,http://107.167.12.58:27347/livehttpplay?channel_id=20125
 明珠台,http://113.117.74.12:8081/hls/26/index.m3u8
 明珠台,http://198.16.100.90:8278/pearl_twn/playlist.m3u8?tid=MC6C7041327570413275&ct=19226&tsum=681972baf66d69caf7cccc92a90e5aad
+Channel [V],http://36.36.200.212:9901/tsfile/live/1010_1.m3u8?key=txiptv&url=tvzb.com
 TVB星河,http://113.117.74.12:8081/hls/135/index.m3u8
 J2,http://107.167.12.58:27347/livehttpplay?channel_id=30030
 J2,http://107.167.12.58:27347/livehttpplay?channel_id=20122
@@ -180,94 +183,64 @@ TLC旅游生活,http://66.181.39.224/ml.php?id=Tlc
 动物星球,http://198.16.100.90:8278/animalplanet_twn/playlist.m3u8?tid=MABA3681856636818566&ct=18393&tsum=2066d4c793195f8449577d35af941288
 动物星球,http://198.16.100.90:8278/animalplanet_twn/playlist.m3u8?tid=m4da2c053371613331372&ct=17874&tsum=4481f502bb91c2c67964feecfbc4b702
 动物星球,http://66.181.39.224/ml.php?id=animalplanet_twn
-凤凰中文,mitv://generationnexxxt.com:19806/98826034592245d18d0a7f9e29f1398f
-凤凰资讯,mitv://generationnexxxt.com:19806/c25ff00d1f62473190819062e87bb70d
-凤凰香港,mitv://generationnexxxt.com:19806/eba2c91eb6c54e51b78036d9412a355c
-翡翠台,mitv://generationnexxxt.com:19806/6986050f9a7a48fc8df8e2637d10b610
-千禧经典台,mitv://generationnexxxt.com:19806/82237250e487405d87030dd69457ddd8
-民视,mitv://generationnexxxt.com:19806/412a0c47c1014e7d85da7d2d38631eb7
-台视,mitv://generationnexxxt.com:19806/d12a80dfeb36488db100bbca6c6378e1
-中视,mitv://generationnexxxt.com:19806/38fd33fc8b9f45849cdf38d21665d66f
-华视,mitv://generationnexxxt.com:19806/36d7338b225248c2b1e321f9966cf104
-公视,mitv://generationnexxxt.com:19806/bdabc8d4fb5d453fbeac7932d22ee2e9
-壹电视新闻台,mitv://generationnexxxt.com:19806/53313e17abe440299d05b00b8a3d91ba
-年代新闻,mitv://generationnexxxt.com:19806/c16976cf555b46b592f639c0b3d53a90
-东森新闻台,mitv://generationnexxxt.com:19806/8bc09abe58e944ca97b838dbce2b4455
-中天新闻,mitv://generationnexxxt.com:19806/26ab4a8f123c4a3292451f072035a681
-民视新闻台,mitv://generationnexxxt.com:19806/5bb97363edbf4fdd95c408367a32c0f2
-三立新闻台,mitv://generationnexxxt.com:19806/876b79bacf0e40adbf0e4134db178c1d
-TVBS新闻台,mitv://generationnexxxt.com:19806/ccaccfce17074a428d1578a82c65b6b8
-TVBS,mitv://generationnexxxt.com:19806/1b811ad38b0f47a393d0a76155b2fd44
-东森财经新闻台,mitv://generationnexxxt.com:19806/3c7772c47dc6438a9f14cd6b6ac66d80
-非凡新闻台,mitv://generationnexxxt.com:19806/d1472f8b243542f29e2c00221691f99b
-卫视电影台,mitv://generationnexxxt.com:19806/1dfc2d3ccab34581b745d44173f73a68
-东森电影台,mitv://generationnexxxt.com:19806/8578aae119724436acb22453d7ae6c9e
-纬来电影台,mitv://generationnexxxt.com:19806/1f2768819be640b187b0de9d628ba29e
-龙祥电影,mitv://generationnexxxt.com:19806/02356cbc048c48fdabe13c27c4681255
-HBO,mitv://generationnexxxt.com:19806/b79befcb39624435a90a4baa01621a22
-东森洋片台,mitv://generationnexxxt.com:19806/07bbe3a40fd648538146aaeff04c1646
-AXN,mitv://generationnexxxt.com:19806/1e1fb5802779465a9948e3a873933a3d
-好莱坞电影台,mitv://generationnexxxt.com:19806/296b827164ef43eb86e05259d74ac25f
-CINEMAX,mitv://generationnexxxt.com:19806/62e7d5ee3a9949b59ec779f14d81a5f1
-HBO强档巨献,mitv://generationnexxxt.com:19806/78d2e408309d4ace81dd7235c2327767
-HBO原创巨献,mitv://generationnexxxt.com:19806/d16248e49e28441b97e940971121d0c0
-美亚电影台HD,mitv://generationnexxxt.com:19806/f1d93f4dcdb042a69134be2e3ae8abab
-翡翠台,http://sc2022.stream-link.org/tv2306.php?id=h01
-翡翠台,http://sc2022.stream-link.org/tv2306.php?id=h02
-J2,http://sc2022.stream-link.org/tv2306.php?id=h03
-﻿TVB华语,http://sc2022.stream-link.org/tv2306.php?id=c01
-TVB星河,http://sc2022.stream-link.org/tv2306.php?id=c02
-无线新闻,http://sc2022.stream-link.org/tv2306.php?id=h04
-无线新闻,http://sc2022.stream-link.org/tv2306.php?id=h06
-无线财经,http://sc2022.stream-link.org/tv2306.php?id=h05
-无线财经,http://sc2022.stream-link.org/tv2306.php?id=h07
-有线新闻,http://sc2022.stream-link.org/tv2306.php?id=h08
-有线财经,http://sc2022.stream-link.org/tv2306.php?id=h09
-HOY TV,http://sc2022.stream-link.org/tv2306.php?id=h10
-HOY TV,http://sc2022.stream-link.org/tv2306.php?id=h14
-HOY TV,http://sc2022.stream-link.org/tv2306.php?id=h15
-HOY 资讯,http://sc2022.stream-link.org/tv2306.php?id=h11
-HOY 资讯,http://sc2022.stream-link.org/tv2306.php?id=h16
-RTHK31,http://sc2022.stream-link.org/tv2306.php?id=h06
-RTHK31,http://sc2022.stream-link.org/tv2306.php?id=h08
-RTHK32,http://sc2022.stream-link.org/tv2306.php?id=h07
-RTHK32,http://sc2022.stream-link.org/tv2306.php?id=h09
-天映频道,http://sc2022.stream-link.org/tv2306.php?id=c03
-民视第1台,http://sc2022.stream-link.org/tv2306.php?id=t18
-民视台湾台,http://sc2022.stream-link.org/tv2306.php?id=t19
-民视综艺台,http://sc2022.stream-link.org/tv2306.php?id=t20
-民视影剧台,http://sc2022.stream-link.org/tv2306.php?id=t21
-民视旅游台,http://sc2022.stream-link.org/tv2306.php?id=t22
-台视新闻,http://sc2022.stream-link.org/tv2306.php?id=t12
-中视新闻,http://sc2022.stream-link.org/tv2306.php?id=t05
-民视新闻,http://sc2022.stream-link.org/tv2306.php?id=t06
-华视新闻,http://sc2022.stream-link.org/tv2306.php?id=t04
-TVBS财经,http://sc2022.stream-link.org/tv2306.php?id=t14
-TVBS新闻,http://sc2022.stream-link.org/tv2306.php?id=t13
-中天新闻,http://sc2022.stream-link.org/tv2306.php?id=t03
-东森新闻,http://sc2022.stream-link.org/tv2306.php?id=t01
-东森财经,http://sc2022.stream-link.org/tv2306.php?id=t02
-东森幼幼,http://sc2022.stream-link.org/tv2306.php?id=t26
-寰宇新闻,http://sc2022.stream-link.org/tv2306.php?id=t07
-寰宇新闻台湾,http://sc2022.stream-link.org/tv2306.php?id=t08
-三立新闻,http://sc2022.stream-link.org/tv2306.php?id=t10
-三立新闻+,http://sc2022.stream-link.org/tv2306.php?id=t11
-三立财经,http://sc2022.stream-link.org/tv2306.php?id=t09
-三立台湾,http://sc2022.stream-link.org/tv2306.php?id=t23
-三立都会,http://sc2022.stream-link.org/tv2306.php?id=t24
-中天综合,http://sc2022.stream-link.org/tv2306.php?id=t15
-中天亚洲,http://sc2022.stream-link.org/tv2306.php?id=t16
-千禧经典台,http://sc2022.stream-link.org/tv2306.php?id=c03
-NOW新闻台,http://sc2022.stream-link.org/tv2306.php?id=c04
-香港国际财经,http://sc2022.stream-link.org/tv2306.php?id=h12
-香港国际财经,http://sc2022.stream-link.org/tv2306.php?id=h13
-凤凰资讯,http://sc2022.stream-link.org/tv2306.php?id=h17
-凤凰香港,http://sc2022.stream-link.org/tv2306.php?id=h18
-凤凰香港,http://sc2022.stream-link.org/tv2306.php?id=h19
-澳门莲花,http://sc2022.stream-link.org/tv2306.php?id=h20
-中天新闻,http://sc2022.stream-link.org/tv2306.php?id=t03
-民视HD,http://sc2022.stream-link.org/tv2306.php?id=t17
-天才冲冲冲,http://sc2022.stream-link.org/tv2306.php?id=t25
+天映电影,http://171.108.239.89:8020/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
+东森电影,http://171.108.239.89:8020/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
+龙祥电影,http://171.108.239.89:8020/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
+星空卫视,http://171.108.239.89:8020/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
+中国电影,http://171.108.239.89:8020/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
+私人影院,http://171.108.239.89:8020/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
+东森洋片,http://171.108.239.89:8020/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0
+台视,http://154.216.191.59/ycdz/tw220.php?id=0
+人间卫视,http://154.216.191.59/ycdz/tw220.php?id=1
+大爱电视,http://154.216.191.59/ycdz/tw220.php?id=2
+国家地理,http://154.216.191.59/ycdz/tw220.php?id=3
+DISCOVERY,http://154.216.191.59/ycdz/tw220.php?id=4
+旅游生活,http://154.216.191.59/ycdz/tw220.php?id=5
+动物星球,http://154.216.191.59/ycdz/tw220.php?id=6
+momo亲子台,http://154.216.191.59/ycdz/tw220.php?id=7
+东森幼幼,http://154.216.191.59/ycdz/tw220.php?id=8
+纬来综合,http://154.216.191.59/ycdz/tw220.php?id=9
+八大第一,http://154.216.191.59/ycdz/tw220.php?id=10
+八大综合,http://154.216.191.59/ycdz/tw220.php?id=11
+三立台湾,http://154.216.191.59/ycdz/tw220.php?id=12
+三立都会,http://154.216.191.59/ycdz/tw220.php?id=13
+卫视中文,http://154.216.191.59/ycdz/tw220.php?id=14
+中天娱乐,http://154.216.191.59/ycdz/tw220.php?id=15
+MUCH TV,http://154.216.191.59/ycdz/tw220.php?id=16
+年代新闻,http://154.216.191.59/ycdz/tw220.php?id=17
+东森新闻,http://154.216.191.59/ycdz/tw220.php?id=18
+中天新闻,http://154.216.191.59/ycdz/tw220.php?id=19
+三立新闻,http://154.216.191.59/ycdz/tw220.php?id=20
+东森财经,http://154.216.191.59/ycdz/tw220.php?id=21
+寰宇新闻,http://154.216.191.59/ycdz/tw220.php?id=22
+壹新闻,http://154.216.191.59/ycdz/tw220.php?id=23
+CNBC,http://154.216.191.59/ycdz/tw220.php?id=24
+Bloomberg News,http://154.216.191.59/ycdz/tw220.php?id=25
+NHK世界,http://154.216.191.59/ycdz/tw220.php?id=26
+卫视电影,http://154.216.191.59/ycdz/tw220.php?id=27
+HBO,http://154.216.191.59/ycdz/tw220.php?id=28
+AXN,http://154.216.191.59/ycdz/tw220.php?id=29
+CINEMAX,http://154.216.191.59/ycdz/tw220.php?id=30
+STAR MOVIES GOLD,http://154.216.191.59/ycdz/tw220.php?id=31
+Star World,http://154.216.191.59/ycdz/tw220.php?id=32
+纬来体育,http://154.216.191.59/ycdz/tw220.php?id=33
+博斯运动一,http://154.216.191.59/ycdz/tw220.php?id=34
+momo 综合台,http://154.216.191.59/ycdz/tw220.php?id=35
+ELEVEN SPORTS 1,http://154.216.191.59/ycdz/tw220.php?id=36
+ELEVEN SPORTS 2,http://154.216.191.59/ycdz/tw220.php?id=37
+Star World,http://154.216.191.59/ycdz/tw220.php?id=38
+FOX MOVIES,http://154.216.191.59/ycdz/tw220.php?id=39
+国家地理,http://154.216.191.59/ycdz/tw220.php?id=40
+卫视中文,http://154.216.191.59/ycdz/tw220.php?id=41
+卫视电影,http://154.216.191.59/ycdz/tw220.php?id=42
+三立台湾,http://154.216.191.59/ycdz/tw220.php?id=43
+年代新闻,http://154.216.191.59/ycdz/tw220.php?id=44
+三立新闻,http://154.216.191.59/ycdz/tw220.php?id=45
+尼克儿童频道,http://154.216.191.59/ycdz/tw220.php?id=46
+nickjr.小尼克,http://154.216.191.59/ycdz/tw220.php?id=47
+MTV Live音乐频道,http://154.216.191.59/ycdz/tw220.php?id=48
+达文西频道,http://154.216.191.59/ycdz/tw220.php?id=49
+宠物频道 ,http://154.216.191.59/ycdz/tw220.php?id=50
 
 央视IPV6,#genre#
 CCTV1,http://[2409:8087:2001:20:2800:0:df6e:eb07]/wh7f454c46tw3252572940_-481357165/ott.mobaibox.com/PLTV/3/224/3221227467/index.m3u8?icpid=3&RTS=1668593752&from=40&ocs=2_2409:8087:2001:20:2800:0:df6e:eb0a_80&popid=40&hms_devid=2036&prioritypopid=40&vqe=3
