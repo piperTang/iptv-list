@@ -27,9 +27,9 @@
 凤凰中文,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV43.m3u8
 凤凰中文,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226547/index.m3u8
 凤凰中文,https://playtv-live.ifeng.com/live/06OLEGEGM4G_tv1.m3u8
+凤凰中文,http://210.210.155.37/uq2663/h/h157/index2.m3u8
 凤凰中文,http://php.17186.eu.org/phtv/fhzw.m3u8
 凤凰中文,http://180.97.247.27/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel52003/index.m3u8
-凤凰中文,http://210.210.155.37/uq2663/h/h157/index2.m3u8
 凤凰中文,http://210.210.155.37/uq2663/h/h157/index2.m3u8
 凤凰中文,http://107.151.203.111:2209/135/hk.php?id=fhzw
 凤凰中文,http://210.210.155.37/uq2663/h/h157/index2.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=Phoenix_Chinese
@@ -372,6 +372,7 @@ HOY资讯,mitv://generationnexxxt.com:19806/6e6b83a7ae204666bad78a2300b8ea73
 HOY资讯,https://ktpremium.com:443/M919HR/5577/492391?c=香港
 HOY资讯,http://uc6.i-cable.com/live_freedirect/opentvhd001_h.live/playlist.m3u8
 HOY资讯,https://ktpremium.com:443/M919HR/5577/492403?c=香港
+HOY资讯,https://panel.dattalive.com/8146/8146/playlist.m3u8
 HOY资讯,https://unlimited1-us.dps.live/radioztv/radioztv.smil/playlist.m3u8
 HOY资讯,https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
 HOY资讯,http://streaming5.globalhostla.com/rtplive/elsolrad/playlist.m3u8
@@ -539,12 +540,12 @@ TVB翡翠,http://23.237.10.66:16410
 TVB翡翠,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=153396&extension=ts&play_token=ICdnbP1fWe
 TVB翡翠,http://pull-l3-cny.douyincdn.com/live/1f41fa6570c0c2fe39fef0752f76de81.m3u8
 TVB翡翠,http://r.jdshipin.com/62WM7
+TVB翡翠,http://r.jdshipin.com/qrfbg
 TVB翡翠,http://r.jdshipin.com/n90gt
 TVB翡翠,http://198.16.100.90:8278/Wlt/playlist.m3u8?tid=MC9C7523788875237888&ct=19225&tsum=fc74aa160d3ca61369c2e5f3ae79ee8e
 TVB翡翠,http://198.16.100.90:8278/jade_twn/playlist.m3u8?tid=ME6E1330319113303191&ct=19225&tsum=d76985c4965fd63807e131035f66af09
 TVB翡翠,https://epg.pw/stream/262189ae99c1e06cd28c91958a372159ce25150e10daf805237dbcbe72f95e9d.m3u8
 TVB翡翠,http://198.16.100.90:8278/jade_twn/playlist.m3u8?tid=MDAD1890217018902170&ct=19249&tsum=36346362d72a1e85802fa5d3eee3861c
-TVB翡翠,http://r.jdshipin.com/qrfbg
 TVB翡翠,https://epg.pw/stream/32e4ae9af65495464449144f8ac46bb0c384b67e3252e757547402d54fb08dc1.m3u8
 TVB翡翠,https://epg.pw/stream/d8c93b48b91c1ebf0dba342a788c771416122535649aa71f70dced7b8917817f.m3u8
 TVB翡翠,http://line.premiumpowers.net/play/live.php?mac=00:1A:79:69:40:42&extension=ts&stream=153505
@@ -990,6 +991,7 @@ BBC新闻,http://93.152.174.144:4000/play/bbc1/index.m3u8
 BBC新闻,http://www.tvxclnt.com:8080/tretvx2022/QP3J8nmeTvIZp82J/440
 BBC新闻,https://liveanevia.mncnow.id/live/eds/BBCWorldNews/sa_dash_vmx/BBCWorldNews.mpd
 BBC新闻,http://primeasia.selfip.net/Samsung/index.m3u8
+BBC新闻,https://cdn.igocast.com/channel5_hls/channel5_master.m3u8
 BBC新闻,https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/bbc.world.north.america.us.m3u8
 BBC新闻,https://bcovlive-a.akamaihd.net/c9bf201b06694453bb29282f97191f58/us-east-1/6240731308001/playlist.m3u8
 BBC新闻,http://fuzzyunicorns.net:80/live/uFbrK9uUN/81qh5S2aF/435748.ts
@@ -1005,7 +1007,6 @@ BBC新闻,http://line.premiumpowers.net/play/live.php?mac=00:1A:79:69:40:42&exte
 BBC新闻,http://line.premiumpowers.net/play/live.php?mac=00:1A:79:BF:D2:44&extension=ts&stream=45612
 BBC新闻,http://protv.fun/play/live.php?mac=00:1A:79:50:63:9E&stream=45612&extension=ts
 BBC新闻,https://bbceu-doctorwho-3-fr.samsung.wurl.tv/playlist.m3u8
-BBC新闻,https://cdn.igocast.com/channel5_hls/channel5_master.m3u8
 BBC新闻,https://vs-hls-pushb-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2_akamai_hls_live.m3u8
 BBC新闻,https://bcovlive-a.akamaihd.net/c9bf201b06694453bb29282f97191f58/us-east-1/6240731308001/playlist.m3u8
 BBC新闻,https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/bbc.america.east.us.m3u8
