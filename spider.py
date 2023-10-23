@@ -5,10 +5,12 @@ import orjson
 
 # 定义一个空列表，用于存放所有的M3U8 URL
 result = []
+count = 0
 
 
 def get_m3u8_url(tv_name, keyword):
     # 设置请求头
+    global count
     headers = {
         "Host": "tonkiang.us",
         "Cache-Control": "max-age=0",
@@ -33,13 +35,11 @@ def get_m3u8_url(tv_name, keyword):
     # print(response.text)
     # 使用正则表达式匹配M3U8 URL
     m3u8_urls = re.findall(r'onclick=copyto\("([^"]+)"\)', response.text)
-
+    print("关键字：" + keyword + f"----匹配到{len(m3u8_urls)}条url")
     if m3u8_urls:
         for url in m3u8_urls:
             result.append(tv_name + "," + url)
-            print("M3U8 URL:", url)
-    else:
-        print("未找到M3U8 URL")
+    count += len(m3u8_urls)
     # 使用正则表达式匹配分页页码
     page_pattern = r'href=\'\?page=(\d+)'
     page_numbers = re.findall(page_pattern, response.text)
@@ -47,24 +47,23 @@ def get_m3u8_url(tv_name, keyword):
     if page_numbers:
         # 获取最大页码
         max_page = max(page_numbers)
+        print("关键字：" + keyword + "----有分页，最大页码：", max_page)
         # 开始循环
-        for page in range(2, int(max_page)):
+        for page in range(2, int(max_page) + 1):
             url = "http://tonkiang.us/?page=" + str(page) + "&s=" + keyword
+            print("关键字：" + keyword + "----正在请求分页地址：", url, "，当前页码：", page)
             response = requests.get(url, headers=headers, allow_redirects=False)
             # 输出响应内容
             # print(response.text)
             # 使用正则表达式匹配M3U8 URL
             m3u8_urls = re.findall(r'onclick=copyto\("([^"]+)"\)', response.text)
+            print("关键字：" + keyword + f"----匹配到条{len(m3u8_urls)}")
             if m3u8_urls:
                 for url in m3u8_urls:
                     result.append(tv_name + "," + url)
-                    print("M3U8 URL:", url)
-            else:
-                print("未找到M3U8 URL")
-
-        print("匹配到的分页页码:", page_numbers)
+            count += len(m3u8_urls)
     else:
-        print("未找到匹配的分页页码")
+        print("关键字：" + keyword + "----没有分页,开始下一个关键字")
 
 
 # 打开json文件
@@ -79,7 +78,8 @@ with open("节目生成模板/港澳台.json", "r") as f:
             get_m3u8_url(item["name"], keyword)
             # 休眠1秒
             time.sleep(1)
-            print("休眠1秒")
+            print("----------------------------------------")
+    print("执行结束，总共匹配到" + str(count) + "条url")
 
 # 把列表中的M3U8 URL写入文件
 with open("直播源/spider.txt", "w") as f:
