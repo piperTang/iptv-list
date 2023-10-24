@@ -1,4 +1,4 @@
-//🇨🇳欧歌2023-10-24 03:03:05整合本接口
+//🇨🇳欧歌2023-10-25 03:03:12整合本接口
 
 {
 "wallpaper":"./t/",
@@ -188,10 +188,10 @@
 
 
 //网盘
-{"key":"csp_Alist","name":"🍰Alist┃网盘","type":3,"jar":"./jar.php?id=f;md5;796038950e2224240f96e3ab74f0af96","api":"csp_AList","searchable":1,"quickSearch":1,"ext":{"drives":[{"name":"🦆鸭鸭","server":"http://shicheng.wang:555/","version":3},{"name":"ECVE","server":"https://pan.ecve.cn","version":3},{"name":"觸光","server":"https://pan.ichuguang.com","version":3},{"name":"神族九帝","server":"https://alist.shenzjd.com","version":3},{"name":"小雅","server":"http://alist.xiaoya.pro","version":3},{"name":"觸光","server":"https://pan.ichuguang.com","version":3},{"name":"七米藍","server":"https://al.chirmyram.com","version":3},{"name":"神族九帝","server":"https://alist.shenzjd.com","version":3}]}},
+{"key":"csp_Alist","name":"🍰Alist┃网盘","type":3,"jar":"./jar.php?id=f;md5;9cc15b83a755468e6b725667ef362a04","api":"csp_AList","searchable":1,"quickSearch":1,"ext":{"drives":[{"name":"🦆鸭鸭","server":"http://shicheng.wang:555/","version":3},{"name":"ECVE","server":"https://pan.ecve.cn","version":3},{"name":"觸光","server":"https://pan.ichuguang.com","version":3},{"name":"神族九帝","server":"https://alist.shenzjd.com","version":3},{"name":"小雅","server":"http://alist.xiaoya.pro","version":3},{"name":"觸光","server":"https://pan.ichuguang.com","version":3},{"name":"七米藍","server":"https://al.chirmyram.com","version":3},{"name":"神族九帝","server":"https://alist.shenzjd.com","version":3}]}},
 
 
-{"key": "應用商店","name": "🛒影视应用商店","type": 3,"api": "csp_Market","searchable": 0,"changeable": 0,"ext": "http://m.nxog.top/nxog/ts/sd.php","jar":"./jar.php?id=f;md5;796038950e2224240f96e3ab74f0af96"},
+{"key": "應用商店","name": "🛒影视应用商店","type": 3,"api": "csp_Market","searchable": 0,"changeable": 0,"ext": "http://m.nxog.top/nxog/ts/sd.php","jar":"./jar.php?id=f;md5;9cc15b83a755468e6b725667ef362a04"},
 
 
 
