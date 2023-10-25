@@ -212,11 +212,20 @@ KCTV 광주,http://119.77.96.184:1935/chn05/chn05/chunklist.m3u8
 湖南金鹰纪实,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226351/index.m3u8
 
 🇨🇳｜香港,#genre#
-凤凰资讯,http://162.19.247.76:22222/live/fenghuangzhixun/index.m3u8
+凤凰资讯,http://php.17186.eu.org/phtv/fhzx.m3u8
+凤凰资讯,http://r.jdshipin.com/0Rp07
 翡翠台,http://111.221.137.154:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=0&authid=0
+翡翠台,http://r.jdshipin.com/62WM7
+翡翠台,http://r.jdshipin.com/n90gt
+翡翠台,http://198.16.100.90:8278/Wlt/playlist.m3u8?tid=MC9C7523788875237888&ct=19225&tsum=fc74aa160d3ca61369c2e5f3ae79ee8e
 明珠台,http://111.221.137.154:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=0&authid=0
-凤凰卫视中文台,http://111.221.137.154:9901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=0&authid=0
+凤凰中文,http://r.jdshipin.com/cCCzW
+凤凰中文,http://php.17186.eu.org/phtv/fhzw.m3u8
+凤凰中文,http://210.210.155.37/uq2663/h/h157/index2.m3u8
+凤凰中文,http://php.17186.eu.org/phtv/fhzw.m3u8
 香港佛陀,https://js1.amtb.cn/liveedge/_definst_/livetv/playlist.m3u8
+
+
 
  🇨🇳｜台湾,#genre#
 东森电影,http://162.19.247.76:22222/live/dsdyt/index.m3u8
@@ -560,7 +569,7 @@ KCTV 광주,http://119.77.96.184:1935/chn05/chn05/chunklist.m3u8
 东森洋片,http://162.19.247.76:22222/live/dsypt/index.m3u8
 东森戏剧,http://162.19.247.76:22222/live/dsxj/index.m3u8
 中天亚洲,http://162.19.247.76:22222/live/ztyz/index.m3u8
-凤凰中文,http://162.19.247.76:22222/live/fenghuangweishi/index.m3u8
+
 CCT-V风云足球,http://hls.live.cqccn.com/__cl/cg:live/__c/fyzqHD/__op/default/__f/index.m3u8
 教育卫视,http://hls.live.cqccn.com/__cl/cg:live/__c/sdjiaoyuSD/__op/default/__f/index.m3u8
 家有购物,http://hls.live.cqccn.com/__cl/cg:live/__c/jygw/__op/default/__f/index.m3u8

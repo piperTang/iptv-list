@@ -62,7 +62,215 @@ TEST忘记他,https://vd3.bdstatic.com/mdanga3uh0v4ay4gd8f/720p/h264/16575073978
 凤凰中文 ᴴᴰ,http://r.jdshipin.com/cCCzW
 凤凰资讯 ᴴᴰ,http://r.jdshipin.com/0Rp07
 
+CNN News,http://flv.mp4cdn.live/aa3314.php?id=161
+BBC EARTH,http://flv.mp4cdn.live/aa3314.php?id=135
+凤凰中文,http://flv.mp4cdn.live/aa3314.php?id=182
+凤凰资讯,http://flv.mp4cdn.live/aa3314.php?id=183
+凤凰香港,http://flv.mp4cdn.live/aa3314.php?id=184
+CCTV13新闻,http://hls.live.cqccn.com/__cl/cg:live/__c/CCTVNewsHD/__op/default/__f/index.m3u8
+CCTV1 综合,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225804/1.m3u8
+CCTV2 财经,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226195/1.m3u8
+CCTV2 财经,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226224/1.m3u8
+CCTV4 国际,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226191/1.m3u8
+深圳卫视,http://hls.live.cqccn.com/__cl/cg:live/__c/shenzhenHD/__op/default/__f/index.m3u8
+湖南都市,http://lu1.cc/tv/huntv/hnxl.php?id=hnds
+HOY 资讯台,http://flv.mp4cdn.live/aa3314.php?id=15
+无线 新闻台,http://flv.mp4cdn.live/aa3314.php?id=13
+无线 财经台,http://flv.mp4cdn.live/aa3314.php?id=14
+香港国际财经,http://flv.mp4cdn.live/aa3314.php?id=16
+翡 翠 台,http://flv.mp4cdn.live/aa3314.php?id=2
+明 珠 台,http://flv.mp4cdn.live/aa3314.php?id=3
+TVB J2,http://flv.mp4cdn.live/aa3314.php?id=5
+Viu TV,http://flv.mp4cdn.live/aa3314.php?id=19
+镜 新 闻,http://flv.mp4cdn.live/aa3314.php?id=152
+壹 新 闻,http://flv.mp4cdn.live/aa3314.php?id=149
+TVBs HD,http://flv.mp4cdn.live/aa3314.php?id=140
+TVBS新闻,https://pull-f5-spe.ixigua.com/live/YesLiveTV-721adc40-fec7-40e6-8501-5ee4af74afa5/index.m3u8?by=yeslivetv.com
+TVBS新闻,http://flv.mp4cdn.live/aa3314.php?id=139
+寰宇国际,http://flv.mp4cdn.live/aa3314.php?id=147
+中天新闻,http://flv.mp4cdn.live/aa3314.php?id=141
+中天亚洲,http://flv.mp4cdn.live/aa3314.php?id=34
+中视新闻,http://flv.mp4cdn.live/aa3314.php?id=143
+东森新闻,https://pull-f5-spe.ixigua.com/live/YesLiveTV-77e58926-5ddd-4f34-92b1-1b1be2babd73/index.m3u8?by=yeslivetv.com
+东森新闻,http://flv.mp4cdn.live/aa3314.php?id=145
+东森财经,http://flv.mp4cdn.live/aa3314.php?id=146
+东森综合,http://flv.mp4cdn.live/aa3314.php?id=48
+年代新聞,https://pull-f5-spe.ixigua.com/live/YesLiveTV-4aabc0bf-888d-41f2-95d9-a91c7933fa8b/index.m3u8?by=yeslivetv.com
+年代新聞,http://flv.mp4cdn.live/aa3314.php?id=155
+非凡新闻,http://flv.mp4cdn.live/aa3314.php?id=154
+三立live,http://flv.mp4cdn.live/aa3314.php?id=151
+亚洲新闻,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd
+CNN News,http://flv.mp4cdn.live/aa3314.php?id=161
+CNN News,http://pull-tbj1.alivecdn.com/live/o6wgYjIwkeZtslxTQQqjnkX5XZu2MtRu.flv
+CNN News,http://ip2121.com:8081/live/cnn/playlist.m3u8
+BBC EARTH,http://flv.mp4cdn.live/aa3314.php?id=135
+BBC EARTH,http://pull-tbj1.alivecdn.com/live/Wym4HKA5VA6I0JK69P2ovs3GKcGAexdP.flv
+ABC新闻,http://cms-wowza.lunabyte.io/wbrz-live-1/_definst_/smil:wbrz-live.smil/chunklist_b1300000.m3u8
+News Max,https://nmxlive.akamaized.net/hls/live/529965/Live_1/index_720.m3u8
+半岛电视,http://live-hls-web-aje.getaj.net/AJE/01.m3u8
+朝鲜中央台,http://119.77.96.184:1935/chn05/chn05/chunklist_w644291506.m3u8
+국악방송,http://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
+NHK World,http://flv.mp4cdn.live/aa3314.php?id=168
+NHK World,http://pull-tbj1.alivecdn.com/live/n4O2LHYt7wScXESlYrXPEyOYkCaX6Dcq.flv
+NHK World,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
+凤凰中文,http://flv.mp4cdn.live/aa3314.php?id=182
+凤凰资讯,http://flv.mp4cdn.live/aa3314.php?id=183
+凤凰香港,http://flv.mp4cdn.live/aa3314.php?id=184
+凤凰中文,http://php.17186.eu.org/phtv/fhzw.m3u8
+凤凰资讯,http://php.17186.eu.org/phtv/fhzx.m3u8
+凤凰香港,http://php.17186.eu.org/phtv/fhxg.m3u8
+凤凰中文,http://r.jdshipin.com/cCCzW
+凤凰资讯,http://r.jdshipin.com/0Rp07
+凤凰中文,http://lcx-olt.8866.org:8181/tsfile/live/1073_1.m3u8
+凤凰资讯,http://lcx-olt.8866.org:8181/tsfile/live/1072_1.m3u8
+凤凰香港,http://lcx-olt.8866.org:8181/tsfile/live/1071_1.m3u8
+CCTV13新闻,http://hls.live.cqccn.com/__cl/cg:live/__c/CCTVNewsHD/__op/default/__f/index.m3u8
+CCTV1 综合,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225804/1.m3u8
+CCTV2 财经,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226195/1.m3u8
+CCTV2 财经,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226224/1.m3u8
+CCTV4 国际,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226191/1.m3u8
 
+Now 新闻台,http://flv.mp4cdn.live/aa3314.php?id=21
+Now 新闻台,http://pull-tbj1.alivecdn.com/live/kwizAOOtB8ffNPbyGPIUzCctOLGC4NUO.flv
+Now 财经台,http://flv.mp4cdn.live/aa3314.php?id=23
+Now 财经台,http://pull-tbj1.alivecdn.com/live/hJzMPtyUVfs0HlXgOJn5DcT8HAXsX5Ix.flv
+Now 体育台,http://flv.mp4cdn.live/aa3314.php?id=22
+Now 体育台,http://pull-tbj1.alivecdn.com/live/RKoiTiaWbKDkRW7aHdACa6D0fFPnXy5g.flv
+Sony sports1,http://flv.mp4cdn.live/aa3314.php?id=66
+Sony sports1,http://pull-tbj1.alivecdn.com/live/yw4NLHDDLr6C35SagbUrr6x554xt1uzE.flv
+Sony sports2,http://flv.mp4cdn.live/aa3314.php?id=67
+Sony sports2,http://pull-tbj1.alivecdn.com/live/lehvop8EOR2L5z66rCSowZh6KDyPr8Ty.flv
+Sony sports3,http://flv.mp4cdn.live/aa3314.php?id=68
+Sony sports3,http://pull-tbj1.alivecdn.com/live/WCGUaNBdrbVxEwyZPwPMbJiC2N4xkT3S.flv
+Wsport,http://flv.mp4cdn.live/aa3314.php?id=88
+Wsport,http://pull-tbj1.alivecdn.com/live/Wu9CaAkZnVnaIVkAODeCaaGOiD3C7F8a.flv
+
+GOLF,http://flv.mp4cdn.live/aa3314.php?id=78
+GOLF,http://pull-tbj1.alivecdn.com/live/CSgXxADUMSh1j8e4wq23Ff3FHVAyzWWP.flv
+ONE GOLF,http://flv.mp4cdn.live/aa3314.php?id=174
+ONE GOLF,http://pull-tbj1.alivecdn.com/live/E6slxTDFv0JPDAZULkn0wWynJGJMo8Fl.flv
+SKY sports,http://flv.mp4cdn.live/aa3314.php?id=94
+SKY sports,http://pull-tbj1.alivecdn.com/live/g751YNo0JNFxGJeGXWFhYdqiMbsPkBoN.flv
+NBA,http://flv.mp4cdn.live/aa3314.php?id=76
+NBA,http://pull-tbj1.alivecdn.com/live/v0AkN24mrTaEZytchpfnB1hbWLfX4KJI.flv
+UFC,http://flv.mp4cdn.live/aa3314.php?id=95
+UFC,http://pull-tbj1.alivecdn.com/live/LnBiihDO8Q2SKpiLXzC9a8ijoCvsqHI5.flv
+
+Now 直播台,http://flv.mp4cdn.live/aa3314.php?id=27
+Now 直播台,http://pull-tbj1.alivecdn.com/live/evJz2TUjsmBqRck94sVlnF4EGN9XBWD7.flv
+HOY 资讯台,http://flv.mp4cdn.live/aa3314.php?id=15
+HOY 资讯台,http://pull-tbj1.alivecdn.com/live/3JjfZjnPmFdAlptReEMg0IfZqkgXZsiH.flv
+HOY TV,http://flv.mp4cdn.live/aa3314.php?id=1
+HOY TV,http://pull-tbj1.alivecdn.com/live/gg2ezyPZF6PqzAKzP0LK6ZhuzjQBAycJ.flv
+无线 新闻台,http://flv.mp4cdn.live/aa3314.php?id=13
+无线 新闻台,http://pull-tbj1.alivecdn.com/live/iVlsxPl73r6cET9rUUdQ1RRHJc0Pg7mH.flv
+无线 财经台,http://flv.mp4cdn.live/aa3314.php?id=14
+无线 财经台,http://pull-tbj1.alivecdn.com/live/JH2tsXBtnRWmQfQp1e1GAY934g9tzaR3.flv
+耀财 财经台,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
+香港国际财经,http://flv.mp4cdn.live/aa3314.php?id=16
+香港国际财经,http://pull-tbj1.alivecdn.com/live/HNlPBtV2Pfe5jdGJ91hsnGsQ9suVQxd0.flv
+娱乐 新闻台,http://flv.mp4cdn.live/aa3314.php?id=10
+娱乐 新闻台,http://pull-tbj1.alivecdn.com/live/JnoC2AyDokL5rOBRyueZp4ny5dUno7ln.flv
+千禧 经典台,http://flv.mp4cdn.live/aa3314.php?id=198
+千禧 经典台,http://pull-tbj1.alivecdn.com/live/6lFa3uYjRNM9WhMVCPBng5MKUiPCDFBG.flv
+双 星 台,http://flv.mp4cdn.live/aa3314.php?id=176
+双 星 台,http://pull-tbj1.alivecdn.com/live/blR4GfU9Nh18oyRUej7Zfi8kJkwBZ6zU.flv
+TVB 星河台,http://flv.mp4cdn.live/aa3314.php?id=4
+TVB 星河台,http://pull-tbj1.alivecdn.com/live/8pZDEslPCmcb0bAA4J7qgwA77lK8Lp6X.flv
+华丽 翡翠台,http://flv.mp4cdn.live/aa3314.php?id=178
+华丽 翡翠台,http://pull-tbj1.alivecdn.com/live/tUC96kRJm5SBHGQcUYz2dbPhP56a7pUK.flv
+翡 翠 台,http://flv.mp4cdn.live/aa3314.php?id=2
+翡 翠 台,http://pull-tbj1.alivecdn.com/live/n896wT6EMvjj5Kf441q6LZoWPj5x44Fs.flv
+明 珠 台,http://flv.mp4cdn.live/aa3314.php?id=3
+明 珠 台,http://pull-tbj1.alivecdn.com/live/BTTRSx7vZjL755iBx3em5ZCSNOzRAB6U.flv
+RHK 31,http://flv.mp4cdn.live/aa3314.php?id=29
+RHK 31,http://pull-tbj1.alivecdn.com/live/oRaHV5GrESBxJHci9NbLctLiGaimpZUh.flv
+RHK 32,http://flv.mp4cdn.live/aa3314.php?id=30
+RHK 32,http://pull-tbj1.alivecdn.com/live/CgImbEgY8PGkOzFdNYre3qAnOiBt5jLg.flv
+TVB J2,http://flv.mp4cdn.live/aa3314.php?id=5
+TVB J2,http://pull-tbj1.alivecdn.com/live/FpBUqo3FIp8LphRA4Wv0V3znXSVVrdDu.flv
+Viu TV,http://flv.mp4cdn.live/aa3314.php?id=19
+Viu TV,http://pull-tbj1.alivecdn.com/live/shmkUfnLODWss9T7tvsiFIYsZCjHh22j.flv
+ViuTV tu6,http://flv.mp4cdn.live/aa3314.php?id=20
+ViuTV tu6,http://pull-tbj1.alivecdn.com/live/zgvOMsRb1mtQGNBnHBanuN9kxTBGR8HH.flv
+18 台,http://flv.mp4cdn.live/aa3314.php?id=18
+18 台,http://pull-tbj1.alivecdn.com/live/eSPaEaNdRGREnhqdPNclOL9nS01ABebO.flv
+Boo 惊悚台,http://flv.mp4cdn.live/aa3314.php?id=117
+Boo 惊悚台,http://pull-tbj1.alivecdn.com/live/7nKlD6V3SKwD6bUmrq6VBCgEMyNwBquq.flv
+黄金华剧台,http://flv.mp4cdn.live/aa3314.php?id=28
+黄金华剧台,http://pull-tbj1.alivecdn.com/live/LIPOlnhM2uZwUjhh4lNzYFvcBbjctdiz.flv
+武 功 台,http://flv.mp4cdn.live/aa3314.php?id=12
+武 功 台,http://pull-tbj1.alivecdn.com/live/7j5kmPj21Wq7ZUaG9PrYvxuuKWx4cHsl.flv
+天映经典,http://flv.mp4cdn.live/aa3314.php?id=110
+天映经典,http://pull-tbj1.alivecdn.com/live/W7D4yBwTKetWp4RcTV76OWogMyQQIH1d.flv
+thrill,http://flv.mp4cdn.live/aa3314.php?id=121
+thrill,http://pull-tbj1.alivecdn.com/live/3QoBo5W4mqD5T4pnHl7PLyTWSBYtWKxq.flv
+AOD,http://flv.mp4cdn.live/aa3314.php?id=179
+AOD,http://pull-tbj1.alivecdn.com/live/XJpIolruqqjZCWCq3GTqNsgxhnUZidWq.flv
+星空卫视,http://27.36.62.162:9090/live/xingkong_1500.m3u8?t=YjlmZTYxNTdhZWRjY2IyNA==&u=freeuser&p=&pid=&cid=1332&d=b9fe6157aedccb24&sid=b+hbViWX01cDt4dXc1SuCA==&r=20231025035232&e=20231025095237&nc=NZh0JbFrMfeZ&a=7&v=2&isSuma=1&hlsSessionID=1457760599718826858&srchost=172.16.149.181:8060&gid=e5jSxzB3QKdm7VTj8DTyqg%3D%3D
+澳门资讯,http://61.244.22.5/ch5/info_ch5.live/master.m3u8
+澳视澳门,http://61.244.22.5/ch1/ch1.live/chunklist_w788258317.m3u8
+奥亚卫视,http://gslb.gcable.cn:8070/live/aoya_1500.m3u8?t=iG7pVn7s/zuD1QnflH/IjQ==&u=18998910474&p=1&pid=&cid=30&d=61bc79e2f63c4cd8&sid=EL+pJ9wj+a5LE/tushw7pA==&r=20231025033346&e=20231025093351&nc=ADrg3lzq5MEL&a=1&v=2
+奥亚卫视,http://27.36.62.162:9090/live/aoya_1500.m3u8?t=iG7pVn7s/zuD1QnflH/IjQ==&u=18998910474&p=1&pid=&cid=30&d=61bc79e2f63c4cd8&sid=EL%2BpJ9wj%2Ba5LE/tushw7pA==&r=20231025033346&e=20231025093351&nc=ADrg3lzq5MEL&a=1&v=2&isSuma=1&hlsSessionID=1457760599718834580&srchost=172.16.149.181:8060&gid=KusOwHdykVE%2FO8KpQjytxw%3D%3D
+澳门综艺,http://61.244.22.5/ch6/_definst_/hd_ch6.live/playlist.m3u8
+澳门莲花,http://107.151.203.111:2209/135/hk.php?id=amlh
+澳门莲花,http://flv.mp4cdn.live/aa3314.php?id=17
+澳门莲花,http://pull-tbj1.alivecdn.com/live/1AtCX8ZmbvakBQUjwJ2ZuqelupWf3GMm.flv
+
+镜 新 闻,http://flv.mp4cdn.live/aa3314.php?id=152
+镜 新 闻,http://pull-tbj1.alivecdn.com/live/n1dCUXlYGqZegZDRXdzpieeU4OWbOMrb.flv
+壹 新 闻,http://flv.mp4cdn.live/aa3314.php?id=149
+壹 新 闻,http://pull-tbj1.alivecdn.com/live/fFvLkFZ16lJoD177IaDWPjinMtunPptI.flv
+TVBs HD,http://flv.mp4cdn.live/aa3314.php?id=140
+TVBs HD,http://pull-tbj1.alivecdn.com/live/jdT2pQZwynZjFVJWRwtBkFr5lseYjdwh.flv
+TVBS新闻,https://pull-f5-spe.ixigua.com/live/YesLiveTV-721adc40-fec7-40e6-8501-5ee4af74afa5/index.m3u8?by=yeslivetv.com
+TVBS新闻,http://flv.mp4cdn.live/aa3314.php?id=139
+TVBS新闻,http://pull-tbj1.alivecdn.com/live/v9ldvruMxEObDZH9vcrtTHq5pfQH1aTw.flv
+寰宇国际,http://flv.mp4cdn.live/aa3314.php?id=147
+寰宇国际,http://pull-tbj1.alivecdn.com/live/hOQpmQnvhuManzaFqBSdlBj0IoPzhFvz.flv
+中天新闻,http://flv.mp4cdn.live/aa3314.php?id=141
+中天新闻,http://pull-tbj1.alivecdn.com/live/aFguMefYznDDldVD4y4yMlrmIitFPKjP.flv
+中天亚洲,http://flv.mp4cdn.live/aa3314.php?id=34
+中天亚洲,http://pull-tbj1.alivecdn.com/live/R1K7OqYwvKfy0cqHBy3t5mvvgSsS6oVR.flv
+中天娱乐,http://flv.mp4cdn.live/aa3314.php?id=32
+中天娱乐,http://pull-tbj1.alivecdn.com/live/xr4xFzfqoYFR3bBUIyChtRwg0CTjCxKy.flv
+中视新闻,http://flv.mp4cdn.live/aa3314.php?id=143
+中视新闻,http://pull-tbj1.alivecdn.com/live/CgGl7FevQfZfMsszwc5WGfh5WUVIWc7w.flv
+东森新闻,https://pull-f5-spe.ixigua.com/live/YesLiveTV-77e58926-5ddd-4f34-92b1-1b1be2babd73/index.m3u8?by=yeslivetv.com
+东森新闻,http://flv.mp4cdn.live/aa3314.php?id=145
+东森新闻,http://pull-tbj1.alivecdn.com/live/p7gdu2B8oSbRGSlKSkErHKPMLgk2xi6l.flv
+东森财经,http://flv.mp4cdn.live/aa3314.php?id=146
+东森财经,http://pull-tbj1.alivecdn.com/live/dck2Rr6SoBluIOSyeEG38HjgHuIjmmfA.flv
+东森综合,http://flv.mp4cdn.live/aa3314.php?id=48
+东森综合,http://pull-tbj1.alivecdn.com/live/4WzRVpFYkK2lcQHA5yXTNEKSIMQ2mvE4.flv
+年代新聞,https://pull-f5-spe.ixigua.com/live/YesLiveTV-4aabc0bf-888d-41f2-95d9-a91c7933fa8b/index.m3u8?by=yeslivetv.com
+年代新聞,http://flv.mp4cdn.live/aa3314.php?id=155
+年代新聞,http://pull-tbj1.alivecdn.com/live/QE4NmrLf5LFi9CnEyrMpSoXWb6PiYjs0.flv
+非凡新闻,http://flv.mp4cdn.live/aa3314.php?id=154
+非凡新闻,http://pull-tbj1.alivecdn.com/live/Esdn12qOsSfazAk3CWCwKda82801PbdJ.flv
+三立live,http://flv.mp4cdn.live/aa3314.php?id=151
+三立live,http://pull-tbj1.alivecdn.com/live/9Qig75SonY1SbxIKuWtaiuT56TuiTuRJ.flv
+三立INEWS,http://iptv444.com/?act=play&token=39acce4071c86b982ed98fb573d2e1e1&tid=gt&id=49
+三立台湾,http://flv.mp4cdn.live/aa3314.php?id=44
+三立台湾,http://pull-tbj1.alivecdn.com/live/5zCu6e9WiLaUe3OLlSkT949DAr1975ri.flv
+三立都会,http://flv.mp4cdn.live/aa3314.php?id=46
+三立都会,http://pull-tbj1.alivecdn.com/live/Ok61qKx4X5CF7hlT8sjlLjod1nMmDul0.flv
+台视新闻,http://flv.mp4cdn.live/aa3314.php?id=148
+台视新闻,http://pull-tbj1.alivecdn.com/live/VRTYY0Vdg4N9RnT4msSpIzwSXwxx8gUn.flv
+华视新闻,http://flv.mp4cdn.live/aa3314.php?id=153
+华视新闻,http://pull-tbj1.alivecdn.com/live/yaaMfBsuVm0iusmRyknaH5tgtkA8pT5r.flv
+中视 HD,http://flv.mp4cdn.live/aa3314.php?id=35
+中视 HD,http://pull-tbj1.alivecdn.com/live/64UdgwN1ZlkBxzRPrRH06M8o1IByJDrw.flv
+民视 HD,http://flv.mp4cdn.live/aa3314.php?id=36
+民视 HD,http://pull-tbj1.alivecdn.com/live/nkAuTWAlgD2CbOen7eXp5UEBGG4S4ebq.flv
+华视 HD,http://flv.mp4cdn.live/aa3314.php?id=38
+华视 HD,http://pull-tbj1.alivecdn.com/live/vcg69u9pB78Yvn0eQfhz9BV6rRquzqUx.flv
+公视3,http://flv.mp4cdn.live/aa3314.php?id=39
+公视3,http://pull-tbj1.alivecdn.com/live/IBNgpzgq4AKiAMt9urw2wzgbysIBfefw.flv
+民视第一,http://flv.mp4cdn.live/aa3314.php?id=51
+民视第一,http://pull-tbj1.alivecdn.com/live/yW9EmUHbknAdCyRdUgpaCLJMoGJYmevw.flv
+民视台湾,http://flv.mp4cdn.live/aa3314.php?id=37
+民视台湾,http://pull-tbj1.alivecdn.com/live/hUUyssm1VsYEJttkxcAdlhvA3gl91SYz.flv
 
 
 翡翠台,http://r.jdshipin.com/62WM7
@@ -239,6 +447,137 @@ Discovery Asia,http://103.112.191.9:880/LAOSAT1095.m3u8
 華視新聞資訊,http://stream.dsichannel.com/hls/ctsnews.m3u8
 天映頻道,http://210.210.155.35:80/dr9445/h/h14/01.m3u8
 STAR Movie Gold,http://61.221.81.93:8524/hls/65/807/ch843.m3u8
+
+
+
+
+
+
+
+1️⃣┃重庆有线,#genre#
+欢笑剧场4K,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=hxjc_4K
+CCTV-4K,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=CCTV4K
+CCTV16-4K,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=CCTV16_4K
+4K60PSDR-H264-AAC测试,http://159.75.85.63:5680/d/ad/h264/playad.m3u8
+4K60PHLG-HEVC-EAC3测试,http://159.75.85.63:5680/d/ad/playad.m3u8
+CCTV1综合高清,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=cctv1HD
+CCTV2财经高清,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=cctv2HD
+CCTV3综艺高清,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=cctv3HD
+CCTV4中文国际高清,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=cctv4HD
+CCTV5体育高清,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=cctv5HD
+CCTV5P高清,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=cctv5SportHD
+CCTV6电影高清,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=cctv6HD
+CCTV7国防军事高清,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=cctv7HD
+CCTV8电视剧高清,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=cctv8HD
+CCTV9纪录高清,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=cctv9HD
+CCTV10科教高清,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=cctv10HD
+CCTV11戏曲高清,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=cctv11HD
+CCTV12社会与法高清,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=cctv12HD
+CCTV13新闻高清,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=CCTVNewsHD
+CCTV14少儿高清,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=cctvseHD
+CCTV15音乐高清,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=cctv15HD
+CCTV16奥林匹克高清,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=cctv16HD
+CCTV17农业农村高清,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=cctv17HD
+重庆卫视高清,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=chongqingHD
+江苏卫视高清,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=jiangsuHD
+北京卫视高清,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=beijingHD
+浙江卫视高清,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=zhejiangHD
+东方卫视高清,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=shanghaiHD
+深圳卫视高清,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=shenzhenHD
+辽宁卫视高清,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=liaoningHD
+天津卫视高清,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=tianjinHD
+贵州卫视高清,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=guizhouHD
+四川卫视高清,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=sichuanHD
+云南卫视高清,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=yunnanSD
+东南卫视高清,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=dongnanHD
+黑龙江卫视高清,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=heilongjiangHD
+安徽卫视高清,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=anhuiSD
+河北卫视高清,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=hebeiSD
+江西卫视高清,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=jiangxiHD
+湖北卫视高清,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=hubeiSD
+海南卫视高清,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=hainanSD
+吉林卫视高清,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=jilinHD
+广西卫视高清,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=guangxiHD
+内蒙古卫视,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=neimengkuSD
+湖南卫视高清,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=hunanHD
+广东卫视高清,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=guangdongHD
+河南卫视高清,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=henanHD
+山西卫视,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=shanxiSD
+兵团卫视,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=bingtuanSD
+宁夏卫视,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=ningxia
+北京卡酷少儿,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=bjkakuSD
+金鹰卡通高清,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=jinyingSD
+三沙卫视,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=sanshaSD
+青海卫视,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=qinghaiSD
+中国天气,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=tianqiSD
+北京纪实科教高清,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=bjayjsSD
+山东教育卫视,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=sdjiaoyuSD
+新疆卫视,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=xinjiangSD
+西藏卫视,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=xizangSD
+CGTN,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=cgtnSD
+CETV-1,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=cetv-1SD
+CETV-4,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=cetv-4SD
+生活时尚,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=shenghuo
+百姓健康,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=jiankangSD
+快乐垂钓高清,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=klcdHD
+第一剧场高清,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=diyijuchangHD
+都市剧场高清,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=dsjcHD
+动漫秀场高清,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=dmxcHD
+魅力足球高清,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=mlzqHD
+风云剧场高清,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=fyjcHD
+求索纪录高清,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=qsjlHD
+兵器科技高清,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=bqkjHD
+游戏风云高清,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=yxfyHD
+怀旧剧场高清,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=hjjcHD
+风云音乐高清,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=fyyyHD
+央视台球高清,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=ystqHD
+风云足球高清,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=fyzqHD
+央视文化精品高清,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=yswhHD
+高尔夫网球高清,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=golfHD
+早期教育高清,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=zaojiaoHD
+重庆新闻高清,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=CQTVNewsHD
+重庆影视高清,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=cqyingshiHD
+重庆社会与法高清,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=CQTVTrendyHD
+重庆时尚生活高清,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=cqssgwHD
+重庆文体娱乐高清,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=cqwtylHD
+重庆新农村高清,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=cqggncHD
+重庆少儿高清,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=cqseHD
+重庆科教高清,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=CQTVkejiaoHD
+爱看导视高清,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=aikanHD
+重庆汽摩高清,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=cqcarSD
+重庆移动高清,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=mryyHD
+重广融媒,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=cqrongmei
+优购物,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=yougouwu
+家家购物,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=jjgw
+风尚购物,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=fsgw
+聚鲨环球精选,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=jusha
+中视购物,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=ysgw
+家有购物,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=jygw
+央广购物,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=yggw
+东方财经高清,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=dfcj
+证券服务,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=jiazheng
+书画,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=shuhua
+新动漫,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=dongman
+国学频道,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=guoxue
+优优宝贝,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=youxi
+中华特产,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=techan
+环球奇观,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=car
+生态环境,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=shengtai
+四海钓鱼,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=diaoyu
+发现之旅,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=faxian
+车迷,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=doxtv
+法治天地,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=fazhi
+金色学堂,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=jinse
+收藏天下,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=soucang
+财富天下,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=caifu
+女性时尚,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=nvxing
+中学生,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=qicai
+天元围棋,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=weiqi
+先锋乒羽,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=xianfeng
+环球旅游,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=huanqiulvyou
+老故事,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=gushi
+摄影频道,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=sheying
+靓妆,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=liang
 
 
 
@@ -708,51 +1047,6 @@ CHC家庭影院2,http://angtv.cc/test/gehua.php?id=chcjt2
 
 
 
-CCTV1,http://xn5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/bst.php?id=cctv1hd8m/8000000
-CCTV2,http://xn5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/bst.php?id=cctv2hd8m/8000000
-CCTV3,http://xn5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/bst.php?id=cctv38m/8000000
-CCTV4,http://xn5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/bst.php?id=cctv4hd8m/8000000
-CCTV5,http://xn5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/bst.php?id=cctv58m/8000000
-CCTV5+,http://xn5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/bst.php?id=cctv5phd8m/8000000
-CCTV6,http://xn5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/bst.php?id=cctv6hd8m/8000000
-CCTV7,http://xn5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/bst.php?id=cctv7hd8m/8000000
-CCTV8,http://xn5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/bst.php?id=cctv8hd8m/8000000
-CCTV9,http://xn5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/bst.php?id=cctv9hd8m/8000000
-CCTV10,http://xn5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/bst.php?id=cctv10hd8m/8000000
-CCTV11,http://xn5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/bst.php?id=cctv11hd8m/8000000
-CCTV12,http://xn5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/bst.php?id=cctv12hd8m/8000000
-CCTV13,http://xn5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/bst.php?id=cctv13xwhd8m/8000000
-CCTV14,http://xn5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/bst.php?id=cctvsehd8m/8000000
-CCTV15,http://xn5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/bst.php?id=cctv15hd8m/8000000
-CCTV16,http://xn5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/bst.php?id=cctv16hd8m/8000000
-CCTV164K,http://xn5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/bst.php?id=cctv16hd4k/15000000
-CCTV4K,http://xn5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/bst.php?id=cctv4k/15000000
-CCTV17,http://xn5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/bst.php?id=cctv17hd8m/8000000
-江苏卫视,http://xn5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/bst.php?id=jswshd8m/8000000
-广西卫视,http://xn5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/bst.php?id=gxwshd8m/8000000
-四川卫视,http://xn5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/bst.php?id=scwshd/8000000
-湖南卫视,http://xn5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/bst.php?id=hunanwshd8m/8000000
-浙江卫视,http://xn5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/bst.php?id=zjwshd8m/8000000
-东方卫视,http://xn5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/bst.php?id=dfwshd8m/8000000
-北京卫视,http://xn5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/bst.php?id=bjwshd8m/8000000
-天津卫视,http://xn5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/bst.php?id=tjwshd8m/8000000
-辽宁卫视,http://xn5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/bst.php?id=lnwshd8m/8000000
-安徽卫视,http://xn5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/bst.php?id=ahwshd8m/8000000
-黑龙江卫视,http://xn5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/bst.php?id=hljwshd8m/8000000
-广东卫视,http://xn5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/bst.php?id=gdwshd8m/8000000
-深圳卫视,http://xn5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/bst.php?id=szwshd8m/8000000
-湖北卫视,http://xn5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/bst.php?id=hubeiws8m/8000000
-吉林卫视,http://xn5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/bst.php?id=jlwshd8m/8000000
-山东卫视,http://xn5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/bst.php?id=sdws8m/8000000
-江西卫视,http://xn5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/bst.php?id=jxws8m/8000000
-河南卫视,http://xn5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/bst.php?id=hnwshd8m/8000000
-河北卫视,http://xn5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/bst.php?id=hbwshd8m/8000000
-甘肃卫视,http://xn5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/bst.php?id=gswshd8m/8000000
-重庆卫视,http://xn5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/bst.php?id=cqws8m/8000000
-东南卫视,http://xn5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/bst.php?id=dnwshd8m/8000000
-云南卫视,http://xn5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/bst.php?id=ynwshd8m/8000000
-贵州卫视,http://xn5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/bst.php?id=gzwshd8m/8000000
-海南卫视,http://xn5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/bst.php?id=hainanwshd8m/8000000
 
 
 
