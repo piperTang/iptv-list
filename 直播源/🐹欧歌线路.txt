@@ -1,8 +1,8 @@
-//🇨🇳欧歌2023-10-30 03:03:07整合本接口
+//🇨🇳欧歌2023-10-31 03:03:05整合本接口
 
 {
 "wallpaper":"./t/",
-"spider":"","warningText":"公众号欧歌app软件接口免费，长期维护，切勿贩卖。",
+"spider":"","warningText":"公众号欧歌app公众号欧歌app，长期维护，切勿贩卖。",
 
 
 "lives":[{"name":"live","type":0,"url":"./tv/","playerType":1,"ua": "okhttp/3.12.13","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
@@ -207,7 +207,7 @@
 
 
 
-{"key" : "drpy_js_榜单荐片4","name" : "软件接口免费","type" : 3,"api":"./lib/apiv71apiv71drpy2.min.js","ext":"./lib/drpy.js"},
+{"key" : "drpy_js_榜单荐片4","name" : "公众号欧歌app","type" : 3,"api":"./lib/apiv71apiv71drpy2.min.js","ext":"./lib/drpy.js"},
 {"key" : "drpy_js_榜单荐片3","name" : "长期维护，切勿贩卖。","type" : 3,"api":"./lib/drpy2.min.js","ext":"./lib/drpy.js"}
 
 ],
