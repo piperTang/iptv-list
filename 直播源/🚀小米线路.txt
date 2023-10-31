@@ -1685,6 +1685,7 @@ CGTN,http://193.233.206.48/电视直播源分享群-212710857.php?/PLTV/&auth=23
 CCTV4K,http://liveop.cctv.cn/hls/4KHD/playlist.m3u8   
 CCTV4K,http://liveop.cctv.cn/hls/4KHD/playlist.m3u8?zzhongd
 CCTV4K,http://193.233.206.48/电视直播源分享群-212710857.php?/PLTV/&auth=231018&ip=&id=cctv4k
+CCTV8K,http://us-sjc-bgp-2.openfrp.top:10180/test/test/cctv8k.php
 CCTV16,http://193.233.206.48/电视直播源分享群-212710857.php?/PLTV/&auth=231018&ip=&id=cctv164k
 4K超高清电影,http://159.75.85.63:5681/sxg.php
 爱自然,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8

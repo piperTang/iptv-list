@@ -50,9 +50,13 @@ TEST忘记他,https://vd3.bdstatic.com/mdanga3uh0v4ay4gd8f/720p/h264/16575073978
 舞迷心窍,http://playradiostream3.hndt.com/now/WBhgSD3A/playlist.m3u8
 
 🥼┃测试频道_110,#genre#
-
-
-
+Hoy 资讯,https://pull-f5-spe.ixigua.com/live/YesLiveTV-3e9f20e4-e6fd-4292-ac7a-3180610b1edd/index.m3u8?by=yeslivetv.com
+Hoy TV,https://pull-f5-spe.ixigua.com/yeslivetv.com/873823182-51085598/index.m3u8?by=yeslivetv.com
+无线 新闻,https://pull-f5-spe.ixigua.com/yeslivetv.com/321969001-224604748/index.m3u8?by=yeslivetv.com
+无线 财经,https://pull-f5-spe.ixigua.com/yeslivetv.com/597832359-442795908/index.m3u8?by=yeslivetv.com
+TVBS 新闻,https://pull-f5-spe.ixigua.com/live/YesLiveTV-721adc40-fec7-40e6-8501-5ee4af74afa5/index.m3u8?by=yeslivetv.com
+东森 新闻,https://pull-f5-spe.ixigua.com/yeslivetv.com/160031102-679947255/index.m3u8?by=yeslivetv.com
+年代 新聞,https://pull-f5-spe.ixigua.com/live/YesLiveTV-4aabc0bf-888d-41f2-95d9-a91c7933fa8b/index.m3u8?by=yeslivetv.com
 凤凰中文,http://r.jdshipin.com/cCCzW
 凤凰资讯,http://php.17186.eu.org/phtv/fhzx.m3u8
 凤凰中文,http://180.97.247.27/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel52003/index.m3u8
@@ -164,6 +168,139 @@ TVBS新闻,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
 俄罗斯中文,http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
 香港佛陀,http://js1.amtb.cn/liveedge/_definst_/livetv/chunklist.m3u8
 香港佛陀,https://js1.amtb.cn/liveedge/_definst_/livetv/playlist.m3u8
+
+
+1️⃣┃歌华,#genre#
+
+央视,#genre#
+CCTV1,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/gehua.php?/PLTV/&date=231030&ip=&id=cctv1$1.5M 340P
+CCTV1,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/gehua.php?/PLTV/&date=231030&ip=&id=cctv1_2$3M 1080P
+CCTV2,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/gehua.php?/PLTV/&date=231030&ip=&id=cctv2$3M 1080P
+CCTV3,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/gehua.php?/PLTV/&date=231030&ip=&id=cctv3$3M 1080P
+CCTV4,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/gehua.php?/PLTV/&date=231030&ip=&id=cctv4$3M 1080P
+CCTV5,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/gehua.php?/PLTV/&date=231030&ip=&id=cctv5$3M 1080P
+CCTV6,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/gehua.php?/PLTV/&date=231030&ip=&id=cctv6$3M 1080P
+CCTV7,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/gehua.php?/PLTV/&date=231030&ip=&id=cctv7$3M 1080P
+CCTV8,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/gehua.php?/PLTV/&date=231030&ip=&id=cctv8$3M 1080P
+CCTV9,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/gehua.php?/PLTV/&date=231030&ip=&id=cctv9$3M 1080P
+CCTV10,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/gehua.php?/PLTV/&date=231030&ip=&id=cctv10$3M 1080P
+CCTV11,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/gehua.php?/PLTV/&date=231030&ip=&id=cctv11$0.8M 576P
+CCTV12,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/gehua.php?/PLTV/&date=231030&ip=&id=cctv12$3M 1080P
+CCTV13,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/gehua.php?/PLTV/&date=231030&ip=&id=cctv13$0.8M 576P
+CCTV14,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/gehua.php?/PLTV/&date=231030&ip=&id=cctv14$3M 1080P
+CCTV15,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/gehua.php?/PLTV/&date=231030&ip=&id=cctv15$3M 1080P
+CCTV15,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/gehua.php?/PLTV/&date=231030&ip=&id=cctv15_2$0.8M 576P
+CCTV16,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/gehua.php?/PLTV/&date=231030&ip=&id=cctv16$3M 1080P
+CCTV17,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/gehua.php?/PLTV/&date=231030&ip=&id=cctv17$3M 1080P
+CCTV5+,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/gehua.php?/PLTV/&date=231030&ip=&id=cctv5p$3M 1080P
+CGTN,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/gehua.php?/PLTV/&date=231030&ip=&id=cgtn$0.8M 576P
+中国教育1台,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/gehua.php?/PLTV/&date=231030&ip=&id=zgjy1$3M 1080P
+中国教育3台,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/gehua.php?/PLTV/&date=231030&ip=&id=zgjy3$0.8M 576P
+中国教育4台,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/gehua.php?/PLTV/&date=231030&ip=&id=zgjy4$0.8M 576P
+卫视,#genre#
+广西卫视,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/gehua.php?/PLTV/&date=231030&ip=&id=gxws$3M 1080P
+广东卫视,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/gehua.php?/PLTV/&date=231030&ip=&id=gdws$3M 1080P
+深圳卫视,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/gehua.php?/PLTV/&date=231030&ip=&id=szws$3M 1080P
+海南卫视,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/gehua.php?/PLTV/&date=231030&ip=&id=hainan$3M 1080P
+三沙卫视,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/gehua.php?/PLTV/&date=231030&ip=&id=ssws$0.8M 576P
+云南卫视,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/gehua.php?/PLTV/&date=231030&ip=&id=ynws$0.8M 576P
+贵州卫视,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/gehua.php?/PLTV/&date=231030&ip=&id=gzws$0.8M 576P
+东南卫视,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/gehua.php?/PLTV/&date=231030&ip=&id=dnws$3M 1080P
+厦门卫视,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/gehua.php?/PLTV/&date=231030&ip=&id=xmws$0.8M 576P
+江西卫视,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/gehua.php?/PLTV/&date=231030&ip=&id=jxws$3M 1080P
+安徽卫视,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/gehua.php?/PLTV/&date=231030&ip=&id=ahws$3M 1080P
+湖南卫视,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/gehua.php?/PLTV/&date=231030&ip=&id=hunan$3M 1080P
+湖北卫视,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/gehua.php?/PLTV/&date=231030&ip=&id=hubei$3M 1080P
+河南卫视,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/gehua.php?/PLTV/&date=231030&ip=&id=hnws$3M 1080P
+河北卫视,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/gehua.php?/PLTV/&date=231030&ip=&id=hbws$3M 1080P
+重庆卫视,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/gehua.php?/PLTV/&date=231030&ip=&id=cqws$3M 1080P
+四川卫视,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/gehua.php?/PLTV/&date=231030&ip=&id=scws$3M 1080P
+浙江卫视,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/gehua.php?/PLTV/&date=231030&ip=&id=zjws$3M 1080P
+江苏卫视,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/gehua.php?/PLTV/&date=231030&ip=&id=jsws$3M 1080P
+东方卫视,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/gehua.php?/PLTV/&date=231030&ip=&id=dfws$3M 1080P
+山东卫视,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/gehua.php?/PLTV/&date=231030&ip=&id=sdws$3M 1080P
+山东教育卫视,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/gehua.php?/PLTV/&date=231030&ip=&id=sdjy$0.8M 576P
+北京卫视,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/gehua.php?/PLTV/&date=231030&ip=&id=bjws$1.5M 340P
+北京卫视,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/gehua.php?/PLTV/&date=231030&ip=&id=bjws_2$3M 1080P
+天津卫视,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/gehua.php?/PLTV/&date=231030&ip=&id=tjws$3M 1080P
+辽宁卫视,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/gehua.php?/PLTV/&date=231030&ip=&id=lnws$3M 1080P
+吉林卫视,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/gehua.php?/PLTV/&date=231030&ip=&id=jlws$3M 1080P
+黑龙江卫视,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/gehua.php?/PLTV/&date=231030&ip=&id=hljws$3M 1080P
+陕西卫视,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/gehua.php?/PLTV/&date=231030&ip=&id=sxws$0.8M 576P
+山西卫视,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/gehua.php?/PLTV/&date=231030&ip=&id=shanxi$0.8M 576P
+甘肃卫视,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/gehua.php?/PLTV/&date=231030&ip=&id=gsws$0.8M 576P
+宁夏卫视,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/gehua.php?/PLTV/&date=231030&ip=&id=nxws$0.8M 576P
+青海卫视,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/gehua.php?/PLTV/&date=231030&ip=&id=qhws$0.8M 576P
+西藏卫视,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/gehua.php?/PLTV/&date=231030&ip=&id=xzws$0.8M 576P
+新疆卫视,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/gehua.php?/PLTV/&date=231030&ip=&id=xjws$0.8M 576P
+兵团卫视,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/gehua.php?/PLTV/&date=231030&ip=&id=btws$0.8M 576P
+内蒙古卫视,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/gehua.php?/PLTV/&date=231030&ip=&id=nmgws$0.8M 576P
+卡通,#genre#
+金鹰卡通,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/gehua.php?/PLTV/&date=231030&ip=&id=jykt$0.8M 576P
+数字,#genre#
+CHC家庭影院,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/gehua.php?/PLTV/&date=231030&ip=&id=chcjt$0.8M 576P
+CHC动作电影,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/gehua.php?/PLTV/&date=231030&ip=&id=chcdz$0.8M 576P
+CHC高清电影,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/gehua.php?/PLTV/&date=231030&ip=&id=chcgq$3M 1080P
+老故事,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/gehua.php?/PLTV/&date=231030&ip=&id=lgs$0.8M 576P
+发现之旅,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/gehua.php?/PLTV/&date=231030&ip=&id=fxzl$0.8M 576P
+环球奇观,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/gehua.php?/PLTV/&date=231030&ip=&id=hqqg$0.8M 576P
+中国天气,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/gehua.php?/PLTV/&date=231030&ip=&id=zgtq$0.8M 576P
+早期教育,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/gehua.php?/PLTV/&date=231030&ip=&id=zqjy$0.8M 576P
+书画,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/gehua.php?/PLTV/&date=231030&ip=&id=shuhua$0.8M 576P
+地方,#genre#
+优优宝贝,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/gehua.php?/PLTV/&date=231030&ip=&id=yybb$0.8M 576P
+中华特产,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/gehua.php?/PLTV/&date=231030&ip=&id=zhtc$0.8M 576P
+四海钓鱼,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/gehua.php?/PLTV/&date=231030&ip=&id=shdy$0.8M 576P
+环球旅游,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/gehua.php?/PLTV/&date=231030&ip=&id=hqly$0.8M 576P
+生态环境,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/gehua.php?/PLTV/&date=231030&ip=&id=sthj$0.8M 576P
+车迷频道,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/gehua.php?/PLTV/&date=231030&ip=&id=cmpd$0.8M 576P
+家庭理财,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/gehua.php?/PLTV/&date=231030&ip=&id=jtlc$0.8M 576P
+财富天下,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/gehua.php?/PLTV/&date=231030&ip=&id=cftx$0.8M 576P
+中华美食,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/gehua.php?/PLTV/&date=231030&ip=&id=zhms$0.8M 576P
+茶频道,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/gehua.php?/PLTV/&date=231030&ip=&id=cpd$0.8M 576P
+天元围棋,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/gehua.php?/PLTV/&date=231030&ip=&id=tywq$0.8M 576P
+京视剧场,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/gehua.php?/PLTV/&date=231030&ip=&id=jsjc$0.8M 576P
+动感音乐,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/gehua.php?/PLTV/&date=231030&ip=&id=dgyy$0.8M 576P
+弈坛春秋,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/gehua.php?/PLTV/&date=231030&ip=&id=ytcq$0.8M 576P
+置业频道,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/gehua.php?/PLTV/&date=231030&ip=&id=zypd$0.8M 576P
+SiTV,#genre#
+都市剧场,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/gehua.php?/PLTV/&date=231030&ip=&id=dsjc$3M 1080P
+动漫秀场,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/gehua.php?/PLTV/&date=231030&ip=&id=dmxc$3M 1080P
+乐游,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/gehua.php?/PLTV/&date=231030&ip=&id=leyou$3M 1080P
+游戏风云,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/gehua.php?/PLTV/&date=231030&ip=&id=yxfy$3M 1080P
+劲爆体育,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/gehua.php?/PLTV/&date=231030&ip=&id=jbty$3M 1080P
+魅力足球,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/gehua.php?/PLTV/&date=231030&ip=&id=mlzq$3M 1080P
+法治天地,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/gehua.php?/PLTV/&date=231030&ip=&id=fztd$0.8M 576P
+金色学堂,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/gehua.php?/PLTV/&date=231030&ip=&id=jsxt$0.8M 576P
+生活时尚,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/gehua.php?/PLTV/&date=231030&ip=&id=shss$3M 1080P
+其它,#genre#
+足球频道,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/gehua.php?/PLTV/&date=231030&ip=&id=zuqiu$3M 1080P
+北京纪实科教,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/gehua.php?/PLTV/&date=231030&ip=&id=bjjskj$0.8M 576P
+北京体育休闲,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/gehua.php?/PLTV/&date=231030&ip=&id=bjtyxx$3M 1080P
+北京财经,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/gehua.php?/PLTV/&date=231030&ip=&id=bjcj$0.8M 576P
+北京生活,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/gehua.php?/PLTV/&date=231030&ip=&id=bjsh$0.8M 576P
+北京文艺,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/gehua.php?/PLTV/&date=231030&ip=&id=bjwy$3M 1080P
+北京新闻,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/gehua.php?/PLTV/&date=231030&ip=&id=bjxw$3M 1080P
+北京新闻,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/gehua.php?/PLTV/&date=231030&ip=&id=bjxw_2$3M 1080P
+北京影视,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/gehua.php?/PLTV/&date=231030&ip=&id=bjys$3M 1080P
+门头沟新闻,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/gehua.php?/PLTV/&date=231030&ip=&id=mtgxw$0.8M 576P
+歌华导视,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/gehua.php?/PLTV/&date=231030&ip=&id=ghds$1.5M 340P
+歌华导视,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/gehua.php?/PLTV/&date=231030&ip=&id=ghds_2$3M 1080P
+空中课堂,#genre#
+空中课堂一年级,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/gehua.php?/PLTV/&date=231030&ip=&id=kzkt1$0.8M 576P
+空中课堂二年级,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/gehua.php?/PLTV/&date=231030&ip=&id=kzkt2$0.8M 576P
+空中课堂三年级,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/gehua.php?/PLTV/&date=231030&ip=&id=kzkt3$0.8M 576P
+空中课堂四年级,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/gehua.php?/PLTV/&date=231030&ip=&id=kzkt4$0.8M 576P
+空中课堂五年级,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/gehua.php?/PLTV/&date=231030&ip=&id=kzkt5$0.8M 576P
+空中课堂六年级,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/gehua.php?/PLTV/&date=231030&ip=&id=kzkt6$0.8M 576P
+空中课堂七年级,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/gehua.php?/PLTV/&date=231030&ip=&id=kzkt7$0.8M 576P
+空中课堂八年级,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/gehua.php?/PLTV/&date=231030&ip=&id=kzkt8$0.8M 576P
+空中课堂九年级,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/gehua.php?/PLTV/&date=231030&ip=&id=kzkt9$0.8M 576P
+空中课堂高一,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/gehua.php?/PLTV/&date=231030&ip=&id=kzktg1$0.8M 576P
+空中课堂高二,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/gehua.php?/PLTV/&date=231030&ip=&id=kzktg2$0.8M 576P
+空中课堂高三,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/gehua.php?/PLTV/&date=231030&ip=&id=kzktg3$0.8M 576P
+
+
 
 1️⃣┃蜀小果,#genre#
 CCTV1,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/sxg.php?id=CCTV-1H265_4000
