@@ -1,14 +1,14 @@
-//🇨🇳欧歌2023-11-06 03:03:11整合本接口
+//🇨🇳欧歌2023-11-07 03:03:07整合本接口
 
 {
 "wallpaper":"./t/",
 "spider":"","warningText":"公众号欧歌app公众号欧歌app，长期维护，切勿贩卖。",
 
 
-"lives":[{"name":"live","type":0,"url":"./tv/","playerType":1,"ua": "okhttp/3.12.13","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
+"lives":[{"name":"live","type":0,"url":"./jar.php?id=live","playerType":1,"ua": "okhttp/3.12.13","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
 {"name":"TV","type":0,"url":"https://agit.ai/fantaiying/fmm/raw/branch/main/tv/m3u/global.m3u","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}],
 "sites": [
-{"key":"drpy_js_榜单荐片","name":"❤更新:10/25❤tv.nxog.top","type":3,"api":"./lib/apiv71apiv71drpy2.min.js","ext":"./lib/drpy.js"},
+{"key":"drpy_js_榜单荐片","name":"❤更新:11/6❤tv.nxog.top","type":3,"api":"./lib/apiv71apiv71drpy2.min.js","ext":"./lib/drpy.js"},
 
 {"key":"drpy_js_榜单荐片2","name":"📢公众号欧歌app榜单荐片","type":3,"api":"./lib/drpy2.min.js","ext":"./lib/drpy.js"},
 
