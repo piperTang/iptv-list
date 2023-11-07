@@ -1,4 +1,4 @@
-//🇨🇳欧歌2023-11-07 03:03:07整合本接口
+//🇨🇳欧歌2023-11-08 03:03:28整合本接口
 
 {
 "wallpaper":"./t/",
@@ -8,7 +8,7 @@
 "lives":[{"name":"live","type":0,"url":"./jar.php?id=live","playerType":1,"ua": "okhttp/3.12.13","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
 {"name":"TV","type":0,"url":"https://agit.ai/fantaiying/fmm/raw/branch/main/tv/m3u/global.m3u","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}],
 "sites": [
-{"key":"drpy_js_榜单荐片","name":"❤更新:11/6❤tv.nxog.top","type":3,"api":"./lib/apiv71apiv71drpy2.min.js","ext":"./lib/drpy.js"},
+{"key":"drpy_js_榜单荐片","name":"❤更新:11/7❤tv.nxog.top","type":3,"api":"./lib/apiv71apiv71drpy2.min.js","ext":"./lib/drpy.js"},
 
 {"key":"drpy_js_榜单荐片2","name":"📢公众号欧歌app榜单荐片","type":3,"api":"./lib/drpy2.min.js","ext":"./lib/drpy.js"},
 
@@ -20,8 +20,9 @@
 {"key":"csp_Bdys","name":"💡哔嘀|直连","type":3,"api":"csp_Bdys","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Ikanbot","name": "💡Ikanbot|直连","type": 3,"api": "csp_Ikanbot","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"360_spider","name":"💡360|直连","type":3,"api":"csp_SP360","filterable":1,"quickSearch":1,"searchable":1},
-//{"key":"csp_77","name":"🌟酷酷七七|直连","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
-
+{"key":"csp_77","name":"🌟七七|直连","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
+//{"key":"csp_Czsapp","name":"💡厂长|直连","type":3,"api":"csp_Czsapp","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.czzy88.com"},
+{"key":"csp_Ddys","name":"💡低端|直连","type":3,"api":"csp_Ddys","searchable":1,"quickSearch":1,"filterable":1},
 //js
 
 { "key": "MV_vod", "name": "🎸明星┃MV", "type": 1, "api": "https://tvbox-mv--leosam2048.repl.co/mv/vod", "searchable": 1, "quickSearch": 1, "filterable": 1 },
@@ -64,14 +65,14 @@
 //阿里
 {"key": "csp_KungFu404","name": "🐲️阿里｜登录设置","type": 3,"api": "csp_KungFu404","searchable": 1,"filterable": 0,"changeable": 0,"jar":"./jar.php?id=404;md5;332d0e5a28640ee88589390ad4a23a39"},
 { "key": "玩偶内置", "name": "🐲玩偶┃T4", "type": 4,"api":"http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=0068144bf4d24f3284819c15f3a49482"},
-{"key":"csp_Wogg","name":"💖阿里┃玩偶","type":3,"api":"csp_Wogg","searchable":1,"changeable":0,"ext":{"token":"http://127.0.0.1:9978/file/tvbox/token.txt+4k|fhd|auto","filter":"https://jihulab.com/duomv/xduo/-/raw/main/wogg.json"},"jar":"./jar.php?id=ali;md5;18ee45921e80c33623b4c0561970666a"},
-{"key":"csp_阿里七夜","name":"💖阿里┃七夜","type":3,"api":"csp_Dovx","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://127.0.0.1:9978/file/tvbox/token.txt+4k|fhd|auto","jar":"./jar.php?id=ali;md5;18ee45921e80c33623b4c0561970666a"},
-{"key":"csp_XiaoZhiTiao","name":"💖阿里┃纸条","type":3,"api":"csp_XiaoZhiTiao","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://127.0.0.1:9978/file/tvbox/token.txt+4k|fhd|auto","jar":"./jar.php?id=ali;md5;18ee45921e80c33623b4c0561970666a"},
-{"key":"PanSearch","name":"💖阿里┃PanS","type":3,"api":"csp_PanSearch","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://127.0.0.1:9978/file/tvbox/token.txt+4k|fhd|auto","jar":"./jar.php?id=ali;md5;18ee45921e80c33623b4c0561970666a"},
-{"key":"Upyunso","name":"💖阿里┃云搜","type":3,"api":"csp_UpYun","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://127.0.0.1:9978/file/tvbox/token.txt+4k|fhd|auto","jar":"./jar.php?id=ali;md5;18ee45921e80c33623b4c0561970666a"},
-{"key":"Alips","name":"💖阿里┃盘搜","type":3,"api":"csp_PanSou","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://127.0.0.1:9978/file/tvbox/token.txt+4k|fhd|auto","jar":"./jar.php?id=ali;md5;18ee45921e80c33623b4c0561970666a"},
-{"key":"Yisou","name":"💖阿里┃易搜","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://127.0.0.1:9978/file/tvbox/token.txt+4k|fhd|auto","jar":"./jar.php?id=ali;md5;18ee45921e80c33623b4c0561970666a"},
-{"key":"Zhaozy","name":"💖阿里┃找片","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://127.0.0.1:9978/file/tvbox/token.txt+4k|fhd|auto$$$多多$$$159357","jar":"./jar.php?id=ali;md5;18ee45921e80c33623b4c0561970666a"},
+{"key":"csp_Wogg","name":"💖阿里┃玩偶","type":3,"api":"csp_Wogg","searchable":1,"changeable":0,"ext":{"token":"http://127.0.0.1:9978/file/tvbox/token.txt+4k|fhd|auto","filter":"https://jihulab.com/duomv/xduo/-/raw/main/wogg.json"},"jar":"./jar.php?id=ali;md5;16d623992432b689a337d4ab681c8a130"},
+{"key":"csp_阿里七夜","name":"💖阿里┃七夜","type":3,"api":"csp_Dovx","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://127.0.0.1:9978/file/tvbox/token.txt+4k|fhd|auto","jar":"./jar.php?id=ali;md5;16d623992432b689a337d4ab681c8a130"},
+{"key":"csp_XiaoZhiTiao","name":"💖阿里┃纸条","type":3,"api":"csp_XiaoZhiTiao","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://127.0.0.1:9978/file/tvbox/token.txt+4k|fhd|auto","jar":"./jar.php?id=ali;md5;16d623992432b689a337d4ab681c8a130"},
+{"key":"PanSearch","name":"💖阿里┃PanS","type":3,"api":"csp_PanSearch","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://127.0.0.1:9978/file/tvbox/token.txt+4k|fhd|auto","jar":"./jar.php?id=ali;md5;16d623992432b689a337d4ab681c8a130"},
+{"key":"Upyunso","name":"💖阿里┃云搜","type":3,"api":"csp_UpYun","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://127.0.0.1:9978/file/tvbox/token.txt+4k|fhd|auto","jar":"./jar.php?id=ali;md5;16d623992432b689a337d4ab681c8a130"},
+{"key":"Alips","name":"💖阿里┃盘搜","type":3,"api":"csp_PanSou","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://127.0.0.1:9978/file/tvbox/token.txt+4k|fhd|auto","jar":"./jar.php?id=ali;md5;16d623992432b689a337d4ab681c8a130"},
+{"key":"Yisou","name":"💖阿里┃易搜","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://127.0.0.1:9978/file/tvbox/token.txt+4k|fhd|auto","jar":"./jar.php?id=ali;md5;16d623992432b689a337d4ab681c8a130"},
+{"key":"Zhaozy","name":"💖阿里┃找片","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://127.0.0.1:9978/file/tvbox/token.txt+4k|fhd|auto$$$多多$$$159357","jar":"./jar.php?id=ali;md5;16d623992432b689a337d4ab681c8a130"},
 
 {"key":"Gitcafe","name":"❤️阿里｜纸条","type":3,"api":"csp_Gitcafe","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://127.0.0.1:9978/file/tvbox/tok.txt"},
 {"key":"csp_Zhaozy","name":"❤️阿里｜找资源","type":3,"api":"csp_Zhaozy","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://127.0.0.1:9978/file/tvbox/tok.txt"},
@@ -184,8 +185,7 @@
       }
     },
   
-//{"key":"csp_Czsapp","name":"💡厂长|直连","type":3,"api":"csp_Czsapp","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://cz01.me"},
-{"key":"csp_Ddys","name":"💡低端|直连","type":3,"api":"csp_Ddys","searchable":1,"quickSearch":1,"filterable":1},
+
 
 //磁力资源区
 {"key": "csp_Mp4Mov","name": "🧲Mp4电影|磁力","type": 3,"api": "csp_Mp4Mov","searchable": 1,"quickSearch": 1,"filterable": 1},
@@ -200,10 +200,10 @@
 
 
 //网盘
-{"key":"csp_Alist","name":"🍰Alist┃网盘","type":3,"jar":"./jar.php?id=ali;md5;18ee45921e80c33623b4c0561970666a","api":"csp_AList","searchable":1,"quickSearch":1,"ext":{"drives":[{"name":"🦆鸭鸭","server":"http://shicheng.wang:555/","version":3},{"name":"ECVE","server":"https://pan.ecve.cn","version":3},{"name":"觸光","server":"https://pan.ichuguang.com","version":3},{"name":"神族九帝","server":"https://alist.shenzjd.com","version":3},{"name":"小雅","server":"http://alist.xiaoya.pro","version":3},{"name":"觸光","server":"https://pan.ichuguang.com","version":3},{"name":"七米藍","server":"https://al.chirmyram.com","version":3},{"name":"神族九帝","server":"https://alist.shenzjd.com","version":3}]}},
+{"key":"csp_Alist","name":"🍰Alist┃网盘","type":3,"jar":"./jar.php?id=ali;md5;16d623992432b689a337d4ab681c8a130","api":"csp_AList","searchable":1,"quickSearch":1,"ext":{"drives":[{"name":"🦆鸭鸭","server":"http://shicheng.wang:555/","version":3},{"name":"ECVE","server":"https://pan.ecve.cn","version":3},{"name":"觸光","server":"https://pan.ichuguang.com","version":3},{"name":"神族九帝","server":"https://alist.shenzjd.com","version":3},{"name":"小雅","server":"http://alist.xiaoya.pro","version":3},{"name":"觸光","server":"https://pan.ichuguang.com","version":3},{"name":"七米藍","server":"https://al.chirmyram.com","version":3},{"name":"神族九帝","server":"https://alist.shenzjd.com","version":3}]}},
 
 
-{"key": "應用商店","name": "🛒影视应用商店","type": 3,"api": "csp_Market","searchable": 0,"changeable": 0,"ext": "http://m.nxog.top/nxog/ts/sd.php","jar":"./jar.php?id=ali;md5;18ee45921e80c33623b4c0561970666a"},
+{"key": "應用商店","name": "🛒影视应用商店","type": 3,"api": "csp_Market","searchable": 0,"changeable": 0,"ext": "http://m.nxog.top/nxog/ts/sd.php","jar":"./jar.php?id=ali;md5;16d623992432b689a337d4ab681c8a130"},
 
 
 
