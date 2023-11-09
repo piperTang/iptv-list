@@ -1,4 +1,4 @@
-//🇨🇳欧歌2023-11-09 03:03:09整合本接口
+//🇨🇳欧歌2023-11-10 03:03:07整合本接口
 
 {
 "wallpaper":"./t/",
@@ -8,7 +8,7 @@
 "lives":[{"name":"live","type":0,"url":"./jar.php?id=live","playerType":1,"ua": "okhttp/3.12.13","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
 {"name":"TV","type":0,"url":"https://agit.ai/fantaiying/fmm/raw/branch/main/tv/m3u/global.m3u","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}],
 "sites": [
-{"key":"drpy_js_榜单荐片","name":"❤更新:11/7❤tv.nxog.top","type":3,"api":"./lib/apiv71apiv71drpy2.min.js","ext":"./lib/drpy.js"},
+{"key":"drpy_js_榜单荐片","name":"❤更新:11/9❤tv.nxog.top","type":3,"api":"./lib/apiv71apiv71drpy2.min.js","ext":"./lib/drpy.js"},
 
 {"key":"drpy_js_榜单荐片2","name":"📢公众号欧歌app榜单荐片","type":3,"api":"./lib/drpy2.min.js","ext":"./lib/drpy.js"},
 
@@ -100,91 +100,16 @@
 //短剧
 {"key": "csp_XYQBiu_分享短视频","name": "🐞分享┃短视频","type": 3,"api": "csp_XYQBiu","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "./a3/分享短视频.json"},
 {"key": "PT","name": "🐞葡萄┃剧场","type": 3,"api": "csp_XBPQ","ext": {"数组":"class=\"stui-vodlist__box&&</li","分类url":"https://www.putaojuchang.com/show/{cateId}/area/{area}/class/{class}/by/{by}/page/{catePg}/year/{year}.html","分类": "微剧场$1#言情$6#逆袭$7#战神$8#异能$9#生活$10#重生$12#复仇$20#爱情$11"}},
-{
-  "key": "csp_短剧网香",
-  "name": "🐞网香┃短剧",
-  "type": 3,
-  "api": "csp_XYQHiker",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "ext": {
-    "规则名": "短剧网",
-    "规则作者": "醉卧东风",
-    "请求头参数": "User-Agent$MOBILE_UA#Referer$WebView",
-    "网页编码格式": "UTF-8",
-    "图片是否需要代理": "0",
-    "是否开启获取首页数据": "1",
-    "首页推荐链接": "https://www.duanju5.com",
-    "首页列表数组规则": "body&&.module-items",
-    "首页片单列表数组规则": ".module-item",
-    "首页片单是否Jsoup写法": "1",
-    "分类起始页码": "1",
-    "分类链接": "https://www.duanju5.com/vodtype/{cateId}-{catePg}.html",
-    "分类名称": "逆袭&甜宠&虐恋&穿越&重生",
-    "分类名称替换词": "nixi&tianchong&nuelian&chuanyue&chuanyue&chongsheng",
-    "分类截取模式": "1",
-    "分类列表数组规则": "body&&.module-item",
-    "分类片单是否Jsoup写法": "1",
-    "分类片单标题": "a&&title",
-    "分类片单链接": "a&&href",
-    "分类片单图片": ".lazyloaded||.lazyload&&data-src||data-original",
-    "分类片单副标题": ".module-item-note||.module-item-text&&Text",
-    "分类片单链接加前缀": "https://www.duanju5.com",
-    "分类片单链接加后缀": "",
-    "搜索请求头参数": "User-Agent$MOBILE_UA",
-    "搜索链接": "https://www.duanju5.com/vodsearch/{wd}----------{SearchPg}---.html",
-    "POST请求数据": "",
-    "搜索截取模式": "1",
-    "搜索列表数组规则": "body&&.module-search-item",
-    "搜索片单是否Jsoup写法": "1",
-    "搜索片单图片": ".lazyload&&data-src",
-    "搜索片单标题": "h3&&Text",
-    "搜索片单链接": "a&&href",
-    "搜索片单副标题": ".video-serial&&Text",
-    "搜索片单链接加前缀": "https://www.duanju5.com",
-    "搜索片单链接加后缀": "",
-    "链接是否直接播放": "0",
-    "直接播放链接加前缀": "",
-    "直接播放链接加后缀": "#isVideo=true#",
-    "直接播放直链视频请求头": "",
-    "详情是否Jsoup写法": "0",
-    "类型详情": "",
-    "年代详情": "",
-    "地区详情": "",
-    "演员详情": "主演：</span>&&</div>",
-    "简介详情": "introduction\">&&</p>",
-    "线路列表数组规则": ".module-player-tab&&.module-tab-item",
-    "线路标题": "Text",
-    "播放列表数组规则": "body&&.module-player-list:has(.scroll-content)",
-    "选集列表数组规则": ".scroll-content&&a",
-    "选集标题链接是否Jsoup写法": "1",
-    "选集标题": "a&&Text",
-    "选集链接": "a&&href",
-    "是否反转选集序列": "0",
-    "选集链接加前缀": "https://www.duanju5.com",
-    "选集链接加后缀": "",
-    "分析MacPlayer": "0",
-    "是否开启手动嗅探": "1",
-    "手动嗅探视频链接关键词": ".mp4#.m3u8#.flv#video/tos",
-    "手动嗅探视频链接过滤词": ".html#?url=http"
-    }
-    },
+{"key":"csp_短剧网香","name":"🐞网香┃短剧","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":{"规则名":"短剧网","规则作者":"醉卧东风","请求头参数":"User-Agent$MOBILE_UA#Referer$WebView","网页编码格式":"UTF-8","图片是否需要代理":"0","是否开启获取首页数据":"1","首页推荐链接":"https://www.duanju5.com","首页列表数组规则":"body&&.module-items","首页片单列表数组规则":".module-item","首页片单是否Jsoup写法":"1","分类起始页码":"1","分类链接":"https://www.duanju5.com/vodtype/{cateId}-{catePg}.html","分类名称":"逆袭&甜宠&虐恋&穿越&重生","分类名称替换词":"nixi&tianchong&nuelian&chuanyue&chuanyue&chongsheng","分类截取模式":"1","分类列表数组规则":"body&&.module-item","分类片单是否Jsoup写法":"1","分类片单标题":"a&&title","分类片单链接":"a&&href","分类片单图片":".lazyloaded||.lazyload&&data-src||data-original","分类片单副标题":".module-item-note||.module-item-text&&Text","分类片单链接加前缀":"https://www.duanju5.com","分类片单链接加后缀":"","搜索请求头参数":"User-Agent$MOBILE_UA","搜索链接":"https://www.duanju5.com/vodsearch/{wd}----------{SearchPg}---.html","POST请求数据":"","搜索截取模式":"1","搜索列表数组规则":"body&&.module-search-item","搜索片单是否Jsoup写法":"1","搜索片单图片":".lazyload&&data-src","搜索片单标题":"h3&&Text","搜索片单链接":"a&&href","搜索片单副标题":".video-serial&&Text","搜索片单链接加前缀":"https://www.duanju5.com","搜索片单链接加后缀":"","链接是否直接播放":"0","直接播放链接加前缀":"","直接播放链接加后缀":"#isVideo=true#","直接播放直链视频请求头":"","详情是否Jsoup写法":"0","类型详情":"","年代详情":"","地区详情":"","演员详情":"主演：</span>&&</div>","简介详情":"introduction\">&&</p>","线路列表数组规则":".module-player-tab&&.module-tab-item","线路标题":"Text","播放列表数组规则":"body&&.module-player-list:has(.scroll-content)","选集列表数组规则":".scroll-content&&a","选集标题链接是否Jsoup写法":"1","选集标题":"a&&Text","选集链接":"a&&href","是否反转选集序列":"0","选集链接加前缀":"https://www.duanju5.com","选集链接加后缀":"","分析MacPlayer":"0","是否开启手动嗅探":"1","手动嗅探视频链接关键词":".mp4#.m3u8#.flv#video/tos","手动嗅探视频链接过滤词":".html#?url=http"}},
+{"key":"csp_XBPQ_aoaotv","name":"🐞嗷嗷┃短剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"分类url":"https://aoao.tv/vodshow/{cateId}--------{catePg}---.html","分类":"短剧$20#电视剧$21#电影$22#动漫$23#综艺$24"}},
+{"key":"咕咕咕","name":"🐞咕咕┃短剧","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.kuin.one/api.php/app/"},
+{"key":"量子短剧","name":"🐞量子┃短剧","type":1,"api":"https://cj.lzcaiji.com/api.php/provide/vod/from/liangzi","searchable":1,"quickSearch":1,"filterable":1,"categories":["短剧","伦理片","动作片","喜剧片","科幻片","恐怖片","大陆综艺","国产动漫"]},
+
  
-    {
-      "key": "csp_XBPQ_aoaotv",
-      "name": "🐞嗷嗷┃短剧",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "分类url": "https://aoao.tv/vodshow/{cateId}--------{catePg}---.html",
-        "分类": "短剧$20#电视剧$21#电影$22#动漫$23#综艺$24"
-      }
-    },
-  
+
+
+
+
 
 
 //磁力资源区
@@ -223,14 +148,11 @@
 
 {"name": "🐉️嗅探0","type": 3,"url": "Web"},
 {"name":"🐉并发2","type":2,"url":"Parallel"},
-{"name": "🐉欧歌api","type": 0,"url": "http://tv.nxog.eu.org/nxog.html?ou=公众号欧歌app&url="},
 {"name": "🐉欧歌tv","type": 0,"url": "http://tv.nxog.top/jx/nxog.html?ou=公众号欧歌app&url="},
 {"name": "🐉欧歌m","type": 0,"url": "http://m.nxog.top/jx/nxog.html?ou=公众号欧歌app&url="},
 {"name": "🐉欧歌w","type": 0,"url": "http://w.nxog.top/jx/nxog.html?ou=公众号欧歌app&url="},
 {"name": "🐉欧歌vip","type": 0,"url": "http://vip.nxog.top/?ou=公众号欧歌app&url="},
 
-
-{"name":"🐉欧歌f","type":0,"url":"http://tv.nxog.eu.org/nxog.html?ou=公众号欧歌app&url=","ext":{"header":{"user-agent":"Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"}}}, 
 {"name":"🐉欧歌c","type":0,"url":"http://tv.nxog.top/jx/nxog.html?ou=公众号欧歌app&url=","ext":{"header":{"user-agent":"Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"}}}, 
 {"name":"🐉欧歌d","type":0,"url":"http://m.nxog.top/jx/nxog.html?ou=公众号欧歌app&url=","ext":{"header":{"user-agent":"Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"}}}, 
 {"name":"🐉欧歌e","type":0,"url":"http://w.nxog.top/jx/nxog.html?ou=公众号欧歌app&url=","ext":{"header":{"user-agent":"Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"}}}, 
