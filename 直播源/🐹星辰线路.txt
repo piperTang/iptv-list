@@ -4,8 +4,7 @@
 🟩回复密码,http://8.210.232.168/tuiguang/tg.mp4
 
 无限新闻,http://103.45.68.47:666/cs.php?u=http://182.93.22.42:8080/0.ts
-
-
+CCTV-1高清,http://222.175.159.226:808/hls/20231/index.m3u8 
 
 
 音乐欣赏,http://15799848.s21v.faiusr.com/58/ABUIABA6GAAguOaa4gUo_J_z6gI.mp4
@@ -43,51 +42,29 @@
 
 
 
-
 ▶️┃央视,#genre#
-CCTV-1HD,https://tvmvip.com/php/ak.php?id=cctv1
-CCTV-1HD2,https://tvmvip.com/php/ak.php?id=cctv1b
-CCTV-2HD,https://tvmvip.com/php/ak.php?id=cctv2
-CCTV-3HD,https://tvmvip.com/php/ak.php?id=cctv3
-CCTV-4HD,https://tvmvip.com/php/ak.php?id=cctv4
-CCTV-4欧洲,https://tvmvip.com/php/ak.php?id=cctv4o
-CCTV-4美洲,https://tvmvip.com/php/ak.php?id=cctv4a
-CCTV-5HD,https://tvmvip.com/php/ak.php?id=cctv5
-CCTV-5HD2,https://tvmvip.com/php/ak.php?id=cctv5b
-CCTV-5+HD,https://tvmvip.com/php/ak.php?id=cctv5p
-CCTV-5+HD2,https://tvmvip.com/php/ak.php?id=cctv5p2
-CCTV-6HD,https://tvmvip.com/php/ak.php?id=cctv6
-CCTV-7HD,https://tvmvip.com/php/ak.php?id=cctv7
-CCTV-8HD,https://tvmvip.com/php/ak.php?id=cctv8
-CCTV-9HD,https://tvmvip.com/php/ak.php?id=cctv9
-CCTV-10HD,https://tvmvip.com/php/ak.php?id=cctv10
-CCTV-11HD,https://tvmvip.com/php/ak.php?id=cctv11
-CCTV-12HD,https://tvmvip.com/php/ak.php?id=cctv12
-CCTV-13HD,https://tvmvip.com/php/ak.php?id=cctv13
-CCTV-14HD,https://tvmvip.com/php/ak.php?id=cctv14
-CCTV-15HD,https://tvmvip.com/php/ak.php?id=cctv15
-CCTV-17HD,https://tvmvip.com/php/ak.php?id=cctv17
-CGTN西语,https://tvmvip.com/php/ak.php?id=cgtne
-CGTN阿语,https://tvmvip.com/php/ak.php?id=cgtna
-CHC家庭影院,https://tvmvip.com/php/ak.php?id=chcjtyy
-CCTV-1,http://81.69.20.196/mqlive.m3u8?ip=119.62.212.164:8014&id=live1128
-CCTV-2,http://81.69.20.196/mqlive.m3u8?ip=119.62.212.164:8014&id=live1175
-CCTV-3,http://81.69.20.196/mqlive.m3u8?ip=119.62.212.164:8014&id=live1289
-CCTV-4,http://81.69.20.196/mqlive.m3u8?ip=119.62.212.164:8014&id=live1277
-CCTV-5,http://81.69.20.196/mqlive.m3u8?ip=119.62.212.164:8014&id=live1281
-CCTV-6,http://81.69.20.196/mqlive.m3u8?ip=119.62.212.164:8014&id=live1190
-CCTV-7,http://81.69.20.196/mqlive.m3u8?ip=119.62.212.164:8014&id=live1236
-CCTV-8,http://81.69.20.196/mqlive.m3u8?ip=119.62.212.164:8014&id=live1273
-CCTV-9,http://81.69.20.196/mqlive.m3u8?ip=119.62.212.164:8014&id=live1216
-CCTV-10,http://81.69.20.196/mqlive.m3u8?ip=119.62.212.164:8014&id=live1183
-CCTV-11,http://81.69.20.196/mqlive.m3u8?ip=119.62.212.164:8014&id=live1280
-CCTV-12,http://81.69.20.196/mqlive.m3u8?ip=119.62.212.164:8014&id=live1260
-CCTV-13,http://81.69.20.196/mqlive.m3u8?ip=119.62.212.164:8014&id=live1263
-CCTV-14,http://81.69.20.196/mqlive.m3u8?ip=119.62.212.164:8014&id=live1178
-CCTV-15,http://81.69.20.196/mqlive.m3u8?ip=119.62.212.164:8014&id=live1257
-CCTV-16,http://81.69.20.196/mqlive.m3u8?ip=119.62.212.164:8014&id=live1220
-CCTV-17,http://81.69.20.196/mqlive.m3u8?ip=119.62.212.164:8014&id=live1199
-CCTV-5+,http://81.69.20.196/mqlive.m3u8?ip=119.62.212.164:8014&id=live1244
+cctv1,http://103.45.68.47:666/gy/gy271/爱看mg.php?id=cctv1
+cctv1b,http://103.45.68.47:666/gy/gy271/爱看mg.php?id=cctv1b
+cctv2,http://103.45.68.47:666/gy/gy271/爱看mg.php?id=cctv2
+cctv3,http://103.45.68.47:666/gy/gy271/爱看mg.php?id=cctv3
+cctv4,http://103.45.68.47:666/gy/gy271/爱看mg.php?id=cctv4
+cctv4欧洲,http://103.45.68.47:666/gy/gy271/爱看mg.php?id=cctv4欧洲
+cctv4美洲,http://103.45.68.47:666/gy/gy271/爱看mg.php?id=cctv4美洲
+cctv5,http://103.45.68.47:666/gy/gy271/爱看mg.php?id=cctv5
+cctv5b,http://103.45.68.47:666/gy/gy271/爱看mg.php?id=cctv5b
+cctv5p,http://103.45.68.47:666/gy/gy271/爱看mg.php?id=cctv5p
+cctv5p2,http://103.45.68.47:666/gy/gy271/爱看mg.php?id=cctv5p2
+cctv6,http://103.45.68.47:666/gy/gy271/爱看mg.php?id=cctv6
+cctv7,http://103.45.68.47:666/gy/gy271/爱看mg.php?id=cctv7
+cctv8,http://103.45.68.47:666/gy/gy271/爱看mg.php?id=cctv8
+cctv9,http://103.45.68.47:666/gy/gy271/爱看mg.php?id=cctv9
+cctv10,http://103.45.68.47:666/gy/gy271/爱看mg.php?id=cctv10
+cctv11,http://103.45.68.47:666/gy/gy271/爱看mg.php?id=cctv11
+cctv12,http://103.45.68.47:666/gy/gy271/爱看mg.php?id=cctv12
+cctv13,http://103.45.68.47:666/gy/gy271/爱看mg.php?id=cctv13
+cctv14,http://103.45.68.47:666/gy/gy271/爱看mg.php?id=cctv14
+cctv15,http://103.45.68.47:666/gy/gy271/爱看mg.php?id=cctv15
+cctv17,http://103.45.68.47:666/gy/gy271/爱看mg.php?id=cctv17
 
 
 
@@ -109,79 +86,9 @@ CHC家庭影院,http://hms2944nc1972666637.live.aikan.miguvideo.com/wh7f454c46tw
 
 ▶️┃卫视,#genre#
 
-东方卫视HD,https://tvmvip.com/php/ak.php?id=dfws
-东方卫视HD2,https://tvmvip.com/php/ak.php?id=dfws2
-重庆卫视,https://tvmvip.com/php/ak.php?id=cqws
-吉林卫视,https://tvmvip.com/php/ak.php?id=jlws
-辽宁卫视HD,https://tvmvip.com/php/ak.php?id=lnws
-内蒙古卫视,https://tvmvip.com/php/ak.php?id=nmws
-宁夏卫视,https://tvmvip.com/php/ak.php?id=nxws
-甘肃卫视,https://tvmvip.com/php/ak.php?id=gsws
-青海卫视,https://tvmvip.com/php/ak.php?id=qhws
-陕西卫视HD,https://tvmvip.com/php/ak.php?id=sxws
-山东卫视HD,https://tvmvip.com/php/ak.php?id=sdws
-湖北卫视HD,https://tvmvip.com/php/ak.php?id=hubws
-湖南卫视HD,https://tvmvip.com/php/ak.php?id=hunws
-江西卫视HD,https://tvmvip.com/php/ak.php?id=jxws
-江苏卫视HD,https://tvmvip.com/php/ak.php?id=jsws
-广东卫视HD,https://tvmvip.com/php/ak.php?id=gdws
-广东卫视HD2,https://tvmvip.com/php/ak.php?id=gdws2
-大湾区卫视,https://tvmvip.com/php/ak.php?id=dwqws
-四川卫视HD,https://tvmvip.com/php/ak.php?id=scws
-新疆卫视,https://tvmvip.com/php/ak.php?id=xjws
-西藏卫视,https://tvmvip.com/php/ak.php?id=xzws
-海南卫视,https://tvmvip.com/php/ak.php?id=hinws
-四海钓鱼,https://tvmvip.com/php/ak.php?id=shdy
-江苏教育,https://tvmvip.com/php/ak.php?id=jsjy
-山东教育卫视,https://tvmvip.com/php/ak.php?id=sdjy
-游戏风云HD,https://tvmvip.com/php/ak.php?id=yxfy
-欢笑剧场4K,https://tvmvip.com/php/ak.php?id=hxjc
-东方购物,https://tvmvip.com/php/ak.php?id=dfgw
-之江纪录,https://tvmvip.com/php/ak.php?id=zjjl
-杭州综合,https://tvmvip.com/php/ak.php?id=hzzh
-杭州明珠,https://tvmvip.com/php/ak.php?id=hzmz
-杭州生活,https://tvmvip.com/php/ak.php?id=hzsh
-杭州影视,https://tvmvip.com/php/ak.php?id=hzys
-杭州少儿体育,https://tvmvip.com/php/ak.php?id=hzse
-山西卫视,http://81.69.20.196/mqlive.m3u8?ip=119.62.212.164:8014&id=live1185
-吉林卫视,http://81.69.20.196/mqlive.m3u8?ip=119.62.212.164:8014&id=live1206
-重庆卫视,http://81.69.20.196/mqlive.m3u8?ip=119.62.212.164:8014&id=live1215
-东方卫视,http://81.69.20.196/mqlive.m3u8?ip=119.62.212.164:8014&id=live1205
-河南卫视,http://81.69.20.196/mqlive.m3u8?ip=119.62.212.164:8014&id=live1203
-河北卫视,http://81.69.20.196/mqlive.m3u8?ip=119.62.212.164:8014&id=live1224
-兵团卫视,http://81.69.20.196/mqlive.m3u8?ip=119.62.212.164:8014&id=live1229
-内蒙古卫视,http://81.69.20.196/mqlive.m3u8?ip=119.62.212.164:8014&id=live1232
-云南卫视,http://81.69.20.196/mqlive.m3u8?ip=119.62.212.164:8014&id=live1234
-江苏卫视,http://81.69.20.196/mqlive.m3u8?ip=119.62.212.164:8014&id=live1201
-深圳卫视,http://81.69.20.196/mqlive.m3u8?ip=119.62.212.164:8014&id=live1237
-旅游卫视,http://81.69.20.196/mqlive.m3u8?ip=119.62.212.164:8014&id=live1238
-金鹰纪实,http://81.69.20.196/mqlive.m3u8?ip=119.62.212.164:8014&id=live1194
-江西卫视,http://81.69.20.196/mqlive.m3u8?ip=119.62.212.164:8014&id=live1240
-甘肃卫视,http://81.69.20.196/mqlive.m3u8?ip=119.62.212.164:8014&id=live1241
-浙江卫视,http://81.69.20.196/mqlive.m3u8?ip=119.62.212.164:8014&id=live1193
-天津卫视,http://81.69.20.196/mqlive.m3u8?ip=119.62.212.164:8014&id=live1247
-宁夏卫视,http://81.69.20.196/mqlive.m3u8?ip=119.62.212.164:8014&id=live1248
-北京卫视,http://81.69.20.196/mqlive.m3u8?ip=119.62.212.164:8014&id=live1249
-湖南卫视,http://81.69.20.196/mqlive.m3u8?ip=119.62.212.164:8014&id=live1255
-广西卫视,http://81.69.20.196/mqlive.m3u8?ip=119.62.212.164:8014&id=live1176
-湖北卫视,http://81.69.20.196/mqlive.m3u8?ip=119.62.212.164:8014&id=live1258
-贵州卫视,http://81.69.20.196/mqlive.m3u8?ip=119.62.212.164:8014&id=live1192
-黑龙江卫视,http://81.69.20.196/mqlive.m3u8?ip=119.62.212.164:8014&id=live1191
-青海卫视,http://81.69.20.196/mqlive.m3u8?ip=119.62.212.164:8014&id=live1270
-西藏卫视,http://81.69.20.196/mqlive.m3u8?ip=119.62.212.164:8014&id=live1272
-陕西卫视,http://81.69.20.196/mqlive.m3u8?ip=119.62.212.164:8014&id=live1188
-安徽卫视,http://81.69.20.196/mqlive.m3u8?ip=119.62.212.164:8014&id=live1275
-新疆卫视,http://81.69.20.196/mqlive.m3u8?ip=119.62.212.164:8014&id=live1276
-南方卫视,http://81.69.20.196/mqlive.m3u8?ip=119.62.212.164:8014&id=live1187
-广东卫视,http://81.69.20.196/mqlive.m3u8?ip=119.62.212.164:8014&id=live1184
-山东卫视,http://81.69.20.196/mqlive.m3u8?ip=119.62.212.164:8014&id=live1180
-辽宁卫视,http://81.69.20.196/mqlive.m3u8?ip=119.62.212.164:8014&id=live1177
-东南卫视,http://81.69.20.196/mqlive.m3u8?ip=119.62.212.164:8014&id=live1282
-纪实人文,http://81.69.20.196/mqlive.m3u8?ip=119.62.212.164:8014&id=live1283
-四川卫视,http://81.69.20.196/mqlive.m3u8?ip=119.62.212.164:8014&id=live1288
-CGTN,http://81.69.20.196/mqlive.m3u8?ip=119.62.212.164:8014&id=live1279
 
-北京卫视HD,http://hms2944nc1972666637.live.aikan.miguvideo.com/wh7f454c46tw1588200355_-2136083744/ws_w/bjws/bjws3000/3000/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=139.198.127.250&timestamp=20230816073738&ContentId=265668911&timezone=UTC&mtv_session=923b33c07808007ff4b7b8554ab56cb9&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=b3b910e2f08747b18ff03b13155e96cb
+
+
 东方卫视HD,http://hms2904nc1972666633.live.aikan.miguvideo.com/wh7f454c46tw1588472879_1818144718/wd_r4/dfl/dongfangwshd/1200/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=139.198.127.250&timestamp=20230816073738&ContentId=264104266&timezone=UTC&mtv_session=b92530997e9df844d8ff90071c412ce1&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=d69348c370f40e3d50d3d87148478bee
 东方卫视HD2,http://hms2944nc1972666638.live.aikan.miguvideo.com/wh7f454c46tw1588763278_-766408077/wd_r4/dfl/dongfangwshd/3000/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=139.198.127.250&timestamp=20230816073738&ContentId=264104266&timezone=UTC&mtv_session=6b842c705e2cf7e9df14788ca8009ef5&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=36ed1abbb2ec038b2f2303e58aea07a1
 重庆卫视,http://hms2944nc1972666638.live.aikan.miguvideo.com/wh7f454c46tw1589064099_-704327727/envivo_x/2018/SD/chongqing/1000/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=139.198.127.250&timestamp=20230816073739&ContentId=531262033&timezone=UTC&mtv_session=90df447b59006f4434fec2d4695f28a7&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=8bbc2e41f5b3f80d0b069addb6f1df46
@@ -218,7 +125,40 @@ CGTN,http://81.69.20.196/mqlive.m3u8?ip=119.62.212.164:8014&id=live1279
 体坛名栏汇,http://hms2904nc1972666633.live.aikan.miguvideo.com/wh7f454c46tw1600458454_-832716323/wd_r3/cctv/titanminglan/600/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=139.198.127.250&timestamp=20230816073750&ContentId=265218759&timezone=UTC&mtv_session=b2e617f735c59ee2def1e133e7a80a5c&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=0c1268f6846ee93a05130bcd7741b787
 新片放映厅,http://hms2904nc1972666634.live.aikan.miguvideo.com/wh7f454c46tw1600732348_-360169236/wd-virtuallive5100030975-150/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=139.198.127.250&timestamp=20230816073750&ContentId=265218930&timezone=UTC&mtv_session=63000e2fea84d8a6504746c34e7d4d75&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=b6ef40cfda8ddfec090a09afb9dd2444
 
-
+东方卫视HD,http://103.45.68.47:666/gy/gy271/爱看mg.php?id=东方卫视HD
+东方卫视HD2,http://103.45.68.47:666/gy/gy271/爱看mg.php?id=东方卫视HD2
+重庆卫视,http://103.45.68.47:666/gy/gy271/爱看mg.php?id=重庆卫视
+吉林卫视,http://103.45.68.47:666/gy/gy271/爱看mg.php?id=吉林卫视
+辽宁卫视HD,http://103.45.68.47:666/gy/gy271/爱看mg.php?id=辽宁卫视HD
+内蒙古卫视,http://103.45.68.47:666/gy/gy271/爱看mg.php?id=内蒙古卫视
+宁夏卫视,http://103.45.68.47:666/gy/gy271/爱看mg.php?id=宁夏卫视
+甘肃卫视,http://103.45.68.47:666/gy/gy271/爱看mg.php?id=甘肃卫视
+青海卫视,http://103.45.68.47:666/gy/gy271/爱看mg.php?id=青海卫视
+陕西卫视HD,http://103.45.68.47:666/gy/gy271/爱看mg.php?id=陕西卫视HD
+山东卫视HD,http://103.45.68.47:666/gy/gy271/爱看mg.php?id=山东卫视HD
+湖北卫视HD,http://103.45.68.47:666/gy/gy271/爱看mg.php?id=湖北卫视HD
+湖南卫视HD,http://103.45.68.47:666/gy/gy271/爱看mg.php?id=湖南卫视HD
+江西卫视HD,http://103.45.68.47:666/gy/gy271/爱看mg.php?id=江西卫视HD
+江苏卫视HD,http://103.45.68.47:666/gy/gy271/爱看mg.php?id=江苏卫视HD
+广东卫视HD,http://103.45.68.47:666/gy/gy271/爱看mg.php?id=广东卫视HD
+广东卫视HD2,http://103.45.68.47:666/gy/gy271/爱看mg.php?id=广东卫视HD2
+大湾区卫视,http://103.45.68.47:666/gy/gy271/爱看mg.php?id=大湾区卫视
+四川卫视HD,http://103.45.68.47:666/gy/gy271/爱看mg.php?id=四川卫视HD
+新疆卫视,http://103.45.68.47:666/gy/gy271/爱看mg.php?id=新疆卫视
+西藏卫视,http://103.45.68.47:666/gy/gy271/爱看mg.php?id=西藏卫视
+海南卫视,http://103.45.68.47:666/gy/gy271/爱看mg.php?id=海南卫视
+四海钓鱼,http://103.45.68.47:666/gy/gy271/爱看mg.php?id=四海钓鱼
+江苏教育,http://103.45.68.47:666/gy/gy271/爱看mg.php?id=江苏教育
+山东教育卫视,http://103.45.68.47:666/gy/gy271/爱看mg.php?id=山东教育卫视
+游戏风云HD,http://103.45.68.47:666/gy/gy271/爱看mg.php?id=游戏风云HD
+欢笑剧场4K,http://103.45.68.47:666/gy/gy271/爱看mg.php?id=欢笑剧场4K
+东方购物,http://103.45.68.47:666/gy/gy271/爱看mg.php?id=东方购物
+之江纪录,http://103.45.68.47:666/gy/gy271/爱看mg.php?id=之江纪录
+杭州综合,http://103.45.68.47:666/gy/gy271/爱看mg.php?id=杭州综合
+杭州明珠,http://103.45.68.47:666/gy/gy271/爱看mg.php?id=杭州明珠
+杭州生活,http://103.45.68.47:666/gy/gy271/爱看mg.php?id=杭州生活
+杭州影视,http://103.45.68.47:666/gy/gy271/爱看mg.php?id=杭州影视
+杭州少儿体育,http://103.45.68.47:666/gy/gy271/爱看mg.php?id=杭州少儿体育
 
 
 
@@ -229,12 +169,12 @@ CGTN,http://81.69.20.196/mqlive.m3u8?ip=119.62.212.164:8014&id=live1279
 
 周星馳一,http://tx-screenshots.flv.huya.com/src/1394575534-1394575534-5989656310331736064-2789274524-10057-A-0-1.m3u8
 
-周星馳二,http://103.45.68.47:666/gy/gy379/斗鱼.php?id=122402
+周星馳二,http://103.45.68.47:666/gy/gy271/斗鱼.php?id=122402
 
 
 
-邵氏影院,http://103.45.68.47:666/gy/gy379/斗鱼.php?id=4246519
-周星馳粵語d,http://103.45.68.47:666/gy/gy379/斗鱼.php?id=6566671
+邵氏影院,http://103.45.68.47:666/gy/gy271/斗鱼.php?id=4246519
+周星馳粵語d,http://103.45.68.47:666/gy/gy271/斗鱼.php?id=6566671
 
 李連傑,http://tx-screenshots.flv.huya.com/src/1394565196-1394565196-5989611908959830016-2789253848-10057-A-0-1.m3u8
 周潤發,http://tx-screenshots.flv.huya.com/src/1394565192-1394565192-5989611891779960832-2789253840-10057-A-0-1.m3u8
@@ -245,14 +185,14 @@ CGTN,http://81.69.20.196/mqlive.m3u8?ip=119.62.212.164:8014&id=live1279
 
 成龍一,https://epg.pw/stream/eafc1adaaec0364fa93e48fbaa0a48ea1e1e9f1912cdc7512da8967b95004da5.ctv
 
-成龍三,http://103.45.68.47:666/gy/gy379/斗鱼.php?id=3379942
-成龍李連傑,http://103.45.68.47:666/gy/gy379/斗鱼.php?id=8107217
-李小龍,http://103.45.68.47:666/gy/gy379/斗鱼.php?id=8721095
+成龍三,http://103.45.68.47:666/gy/gy271/斗鱼.php?id=3379942
+成龍李連傑,http://103.45.68.47:666/gy/gy271/斗鱼.php?id=8107217
+李小龍,http://103.45.68.47:666/gy/gy271/斗鱼.php?id=8721095
 
 
 女神系列☆邱淑貞 王祖賢 張曼玉,https://live.goodiptv.club/api/huya.php?id=11336571
 沈騰一,https://live.goodiptv.club/api/huya.php?id=11601968
-沈騰二,http://103.45.68.47:666/gy/gy379/斗鱼.php?id=85894
+沈騰二,http://103.45.68.47:666/gy/gy271/斗鱼.php?id=85894
 
 
 
@@ -399,42 +339,42 @@ CGTN,http://81.69.20.196/mqlive.m3u8?ip=119.62.212.164:8014&id=live1279
 
 
 ▶️┃斗鱼,#genre#
-邵氏影院㊣代,http://103.45.68.47:666/gy/gy379/斗鱼.php?id=4246519
+邵氏影院㊣代,http://103.45.68.47:666/gy/gy271/斗鱼.php?id=4246519
 
-凌儿影院㊣版,http://103.45.68.47:666/gy/gy379/斗鱼.php?id=1377142
+凌儿影院㊣版,http://103.45.68.47:666/gy/gy271/斗鱼.php?id=1377142
 
 
 
-http://103.45.68.47:666/gy/gy379/斗鱼.php?id=2758565
+http://103.45.68.47:666/gy/gy271/斗鱼.php?id=2758565
 神乐影院-1台,https://tc-tc2-interact.douyucdn2.cn/dyliveflv1/85894rmovieChow_900p.m3u8
 神乐影院-2台,https://tc-tc2-interact.douyucdn2.cn/dyliveflv1a/122402rK7MO9bXSq_900.m3u8
-神乐影院✔原,http://103.45.68.47:666/gy/gy379/斗鱼.php?id=122402
-可乐影院✔原,http://103.45.68.47:666/gy/gy379/斗鱼.php?id=20415
-冰冰剧场✔原,http://103.45.68.47:666/gy/gy379/斗鱼.php?id=74374
-小宇60帧✔原,http://103.45.68.47:666/gy/gy379/斗鱼.php?id=323876
-吃米滴虫✔原,http://103.45.68.47:666/gy/gy379/斗鱼.php?id=315457
-冰冰经典✔原,http://103.45.68.47:666/gy/gy379/斗鱼.php?id=74374
-恐怖惊悚✔原,http://103.45.68.47:666/gy/gy379/斗鱼.php?id=96577
-電影劇場✔原,http://103.45.68.47:666/gy/gy379/斗鱼.php?id=7575350
-國語電影✔原,http://103.45.68.47:666/gy/gy379/斗鱼.php?id=2436390
-豆瓣高分✔原,http://103.45.68.47:666/gy/gy379/斗鱼.php?id=8770422
-花卷陪看✔原,http://103.45.68.47:666/gy/gy379/斗鱼.php?id=52787
-漫威剧情✔原,http://103.45.68.47:666/gy/gy379/斗鱼.php?id=6140589
-霍格沃茨✔原,http://103.45.68.47:666/gy/gy379/斗鱼.php?id=8814650
-鱼宝恐怖✔原,http://103.45.68.47:666/gy/gy379/斗鱼.php?id=1165374
-鬼片恐怖✔原,http://103.45.68.47:666/gy/gy379/斗鱼.php?id=2935323
-小U鬼片✔原,http://103.45.68.47:666/gy/gy379/斗鱼.php?id=96577
+神乐影院✔原,http://103.45.68.47:666/gy/gy271/斗鱼.php?id=122402
+可乐影院✔原,http://103.45.68.47:666/gy/gy271/斗鱼.php?id=20415
+冰冰剧场✔原,http://103.45.68.47:666/gy/gy271/斗鱼.php?id=74374
+小宇60帧✔原,http://103.45.68.47:666/gy/gy271/斗鱼.php?id=323876
+吃米滴虫✔原,http://103.45.68.47:666/gy/gy271/斗鱼.php?id=315457
+冰冰经典✔原,http://103.45.68.47:666/gy/gy271/斗鱼.php?id=74374
+恐怖惊悚✔原,http://103.45.68.47:666/gy/gy271/斗鱼.php?id=96577
+電影劇場✔原,http://103.45.68.47:666/gy/gy271/斗鱼.php?id=7575350
+國語電影✔原,http://103.45.68.47:666/gy/gy271/斗鱼.php?id=2436390
+豆瓣高分✔原,http://103.45.68.47:666/gy/gy271/斗鱼.php?id=8770422
+花卷陪看✔原,http://103.45.68.47:666/gy/gy271/斗鱼.php?id=52787
+漫威剧情✔原,http://103.45.68.47:666/gy/gy271/斗鱼.php?id=6140589
+霍格沃茨✔原,http://103.45.68.47:666/gy/gy271/斗鱼.php?id=8814650
+鱼宝恐怖✔原,http://103.45.68.47:666/gy/gy271/斗鱼.php?id=1165374
+鬼片恐怖✔原,http://103.45.68.47:666/gy/gy271/斗鱼.php?id=2935323
+小U鬼片✔原,http://103.45.68.47:666/gy/gy271/斗鱼.php?id=96577
 
-吃奶滴虫✔原,http://103.45.68.47:666/gy/gy379/斗鱼.php?id=263824
-变种人片✔原,http://103.45.68.47:666/gy/gy379/斗鱼.php?id=9651304
-喜剧电影✔原,http://103.45.68.47:666/gy/gy379/斗鱼.php?id=9292492
-女神电影✔原,http://103.45.68.47:666/gy/gy379/斗鱼.php?id=747764
-华语经典✔原,http://103.45.68.47:666/gy/gy379/斗鱼.php?id=434971
-避风影院✔原,http://103.45.68.47:666/gy/gy379/斗鱼.php?id=9826611
+吃奶滴虫✔原,http://103.45.68.47:666/gy/gy271/斗鱼.php?id=263824
+变种人片✔原,http://103.45.68.47:666/gy/gy271/斗鱼.php?id=9651304
+喜剧电影✔原,http://103.45.68.47:666/gy/gy271/斗鱼.php?id=9292492
+女神电影✔原,http://103.45.68.47:666/gy/gy271/斗鱼.php?id=747764
+华语经典✔原,http://103.45.68.47:666/gy/gy271/斗鱼.php?id=434971
+避风影院✔原,http://103.45.68.47:666/gy/gy271/斗鱼.php?id=9826611
 
-欧美大片✔原,http://103.45.68.47:666/gy/gy379/斗鱼.php?id=2793084
-贝爷影厅✔原,http://103.45.68.47:666/gy/gy379/斗鱼.php?id=252802
-译制国语✔原,http://103.45.68.47:666/gy/gy379/斗鱼.php?id=2436390
+欧美大片✔原,http://103.45.68.47:666/gy/gy271/斗鱼.php?id=2793084
+贝爷影厅✔原,http://103.45.68.47:666/gy/gy271/斗鱼.php?id=252802
+译制国语✔原,http://103.45.68.47:666/gy/gy271/斗鱼.php?id=2436390
 绍兴影院✪另,http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8
 斗鱼华语点歌台,http://epg.112114.xyz/douyu/3186217
 斗鱼??周杰伦??,http://epg.112114.xyz/douyu/7537296
@@ -1261,734 +1201,6 @@ Wesley黑骑士的直播间,http://mmitv.top/test/douyu.php?id=11665049&u=547269
 埋堆堆93,http://aldirect.corp-hls.huya.com/src/1199561176260-1199561176260-5434425023026692096-2399122475976-10057-A-0-1.m3u8?wsiphost=ipdbme
 
 埋堆堆94,http://aldirect.corp-hls.huya.com/src/1199563564801-1199563564801-5444683728506847232-2399127253058-10057-A-0-1.m3u8?wsiphost=ipdbme
-▶️┃歪歪,#genre#
-好久不见-武林外传,http://www.lebaobei.top:5678/yy.php?id=1355914397
-封神榜,http://www.lebaobei.top:5678/yy.php?id=1353426319
-【战狼3吴京】首播,http://www.lebaobei.top:5678/yy.php?id=1456668939
-过年了,http://www.lebaobei.top:5678/yy.php?id=1454553780
-新水浒传,http://www.lebaobei.top:5678/yy.php?id=1356059275
-豪哥带我们发财,http://www.lebaobei.top:5678/yy.php?id=23402146
-电影 古惑仔全集,http://www.lebaobei.top:5678/yy.php?id=1354507447
-神医喜来乐,http://www.lebaobei.top:5678/yy.php?id=1382714119
-德爷单挑荒野,http://www.lebaobei.top:5678/yy.php?id=27772604
-赵本山《超清版》,http://www.lebaobei.top:5678/yy.php?id=1382683959
-纪晓岚,http://www.lebaobei.top:5678/yy.php?id=1352227227
-赵本山《蓝光版》,http://www.lebaobei.top:5678/yy.php?id=32160832
-武林外传,http://www.lebaobei.top:5678/yy.php?id=1354752120
-弹幕天团 下饭神剧,http://www.lebaobei.top:5678/yy.php?id=23512910
-超喜剧地下交通站男神贾贵,http://www.lebaobei.top:5678/yy.php?id=1353428972
-【新三国】蓝光版,http://www.lebaobei.top:5678/yy.php?id=1382705738
-神探狄仁杰2,http://www.lebaobei.top:5678/yy.php?id=1382828767
-纪晓岚,http://www.lebaobei.top:5678/yy.php?id=1354143978
-天龙八部,http://www.lebaobei.top:5678/yy.php?id=1351814644
-少年包青天1-3蓝光版,http://www.lebaobei.top:5678/yy.php?id=38498680
-林正英-经典电影,http://www.lebaobei.top:5678/yy.php?id=34229877
-【盜暮笔记】24h,http://www.lebaobei.top:5678/yy.php?id=1382702247
-【赌神片 动作片 港片】,http://www.lebaobei.top:5678/yy.php?id=1355112116
-鹿鼎记-高清全集,http://www.lebaobei.top:5678/yy.php?id=1382704650
-超级吓人鬼片 恐怖片,http://www.lebaobei.top:5678/yy.php?id=1355641195
-欢乐集结号-每天笑不停,http://www.lebaobei.top:5678/yy.php?id=1382741642
-【鹿鼎记】金庸经典,http://www.lebaobei.top:5678/yy.php?id=28265277
-雍正王朝 高清 护眼版,http://www.lebaobei.top:5678/yy.php?id=23206872
-进来 陪你看动漫,http://www.lebaobei.top:5678/yy.php?id=1352866135
-绝版电影 女鬼,http://www.lebaobei.top:5678/yy.php?id=1454587259
-吃鱼了,http://www.lebaobei.top:5678/yy.php?id=1382764587
-【战狼4】吴京老师,http://www.lebaobei.top:5678/yy.php?id=1354784284
-【战狼3吴京】独播,http://www.lebaobei.top:5678/yy.php?id=37999586
-【火蓝刀锋】臭鱼,http://www.lebaobei.top:5678/yy.php?id=1354784966
-【济公】游本昌老师,http://www.lebaobei.top:5678/yy.php?id=25519088
-绝版电影 600部,http://www.lebaobei.top:5678/yy.php?id=1382764593
-YY恐怖电影,http://www.lebaobei.top:5678/yy.php?id=24066336
-【动漫】斗罗斗破,http://www.lebaobei.top:5678/yy.php?id=1353098382
-我的兄弟叫宝强,http://www.lebaobei.top:5678/yy.php?id=1354752117
-神探狄仁杰,http://www.lebaobei.top:5678/yy.php?id=38338029
-【义+】+奈奈新正在直播,http://www.lebaobei.top:5678/yy.php?id=1462815850
-狄仁杰,http://www.lebaobei.top:5678/yy.php?id=1351755386
-【新三国】萌儿陪看,http://www.lebaobei.top:5678/yy.php?id=29216766
-隋唐英雄传 蓝光,http://www.lebaobei.top:5678/yy.php?id=1352475619
-玲宝陪你看,http://www.lebaobei.top:5678/yy.php?id=1353215589
-恐怖鬼片,http://www.lebaobei.top:5678/yy.php?id=1355485328
-英叔僵尸 3000部,http://www.lebaobei.top:5678/yy.php?id=1353685311
-纪晓岚,http://www.lebaobei.top:5678/yy.php?id=1382781415
-知否知否应是绿肥红瘦,http://www.lebaobei.top:5678/yy.php?id=21881901
-二龙湖浩哥【经典搞笑】,http://www.lebaobei.top:5678/yy.php?id=28205255
-林正英 僵尸 鬼片,http://www.lebaobei.top:5678/yy.php?id=1351505899
-康熙微服私访记,http://www.lebaobei.top:5678/yy.php?id=1352811698
-83射雕英雄传,http://www.lebaobei.top:5678/yy.php?id=1354210357
-雍正王朝,http://www.lebaobei.top:5678/yy.php?id=26650882
-火凤凰之战狼七,http://www.lebaobei.top:5678/yy.php?id=1463088777
-情满四合院,http://www.lebaobei.top:5678/yy.php?id=30736888
-宰相刘罗锅,http://www.lebaobei.top:5678/yy.php?id=1382745191
-地下交通站,http://www.lebaobei.top:5678/yy.php?id=1382736795
-经典港片800部,http://www.lebaobei.top:5678/yy.php?id=1382800018
-少年包青天,http://www.lebaobei.top:5678/yy.php?id=1382651363
-【一代枭雄】24h,http://www.lebaobei.top:5678/yy.php?id=1355917294
-花儿开心吧,http://www.lebaobei.top:5678/yy.php?id=1354930984
-正阳门下,http://www.lebaobei.top:5678/yy.php?id=1354931580
-新三国,http://www.lebaobei.top:5678/yy.php?id=26744898
-武林外传,http://www.lebaobei.top:5678/yy.php?id=1353852605
-雪中悍刀行,http://www.lebaobei.top:5678/yy.php?id=1382660835
-泡芙陪你看电影,http://www.lebaobei.top:5678/yy.php?id=24407222
-二号交通站,http://www.lebaobei.top:5678/yy.php?id=1382735582
-港片电影,http://www.lebaobei.top:5678/yy.php?id=33897188
-正阳门下 正在直播,http://www.lebaobei.top:5678/yy.php?id=1453059740
-鹿鼎记-周星驰版,http://www.lebaobei.top:5678/yy.php?id=1354658049
-燕双鹰,http://www.lebaobei.top:5678/yy.php?id=1354143942
-66车讯,http://www.lebaobei.top:5678/yy.php?id=1382571192
-女鬼 绝版电影,http://www.lebaobei.top:5678/yy.php?id=1459727675
-女鬼 绝版电影,http://www.lebaobei.top:5678/yy.php?id=1355479289
-速度与激情全集,http://www.lebaobei.top:5678/yy.php?id=1382749892
-燕双鹰系列,http://www.lebaobei.top:5678/yy.php?id=1457622044
-高分经典电影,http://www.lebaobei.top:5678/yy.php?id=1382754187
-经典鬼片 绝版好看,http://www.lebaobei.top:5678/yy.php?id=1353850051
-【老九门】首播,http://www.lebaobei.top:5678/yy.php?id=1353877164
-燕双鹰,http://www.lebaobei.top:5678/yy.php?id=1352227153
-神雕侠侣,http://www.lebaobei.top:5678/yy.php?id=1351762426
-西游记后传 蓝光,http://www.lebaobei.top:5678/yy.php?id=1353392400
-新三国24小时播放,http://www.lebaobei.top:5678/yy.php?id=1354555195
-风筝,http://www.lebaobei.top:5678/yy.php?id=1382828770
-放羊的星星,http://www.lebaobei.top:5678/yy.php?id=1355260662
-纪晓岚,http://www.lebaobei.top:5678/yy.php?id=22982216
-斗罗斗破精彩动漫,http://www.lebaobei.top:5678/yy.php?id=1507304388
-怒海潜沙 &重启全集,http://www.lebaobei.top:5678/yy.php?id=1354744544
-星爷功夫 经典武侠,http://www.lebaobei.top:5678/yy.php?id=74613175
-丫头动漫 斗罗斗破,http://www.lebaobei.top:5678/yy.php?id=1458722520
-[鬼怪.惊辣.墓穴],http://www.lebaobei.top:5678/yy.php?id=1382748585
-父母爱情,http://www.lebaobei.top:5678/yy.php?id=1382746276
-狂飙2港片电影,http://www.lebaobei.top:5678/yy.php?id=28099939
-神探狄仁杰1—5部全集,http://www.lebaobei.top:5678/yy.php?id=1382705592
-我和僵尸有个约会,http://www.lebaobei.top:5678/yy.php?id=1354143966
-盗慕笔记鬼灯,http://www.lebaobei.top:5678/yy.php?id=1382765507
-斗罗斗破,http://www.lebaobei.top:5678/yy.php?id=1354768828
-【经典港片】佟瑶,http://www.lebaobei.top:5678/yy.php?id=23531261
-举起手来-惊险抗日,http://www.lebaobei.top:5678/yy.php?id=1382736877
-狄仁杰等你哦,http://www.lebaobei.top:5678/yy.php?id=1457579747
-热度榜1.包青天,http://www.lebaobei.top:5678/yy.php?id=22701868
-港片鬼片电影,http://www.lebaobei.top:5678/yy.php?id=1355364378
-倚天屠龙记,http://www.lebaobei.top:5678/yy.php?id=1449856066
-新主播，求照顾,http://www.lebaobei.top:5678/yy.php?id=29197808
-【周星驰超级搞笑电影,http://www.lebaobei.top:5678/yy.php?id=38670875
-抗日奇侠 首播,http://www.lebaobei.top:5678/yy.php?id=39204655
-全职高手,http://www.lebaobei.top:5678/yy.php?id=26870427
-送欢乐,http://www.lebaobei.top:5678/yy.php?id=34093016
-港片鬼片全集,http://www.lebaobei.top:5678/yy.php?id=1459869766
-鬼片赌片经典电影,http://www.lebaobei.top:5678/yy.php?id=1351496216
-雪中悍刀行,http://www.lebaobei.top:5678/yy.php?id=1354943110
-新白娘子传奇,http://www.lebaobei.top:5678/yy.php?id=1354490667
-超级无敌吓人大片,http://www.lebaobei.top:5678/yy.php?id=1354952229
-英叔全集经典鬼片,http://www.lebaobei.top:5678/yy.php?id=1354869861
-24小时播放,http://www.lebaobei.top:5678/yy.php?id=29067083
-少年歌行【蓝光】,http://www.lebaobei.top:5678/yy.php?id=1450556636
-进来 陪你看电视,http://www.lebaobei.top:5678/yy.php?id=1353518742
-武工队传奇,http://www.lebaobei.top:5678/yy.php?id=1354790484
-叶问全集,http://www.lebaobei.top:5678/yy.php?id=1382828771
-灌篮高手 正在直播,http://www.lebaobei.top:5678/yy.php?id=1351417866
-【血色浪漫】经典回顾,http://www.lebaobei.top:5678/yy.php?id=33369999
-【二炮手】孙红雷,http://www.lebaobei.top:5678/yy.php?id=1354330324
-朱元璋电视剧,http://www.lebaobei.top:5678/yy.php?id=1382765235
-燕双鹰,http://www.lebaobei.top:5678/yy.php?id=1355358366
-大秧歌,http://www.lebaobei.top:5678/yy.php?id=1460463356
-笑傲江湖 4K超清,http://www.lebaobei.top:5678/yy.php?id=1354282410
-【天龙八部】蓝光超清,http://www.lebaobei.top:5678/yy.php?id=28996058
-九品芝麻官包龙星,http://www.lebaobei.top:5678/yy.php?id=1354930968
-燕双鹰专场,http://www.lebaobei.top:5678/yy.php?id=23026835
-经典动漫,http://www.lebaobei.top:5678/yy.php?id=24180320
-港片 喜剧 动作,http://www.lebaobei.top:5678/yy.php?id=1355480591
-新主播，求照顾,http://www.lebaobei.top:5678/yy.php?id=1382690406
-布丁-玄幻电影正在直播,http://www.lebaobei.top:5678/yy.php?id=1455460998
-打狗棍,http://www.lebaobei.top:5678/yy.php?id=1354773122
-泡芙陪你看电影,http://www.lebaobei.top:5678/yy.php?id=24407222
-火蓝刀锋,http://www.lebaobei.top:5678/yy.php?id=1382737892
-士兵突击,http://www.lebaobei.top:5678/yy.php?id=1382828766
-【陪你看】金刚葫芦娃,http://www.lebaobei.top:5678/yy.php?id=1353323999
-林正英 女鬼电影,http://www.lebaobei.top:5678/yy.php?id=1453996620
-24H国漫热播,http://www.lebaobei.top:5678/yy.php?id=1353937086
-鹿鼎记-周星驰版,http://www.lebaobei.top:5678/yy.php?id=1354658049
-斗破苍穹玄幻剧,http://www.lebaobei.top:5678/yy.php?id=1356051105
-寻秦记-穿越剧经典,http://www.lebaobei.top:5678/yy.php?id=1382749900
-真实案件系列,http://www.lebaobei.top:5678/yy.php?id=1382671124
-港片电影集,http://www.lebaobei.top:5678/yy.php?id=1455225203
-特种兵系列,http://www.lebaobei.top:5678/yy.php?id=1508456184
-【电视剧】士兵突击,http://www.lebaobei.top:5678/yy.php?id=96731358
-五号特工组,http://www.lebaobei.top:5678/yy.php?id=1507704566
-系列电视剧,http://www.lebaobei.top:5678/yy.php?id=1458015189
-【成龙经典】动作,http://www.lebaobei.top:5678/yy.php?id=34460526
-奇领 铁山靠【Y 正在直播,http://www.lebaobei.top:5678/yy.php?id=41584371
-24灌篮高手正在直播,http://www.lebaobei.top:5678/yy.php?id=1350984033
-彭禺厶鬼怪奇幻系列电影,http://www.lebaobei.top:5678/yy.php?id=1355249116
-神探狄仁杰1,http://www.lebaobei.top:5678/yy.php?id=1354930934
-开心剧场《地下交通站》,http://www.lebaobei.top:5678/yy.php?id=29907996
-双月之城-国漫,http://www.lebaobei.top:5678/yy.php?id=1382736907
-【雪豹】超经典,http://www.lebaobei.top:5678/yy.php?id=1450496699
-星爷经典-百看不厌,http://www.lebaobei.top:5678/yy.php?id=1382736808
-三国演义94年经典版,http://www.lebaobei.top:5678/yy.php?id=1354936241
-【雪豹】超经典,http://www.lebaobei.top:5678/yy.php?id=1450496699
-星爷经典-百看不厌,http://www.lebaobei.top:5678/yy.php?id=1382736808
-三国演义94年经典版,http://www.lebaobei.top:5678/yy.php?id=1354936241
-经典港片电影,http://www.lebaobei.top:5678/yy.php?id=1382793140
-天道-9.2高分好剧,http://www.lebaobei.top:5678/yy.php?id=1382735574
-纪晓岚专属,http://www.lebaobei.top:5678/yy.php?id=63826933
-少年包青天第三部,http://www.lebaobei.top:5678/yy.php?id=1382736814
-宋小宝小品合集,http://www.lebaobei.top:5678/yy.php?id=1354931577
-炊事班的故事II,http://www.lebaobei.top:5678/yy.php?id=1382736885
-【狂飙】4K,http://www.lebaobei.top:5678/yy.php?id=1382773728
-你最爱的宋小宝,http://www.lebaobei.top:5678/yy.php?id=1354936198
-读心神探,http://www.lebaobei.top:5678/yy.php?id=1382736875
-小兵张嘎,http://www.lebaobei.top:5678/yy.php?id=1354930225
-父母的爱情,http://www.lebaobei.top:5678/yy.php?id=1382768483
-主播-求关注.24小时,http://www.lebaobei.top:5678/yy.php?id=1456625255
-斗罗斗破动漫,http://www.lebaobei.top:5678/yy.php?id=1420843376
-！,http://www.lebaobei.top:5678/yy.php?id=1353255986
-笑傲帮,http://www.lebaobei.top:5678/yy.php?id=1382735555
-情满四合院,http://www.lebaobei.top:5678/yy.php?id=1382736888
-斗罗斗破,http://www.lebaobei.top:5678/yy.php?id=1354768831
-康熙王朝,http://www.lebaobei.top:5678/yy.php?id=1382736818
-【动漫】斗罗斗破,http://www.lebaobei.top:5678/yy.php?id=35742228
-港剧《驼枪师姐》,http://www.lebaobei.top:5678/yy.php?id=1382688521
-辽宁七七与你相见恨晚,http://www.lebaobei.top:5678/yy.php?id=1451760831
-狂飙 蓝光,http://www.lebaobei.top:5678/yy.php?id=1382787686
-【神雕侠侣】金庸经典,http://www.lebaobei.top:5678/yy.php?id=1382704651
-今夜欢乐颂,http://www.lebaobei.top:5678/yy.php?id=1382735572
-易中天品三国完整版,http://www.lebaobei.top:5678/yy.php?id=1461244449
-【荒野求生】德爷 贝爷,http://www.lebaobei.top:5678/yy.php?id=39123221
-【荒野求生】德爷贝爷蓝光,http://www.lebaobei.top:5678/yy.php?id=24759907
-我的前半生,http://www.lebaobei.top:5678/yy.php?id=1382735564
-为什么你一直是单身,http://www.lebaobei.top:5678/yy.php?id=89431014
-电影,http://www.lebaobei.top:5678/yy.php?id=1458819360
-济公游记,http://www.lebaobei.top:5678/yy.php?id=1355265814
-一起合租的快乐生活~,http://www.lebaobei.top:5678/yy.php?id=38525272
-我爱我家,http://www.lebaobei.top:5678/yy.php?id=1382735557
-炊事班的故事III,http://www.lebaobei.top:5678/yy.php?id=1382736716
-今晚80后脱口秀,http://www.lebaobei.top:5678/yy.php?id=1382745098
-家花与野花,http://www.lebaobei.top:5678/yy.php?id=1354420982
-妹子高分搞笑电影,http://www.lebaobei.top:5678/yy.php?id=33478222
-现代军旅,http://www.lebaobei.top:5678/yy.php?id=1382830638
-【案发现场】1-4部全集,http://www.lebaobei.top:5678/yy.php?id=33567888
-鬼片恐怖片 美女陪你看,http://www.lebaobei.top:5678/yy.php?id=1335509613
-经典电影,http://www.lebaobei.top:5678/yy.php?id=1355142167
-港剧悬疑破案,http://www.lebaobei.top:5678/yy.php?id=10425097
-【动漫】斗罗斗破超清全屏,http://www.lebaobei.top:5678/yy.php?id=1382689904
-笑傲江湖,http://www.lebaobei.top:5678/yy.php?id=1354930909
-吴京 特种战士,http://www.lebaobei.top:5678/yy.php?id=76101626
-【林正英】僵尸 鬼片,http://www.lebaobei.top:5678/yy.php?id=30668277
-经典港剧《法证先锋》,http://www.lebaobei.top:5678/yy.php?id=1461993663
-烧脑破案24h陪你看,http://www.lebaobei.top:5678/yy.php?id=1355171357
-经典鬼片3000部,http://www.lebaobei.top:5678/yy.php?id=29460894
-【电影】顶级动作电影,http://www.lebaobei.top:5678/yy.php?id=24923327
-【战狼3吴京首播】,http://www.lebaobei.top:5678/yy.php?id=1354752072
-【电影】超然巨作,http://www.lebaobei.top:5678/yy.php?id=26623173
-【电影】超然巨作,http://www.lebaobei.top:5678/yy.php?id=29170933
-倚天屠龙记,http://www.lebaobei.top:5678/yy.php?id=1354755003
-少年包青天三,http://www.lebaobei.top:5678/yy.php?id=61318527
-倚天屠龙记,http://www.lebaobei.top:5678/yy.php?id=1382818085
-吕小羊鬼片 正在直播,http://www.lebaobei.top:5678/yy.php?id=1354792118
-利刃出击乐乐陪看,http://www.lebaobei.top:5678/yy.php?id=1352946111
-港剧《驼枪师姐》,http://www.lebaobei.top:5678/yy.php?id=1382688521
-父母爱情,http://www.lebaobei.top:5678/yy.php?id=1354926650
-林正英 经典鬼片,http://www.lebaobei.top:5678/yy.php?id=1353312849
-岳云鹏-屌丝也能追到美女,http://www.lebaobei.top:5678/yy.php?id=1382736882
-宫心计,http://www.lebaobei.top:5678/yy.php?id=1382828769
-开饭了大熊猫,http://www.lebaobei.top:5678/yy.php?id=1382741641
-《刑事侦缉档案》4部连播,http://www.lebaobei.top:5678/yy.php?id=95017956
-天龙神雕经典回忆,http://www.lebaobei.top:5678/yy.php?id=68260522
-破案港剧,http://www.lebaobei.top:5678/yy.php?id=1350670730
-《石敢当》六耳猕猴,http://www.lebaobei.top:5678/yy.php?id=1394156613
-[影视] 济公游记,http://www.lebaobei.top:5678/yy.php?id=25221556
-欧阳震华带你起飞,http://www.lebaobei.top:5678/yy.php?id=1456829119
-案发现场全集,http://www.lebaobei.top:5678/yy.php?id=1354775242
-新主播，求照顾,http://www.lebaobei.top:5678/yy.php?id=1394102549
-战狼6吴京首播,http://www.lebaobei.top:5678/yy.php?id=1354330332
-西游记后传,http://www.lebaobei.top:5678/yy.php?id=1382736846
-德爷单挑荒野,http://www.lebaobei.top:5678/yy.php?id=62370558
-法证先锋,http://www.lebaobei.top:5678/yy.php?id=1354930939
-24H欧美惊悚科幻,http://www.lebaobei.top:5678/yy.php?id=1382656234
-燃爆动作片,http://www.lebaobei.top:5678/yy.php?id=1382736801
-欢乐集结号,http://www.lebaobei.top:5678/yy.php?id=1354931582
-伪装者,http://www.lebaobei.top:5678/yy.php?id=1354936244
-小欢喜,http://www.lebaobei.top:5678/yy.php?id=1382737888
-国内喜剧,http://www.lebaobei.top:5678/yy.php?id=1382736862
-法证先锋Ⅱ,http://www.lebaobei.top:5678/yy.php?id=1354888736
-【港台】鬼片 惊悚 喜剧,http://www.lebaobei.top:5678/yy.php?id=1351030377
-【荒野求生】德爷贝爷各种,http://www.lebaobei.top:5678/yy.php?id=21831828
-恐怖片 女鬼,http://www.lebaobei.top:5678/yy.php?id=1455891197
-炊事班的故事,http://www.lebaobei.top:5678/yy.php?id=1382749901
-易中天品三国,http://www.lebaobei.top:5678/yy.php?id=1354931498
-妖魔鬼怪 超好看,http://www.lebaobei.top:5678/yy.php?id=1459714870
-情满四合院,http://www.lebaobei.top:5678/yy.php?id=1382736848
-亲爱的热爱的,http://www.lebaobei.top:5678/yy.php?id=1354932433
-我的体育老师,http://www.lebaobei.top:5678/yy.php?id=1382745169
-岳云鹏-屌丝也能追到美女,http://www.lebaobei.top:5678/yy.php?id=1382736882
-炊事班的故事,http://www.lebaobei.top:5678/yy.php?id=1382646846
-最美的青春,http://www.lebaobei.top:5678/yy.php?id=1382745116
-贾玲春晚小品,http://www.lebaobei.top:5678/yy.php?id=1382736720
-《鉴证实录》两部连播,http://www.lebaobei.top:5678/yy.php?id=1460336255
-平凡岁月,http://www.lebaobei.top:5678/yy.php?id=1382745117
-林正英 经典鬼片,http://www.lebaobei.top:5678/yy.php?id=1353312849
-天龙八部蓝光,http://www.lebaobei.top:5678/yy.php?id=1355652820
-宋小宝春晚小品合集,http://www.lebaobei.top:5678/yy.php?id=1382736866
-[影视] 济公游记,http://www.lebaobei.top:5678/yy.php?id=25221556
-插翅难逃,http://www.lebaobei.top:5678/yy.php?id=1355279371
-大话西游至尊宝,http://www.lebaobei.top:5678/yy.php?id=1382736910
-薛元帅传奇,http://www.lebaobei.top:5678/yy.php?id=31313785
-野山鹰-影视剧,http://www.lebaobei.top:5678/yy.php?id=1354932395
-百家讲坛――之明太祖朱元璋,http://www.lebaobei.top:5678/yy.php?id=1354936149
-大明王朝,http://www.lebaobei.top:5678/yy.php?id=1382736879
-赵本山小品,http://www.lebaobei.top:5678/yy.php?id=28882933
-华子系列,http://www.lebaobei.top:5678/yy.php?id=1354888726
-中国味道 第4季-美食纪录片,http://www.lebaobei.top:5678/yy.php?id=1382736845
-【玄幻电影】,http://www.lebaobei.top:5678/yy.php?id=1355065896
-夏洛特烦恼-国内电影-喜剧,http://www.lebaobei.top:5678/yy.php?id=1354936201
-神探狄仁杰,http://www.lebaobei.top:5678/yy.php?id=1461133588
-金婚,http://www.lebaobei.top:5678/yy.php?id=1382736832
-惊恐鬼怪盗暮,http://www.lebaobei.top:5678/yy.php?id=1382749525
-【港片】赌片 动作,http://www.lebaobei.top:5678/yy.php?id=24921161
-赌神-发哥,http://www.lebaobei.top:5678/yy.php?id=1354889044
-无敌燕双鹰,http://www.lebaobei.top:5678/yy.php?id=1354825244
-鬼片.惊悚.港片,http://www.lebaobei.top:5678/yy.php?id=1355497884
-敢死队-精彩动作电影,http://www.lebaobei.top:5678/yy.php?id=1382735573
-鸡毛飞上天,http://www.lebaobei.top:5678/yy.php?id=1354806550
-国外科幻,http://www.lebaobei.top:5678/yy.php?id=1382736800
-欢乐集结号,http://www.lebaobei.top:5678/yy.php?id=1382735550
-热门喜剧,http://www.lebaobei.top:5678/yy.php?id=1354931495
-毒液：致命守护者,http://www.lebaobei.top:5678/yy.php?id=1382745095
-枕上书正在直播,http://www.lebaobei.top:5678/yy.php?id=1351844200
-【爱靓】虎子鬼片,http://www.lebaobei.top:5678/yy.php?id=1356075628
-变形金刚,http://www.lebaobei.top:5678/yy.php?id=1382736803
-三国演义,http://www.lebaobei.top:5678/yy.php?id=32788000
-《神雕侠侣》黯然销魂,http://www.lebaobei.top:5678/yy.php?id=1394000563
-的直播间,http://www.lebaobei.top:5678/yy.php?id=1354129442
-余zui,http://www.lebaobei.top:5678/yy.php?id=31809939
-华语经典电影,http://www.lebaobei.top:5678/yy.php?id=1382779065
-24小时循环播电视剧,http://www.lebaobei.top:5678/yy.php?id=53320802
-小敏,http://www.lebaobei.top:5678/yy.php?id=1382736890
-陈情令,http://www.lebaobei.top:5678/yy.php?id=1382745121
-最可爱的人,http://www.lebaobei.top:5678/yy.php?id=1382779528
-国内外惊悚恐怖片,http://www.lebaobei.top:5678/yy.php?id=1356075281
-我和僵尸有个约会,http://www.lebaobei.top:5678/yy.php?id=1355277480
-加勒比海盗系列,http://www.lebaobei.top:5678/yy.php?id=1382749914
-院线动作大片,http://www.lebaobei.top:5678/yy.php?id=1382736900
-动漫奥斯卡正在直播,http://www.lebaobei.top:5678/yy.php?id=1382626335
-经典大片合集,http://www.lebaobei.top:5678/yy.php?id=1382749895
-电影百团大战,http://www.lebaobei.top:5678/yy.php?id=1382736871
-第一滴血全集,http://www.lebaobei.top:5678/yy.php?id=1354932355
-热血抗日电影,http://www.lebaobei.top:5678/yy.php?id=1382749907
-小甜甜 勇敢的心,http://www.lebaobei.top:5678/yy.php?id=1382658790
-空谷幽兰,http://www.lebaobei.top:5678/yy.php?id=1382745182
-福贵,http://www.lebaobei.top:5678/yy.php?id=1354926537
-林正英鬼片 陪你惊悚,http://www.lebaobei.top:5678/yy.php?id=1356072278
-澳门风云,http://www.lebaobei.top:5678/yy.php?id=1459243913
-本山快乐营,http://www.lebaobei.top:5678/yy.php?id=1354933529
-单挑荒野第一季,http://www.lebaobei.top:5678/yy.php?id=1354933535
-法证先锋2,http://www.lebaobei.top:5678/yy.php?id=1382736870
-血色浪漫,http://www.lebaobei.top:5678/yy.php?id=1354926676
-宝莲灯前传,http://www.lebaobei.top:5678/yy.php?id=1354931631
-黑冰,http://www.lebaobei.top:5678/yy.php?id=1354932427
-小沈阳春晚小品,http://www.lebaobei.top:5678/yy.php?id=1382749941
-战争 二战 《狙击电影》,http://www.lebaobei.top:5678/yy.php?id=1450828388
-大进军全集：红色系列电影,http://www.lebaobei.top:5678/yy.php?id=1382745083
-洪金宝福星系列,http://www.lebaobei.top:5678/yy.php?id=1354924839
-影视剧场,http://www.lebaobei.top:5678/yy.php?id=1355260855
-公主嫁到,http://www.lebaobei.top:5678/yy.php?id=1382736915
-木乃伊全集,http://www.lebaobei.top:5678/yy.php?id=1354889024
-本山快乐营1,http://www.lebaobei.top:5678/yy.php?id=1354936209
-【电视剧】天下第一,http://www.lebaobei.top:5678/yy.php?id=1354780649
-香港院线大片-最新,http://www.lebaobei.top:5678/yy.php?id=1354936242
-奇缘39262港台影院,http://www.lebaobei.top:5678/yy.php?id=1354889234
-�逋鞠盗�-国产喜剧,http://www.lebaobei.top:5678/yy.php?id=1382736856
-惊天大瓜,http://www.lebaobei.top:5678/yy.php?id=1353327982
-神秘探险热播电视剧,http://www.lebaobei.top:5678/yy.php?id=1355336008
-天下第一,http://www.lebaobei.top:5678/yy.php?id=1355554637
-怀旧好电影,http://www.lebaobei.top:5678/yy.php?id=1382627144
-粟裕大将-影视,http://www.lebaobei.top:5678/yy.php?id=1354926542
-逐梦传媒-007 正在直播,http://www.lebaobei.top:5678/yy.php?id=1456685522
-特种兵归来-国产电影,http://www.lebaobei.top:5678/yy.php?id=1382735581
-法证先锋Ⅲ,http://www.lebaobei.top:5678/yy.php?id=1382736802
-金婚,http://www.lebaobei.top:5678/yy.php?id=1382828768
-新白娘子传奇-女神赵雅芝,http://www.lebaobei.top:5678/yy.php?id=1354930969
-传奇英雄,http://www.lebaobei.top:5678/yy.php?id=1382735578
-勇敢的心,http://www.lebaobei.top:5678/yy.php?id=1354792480
-精彩动作电影享不停,http://www.lebaobei.top:5678/yy.php?id=1382736809
-憨豆先生-经典喜剧,http://www.lebaobei.top:5678/yy.php?id=1354936239
-赵家班电视剧,http://www.lebaobei.top:5678/yy.php?id=1382737099
-X战警系列电影,http://www.lebaobei.top:5678/yy.php?id=1382736893
-战争大片-国外电影,http://www.lebaobei.top:5678/yy.php?id=1382736857
-热血战争巨作,http://www.lebaobei.top:5678/yy.php?id=1382745087
-舌尖上的中国第2季,http://www.lebaobei.top:5678/yy.php?id=1354930943
-俺娘田小草,http://www.lebaobei.top:5678/yy.php?id=1382741638
-铭记历史-甲午大海战,http://www.lebaobei.top:5678/yy.php?id=1354936195
-探秘中华美食,http://www.lebaobei.top:5678/yy.php?id=1354930954
-临界婚姻,http://www.lebaobei.top:5678/yy.php?id=1354932365
-经典动作电影,http://www.lebaobei.top:5678/yy.php?id=1370293254
-狂飙,http://www.lebaobei.top:5678/yy.php?id=14072363
-河山,http://www.lebaobei.top:5678/yy.php?id=1382749952
-军旅电视剧,http://www.lebaobei.top:5678/yy.php?id=1352575322
-临界婚姻,http://www.lebaobei.top:5678/yy.php?id=1354932365
-经典动作电影,http://www.lebaobei.top:5678/yy.php?id=1370293254
-狂飙,http://www.lebaobei.top:5678/yy.php?id=14072363
-河山,http://www.lebaobei.top:5678/yy.php?id=1382749952
-军旅电视剧,http://www.lebaobei.top:5678/yy.php?id=1352575322
-精彩玄幻电影,http://www.lebaobei.top:5678/yy.php?id=1382688400
-远去的飞鹰-影视剧,http://www.lebaobei.top:5678/yy.php?id=1354930912
-发哥系列,http://www.lebaobei.top:5678/yy.php?id=1354888733
-哈利波特全集,http://www.lebaobei.top:5678/yy.php?id=1382745105
-经典抗日电影,http://www.lebaobei.top:5678/yy.php?id=1354936141
-国内战争电影,http://www.lebaobei.top:5678/yy.php?id=1382736865
-剩女李夏天的求爱之路,http://www.lebaobei.top:5678/yy.php?id=1382749910
-九亿少女的噩梦,http://www.lebaobei.top:5678/yy.php?id=1354921392
-欢乐集结号3,http://www.lebaobei.top:5678/yy.php?id=1382736822
-魔幻手机,http://www.lebaobei.top:5678/yy.php?id=1382735544
-成龙系列,http://www.lebaobei.top:5678/yy.php?id=1354888751
-探案！探案！,http://www.lebaobei.top:5678/yy.php?id=1382829413
-战狼3,http://www.lebaobei.top:5678/yy.php?id=1355913027
-小戏骨黄飞鸿,http://www.lebaobei.top:5678/yy.php?id=1354936181
-国外黑色喜剧：冷幽默小剧场,http://www.lebaobei.top:5678/yy.php?id=1382745175
-请回答1988,http://www.lebaobei.top:5678/yy.php?id=1354932362
-金庸武侠系列,http://www.lebaobei.top:5678/yy.php?id=40959929
-超级英雄系列电影,http://www.lebaobei.top:5678/yy.php?id=1382736863
-国威影院 仙侠系列,http://www.lebaobei.top:5678/yy.php?id=1354866665
-人生必看的科幻片,http://www.lebaobei.top:5678/yy.php?id=1382745114
-国内战争大片合集,http://www.lebaobei.top:5678/yy.php?id=1382749950
-红楼梦1987经典版,http://www.lebaobei.top:5678/yy.php?id=1382745084
-正阳门下小女人,http://www.lebaobei.top:5678/yy.php?id=1508778570
-大汉贤后卫子夫,http://www.lebaobei.top:5678/yy.php?id=1382735569
-怀旧小品,http://www.lebaobei.top:5678/yy.php?id=1382736821
-国外动作大片,http://www.lebaobei.top:5678/yy.php?id=1382735540
-【科幻】超炫特效,http://www.lebaobei.top:5678/yy.php?id=37988782
-体验另一种生活！,http://www.lebaobei.top:5678/yy.php?id=1354936229
-超精彩武打场景,http://www.lebaobei.top:5678/yy.php?id=1354936131
-宫心计,http://www.lebaobei.top:5678/yy.php?id=1354932429
-国产大片电影,http://www.lebaobei.top:5678/yy.php?id=1354926655
-超精彩！系列动作电影,http://www.lebaobei.top:5678/yy.php?id=1382745096
-第8号当铺,http://www.lebaobei.top:5678/yy.php?id=1382736905
-热血战争片,http://www.lebaobei.top:5678/yy.php?id=1354932409
-大汉天子S1,http://www.lebaobei.top:5678/yy.php?id=1382749902
-百家讲坛-红楼梦篇,http://www.lebaobei.top:5678/yy.php?id=1382741639
-战狼10086,http://www.lebaobei.top:5678/yy.php?id=1382773686
-漫威十年老粉福利来了,http://www.lebaobei.top:5678/yy.php?id=1354930233
-洪大哥系列,http://www.lebaobei.top:5678/yy.php?id=1354888743
-鬼片 恐怖片超好看,http://www.lebaobei.top:5678/yy.php?id=1382780025
-名媛望族-精彩港剧,http://www.lebaobei.top:5678/yy.php?id=1354932431
-战狼7吴京退役,http://www.lebaobei.top:5678/yy.php?id=1382773714
-仙剑奇侠传-神仙姐姐驾到,http://www.lebaobei.top:5678/yy.php?id=1382749903
-灌篮高手,http://www.lebaobei.top:5678/yy.php?id=1382735626
-春晚小品,http://www.lebaobei.top:5678/yy.php?id=1382773708
-大汉天子S3,http://www.lebaobei.top:5678/yy.php?id=1382736810
-超炫科幻大片,http://www.lebaobei.top:5678/yy.php?id=1382736840
-春晚小品,http://www.lebaobei.top:5678/yy.php?id=1382773706
-春晚小品,http://www.lebaobei.top:5678/yy.php?id=1382773711
-钟馗传说,http://www.lebaobei.top:5678/yy.php?id=1382736839
-上海滩,http://www.lebaobei.top:5678/yy.php?id=1382745184
-冕加电影院 正在直播,http://www.lebaobei.top:5678/yy.php?id=1339157813
-金三角大营救,http://www.lebaobei.top:5678/yy.php?id=1354930924
-卖拐 范伟,http://www.lebaobei.top:5678/yy.php?id=1382773719
-最后的狮子-探险纪录片,http://www.lebaobei.top:5678/yy.php?id=1382735577
-鹿鼎记,http://www.lebaobei.top:5678/yy.php?id=1355104118
-生逢灿烂的日子,http://www.lebaobei.top:5678/yy.php?id=1382745085
-经典影视剧大家一起看,http://www.lebaobei.top:5678/yy.php?id=1355742336
-风靡全球的谍战片,http://www.lebaobei.top:5678/yy.php?id=1382736817
-丛林敢死队-国内电影,http://www.lebaobei.top:5678/yy.php?id=1354936214
-非诚勿扰,http://www.lebaobei.top:5678/yy.php?id=1382735583
-熊出没之探险日记S1-国漫,http://www.lebaobei.top:5678/yy.php?id=1354930977
-岳云鹏宋小宝也来演电影了？,http://www.lebaobei.top:5678/yy.php?id=1354926612
-【聚星】菊瓜娃,http://www.lebaobei.top:5678/yy.php?id=1382773718
-无敌县令,http://www.lebaobei.top:5678/yy.php?id=1354932390
-天龙八部,http://www.lebaobei.top:5678/yy.php?id=1382749944
-历年春晚小品合集,http://www.lebaobei.top:5678/yy.php?id=1382773717
-重生之超级赛亚人,http://www.lebaobei.top:5678/yy.php?id=1354936124
-国内动作片,http://www.lebaobei.top:5678/yy.php?id=1382735561
-好先生,http://www.lebaobei.top:5678/yy.php?id=29067617
-鹿鼎记-陈小春版,http://www.lebaobei.top:5678/yy.php?id=1382736920
-动作大片,http://www.lebaobei.top:5678/yy.php?id=1354930816
-末日系列-外国电影合集,http://www.lebaobei.top:5678/yy.php?id=1354889019
-历年春晚小品合集,http://www.lebaobei.top:5678/yy.php?id=1355555484
-【聚星】小猴子,http://www.lebaobei.top:5678/yy.php?id=1382773710
-24小时播放电视剧,http://www.lebaobei.top:5678/yy.php?id=1354127609
-密子君,http://www.lebaobei.top:5678/yy.php?id=1382736717
-一分钟学道菜,http://www.lebaobei.top:5678/yy.php?id=1382736901
-水浒传梁山好汉,http://www.lebaobei.top:5678/yy.php?id=1382832087
-[ 经典] 鹿鼎记,http://www.lebaobei.top:5678/yy.php?id=1355526531
-春晚小品,http://www.lebaobei.top:5678/yy.php?id=1382773715
-中国第一神探-狄仁杰,http://www.lebaobei.top:5678/yy.php?id=1354932438
-科幻大片,http://www.lebaobei.top:5678/yy.php?id=1382745181
-来看修牛蹄,http://www.lebaobei.top:5678/yy.php?id=1382749887
-春晚小品,http://www.lebaobei.top:5678/yy.php?id=1382773705
-春晚小品,http://www.lebaobei.top:5678/yy.php?id=1394000564
-大太监-tvb经典古装,http://www.lebaobei.top:5678/yy.php?id=1382736886
-花儿开心吧-小品,http://www.lebaobei.top:5678/yy.php?id=1382736917
-雪儿动漫,http://www.lebaobei.top:5678/yy.php?id=1354143938
-天下第一,http://www.lebaobei.top:5678/yy.php?id=1382736838
-动作大片,http://www.lebaobei.top:5678/yy.php?id=1354888739
-科幻片：来看神奇的地球,http://www.lebaobei.top:5678/yy.php?id=1354930897
-降服魔女的手段-泰剧,http://www.lebaobei.top:5678/yy.php?id=1354932405
-欢乐一起看,http://www.lebaobei.top:5678/yy.php?id=1354930926
-你不知道的黄河故事,http://www.lebaobei.top:5678/yy.php?id=1382745189
-历年春晚小品合集,http://www.lebaobei.top:5678/yy.php?id=1382773716
-忠烈杨家将,http://www.lebaobei.top:5678/yy.php?id=1382749909
-小米粒Mili,http://www.lebaobei.top:5678/yy.php?id=1382736842
-国产喜剧,http://www.lebaobei.top:5678/yy.php?id=1382735584
-风味原产地潮汕,http://www.lebaobei.top:5678/yy.php?id=1382745178
-雷神系列,http://www.lebaobei.top:5678/yy.php?id=1354932441
-穿越时空的爱恋,http://www.lebaobei.top:5678/yy.php?id=1382735567
-买车前看一看 不然血亏,http://www.lebaobei.top:5678/yy.php?id=1349602814
-十大经典港剧之《大时代》,http://www.lebaobei.top:5678/yy.php?id=1354930891
-战争大片,http://www.lebaobei.top:5678/yy.php?id=1382735556
-三国演义【1994】,http://www.lebaobei.top:5678/yy.php?id=1354930932
-深海利剑,http://www.lebaobei.top:5678/yy.php?id=1382736906
-国外侦探电影,http://www.lebaobei.top:5678/yy.php?id=1382745099
-谈判专家,http://www.lebaobei.top:5678/yy.php?id=1382735560
-馋哭了！川味来袭,http://www.lebaobei.top:5678/yy.php?id=1382736913
-欢乐集结号4,http://www.lebaobei.top:5678/yy.php?id=1382736889
-巩汉林春晚小品合集,http://www.lebaobei.top:5678/yy.php?id=1354889035
-热血动作电影,http://www.lebaobei.top:5678/yy.php?id=1382736804
-珍珠港-电影,http://www.lebaobei.top:5678/yy.php?id=1354936234
-学生兵,http://www.lebaobei.top:5678/yy.php?id=1354658003
-高分动作大片-热血出击,http://www.lebaobei.top:5678/yy.php?id=1382736909
-张译电视剧/电影,http://www.lebaobei.top:5678/yy.php?id=1355119593
-战争大片,http://www.lebaobei.top:5678/yy.php?id=1382736819
-田园生活,http://www.lebaobei.top:5678/yy.php?id=1382736898
-快乐经典，小芸妹妹求电,http://www.lebaobei.top:5678/yy.php?id=1355911201
-飞虎之潜行极战,http://www.lebaobei.top:5678/yy.php?id=1354932420
-农家小菜,http://www.lebaobei.top:5678/yy.php?id=1382736894
-来自星星的你,http://www.lebaobei.top:5678/yy.php?id=1354930976
-高分科幻动作片,http://www.lebaobei.top:5678/yy.php?id=1382749948
-外国科幻大片,http://www.lebaobei.top:5678/yy.php?id=1382747628
-国内科幻片,http://www.lebaobei.top:5678/yy.php?id=1382745110
-神厨小福贵,http://www.lebaobei.top:5678/yy.php?id=1382736860
-动作大片,http://www.lebaobei.top:5678/yy.php?id=1354930887
-小宝让你乐翻天：6到9集,http://www.lebaobei.top:5678/yy.php?id=1354930971
-动物世界-领略原始野性,http://www.lebaobei.top:5678/yy.php?id=1382743138
-欢天喜地七仙女,http://www.lebaobei.top:5678/yy.php?id=1382735553
-国外高分大片,http://www.lebaobei.top:5678/yy.php?id=1382736867
-缉妖法海传-国内电影,http://www.lebaobei.top:5678/yy.php?id=1354936203
-超燃科幻大片：明日边缘,http://www.lebaobei.top:5678/yy.php?id=1382736835
-24小时观影,http://www.lebaobei.top:5678/yy.php?id=32867379
-金玉满堂：精彩港剧,http://www.lebaobei.top:5678/yy.php?id=1382736881
-超英集结,http://www.lebaobei.top:5678/yy.php?id=1382745091
-宇宙护卫队--国漫,http://www.lebaobei.top:5678/yy.php?id=1382736837
-战火中的故事,http://www.lebaobei.top:5678/yy.php?id=1382735625
-飓风营救,http://www.lebaobei.top:5678/yy.php?id=1382735547
-欢乐集结号2,http://www.lebaobei.top:5678/yy.php?id=1354930919
-小鬼当家-童年回忆,http://www.lebaobei.top:5678/yy.php?id=1382745104
-欢乐集结号58-70,http://www.lebaobei.top:5678/yy.php?id=1382745119
-超燃动作大片,http://www.lebaobei.top:5678/yy.php?id=1382749940
-张国荣与周润发的兄弟情,http://www.lebaobei.top:5678/yy.php?id=1354930961
-编辑部的故事,http://www.lebaobei.top:5678/yy.php?id=1354936120
-倚天屠龙记,http://www.lebaobei.top:5678/yy.php?id=1451866697
-科幻电影,http://www.lebaobei.top:5678/yy.php?id=1354930209
-蔡明春晚小品,http://www.lebaobei.top:5678/yy.php?id=1354936177
-动物世界,http://www.lebaobei.top:5678/yy.php?id=1382749889
-经典二战,http://www.lebaobei.top:5678/yy.php?id=1354936238
-喜剧闹翻天,http://www.lebaobei.top:5678/yy.php?id=1382735548
-国产喜剧大片,http://www.lebaobei.top:5678/yy.php?id=1382745113
-我的父亲我的兵,http://www.lebaobei.top:5678/yy.php?id=1353413714
-野性欧洲,http://www.lebaobei.top:5678/yy.php?id=1354926622
-古装喜剧合集，还能玩起穿越？！,http://www.lebaobei.top:5678/yy.php?id=1382749905
-天龙八部（国语版）,http://www.lebaobei.top:5678/yy.php?id=1382736855
-战争大片,http://www.lebaobei.top:5678/yy.php?id=1382736798
-大汉天子S2,http://www.lebaobei.top:5678/yy.php?id=1382736807
-地球上的地狱,http://www.lebaobei.top:5678/yy.php?id=1382736918
-热血动作片合集,http://www.lebaobei.top:5678/yy.php?id=1382735627
-精彩动作电影,http://www.lebaobei.top:5678/yy.php?id=1382736823
-通天狄仁杰,http://www.lebaobei.top:5678/yy.php?id=1382749906
-法外风云,http://www.lebaobei.top:5678/yy.php?id=1382736805
-脑洞大开的精彩科幻片,http://www.lebaobei.top:5678/yy.php?id=1382736723
-金星脱口秀：我敢说你敢听吗,http://www.lebaobei.top:5678/yy.php?id=1382735552
-缺宅男女,http://www.lebaobei.top:5678/yy.php?id=1354930937
-国内科幻片来袭,http://www.lebaobei.top:5678/yy.php?id=1354930821
-非诚勿扰,http://www.lebaobei.top:5678/yy.php?id=1382745106
-飞虎之雷霆极战,http://www.lebaobei.top:5678/yy.php?id=1382736869
-国内科幻电影集合,http://www.lebaobei.top:5678/yy.php?id=1354936221
-拆弹专家-刘德华,http://www.lebaobei.top:5678/yy.php?id=1382745111
-大江大河-高分影视推荐,http://www.lebaobei.top:5678/yy.php?id=1382736806
-粉红女郎,http://www.lebaobei.top:5678/yy.php?id=1354888671
-老广的味道 第3季-美食纪录片,http://www.lebaobei.top:5678/yy.php?id=1382735565
-非诚勿扰,http://www.lebaobei.top:5678/yy.php?id=1382745100
-新世界,http://www.lebaobei.top:5678/yy.php?id=1382736850
-超激烈的猎食场面,http://www.lebaobei.top:5678/yy.php?id=1382749898
-从“地瓜嫂”到“杀猪婆”的坚强人生,http://www.lebaobei.top:5678/yy.php?id=1354658062
-9.8分！这部纪录片封神了,http://www.lebaobei.top:5678/yy.php?id=1382736825
-迷,http://www.lebaobei.top:5678/yy.php?id=1382736719
-国外院线动作大片,http://www.lebaobei.top:5678/yy.php?id=1382735570
-经典搞笑影片,http://www.lebaobei.top:5678/yy.php?id=1382749878
-香港动作大片,http://www.lebaobei.top:5678/yy.php?id=1382736816
-流金岁月-经典港剧,http://www.lebaobei.top:5678/yy.php?id=1382736891
-国内动作大片,http://www.lebaobei.top:5678/yy.php?id=1382749917
-原始人大挑战,http://www.lebaobei.top:5678/yy.php?id=1382736884
-三个女人一个因,http://www.lebaobei.top:5678/yy.php?id=1382749953
-外国战争大片,http://www.lebaobei.top:5678/yy.php?id=1382736872
-致敬星爷致敬经典,http://www.lebaobei.top:5678/yy.php?id=1354889048
-影视娱乐剧场,http://www.lebaobei.top:5678/yy.php?id=1354748830
-红色经典影视剧-风语,http://www.lebaobei.top:5678/yy.php?id=1354926671
-家有九凤-影视剧,http://www.lebaobei.top:5678/yy.php?id=1354930894
-舌尖上的中国第一季,http://www.lebaobei.top:5678/yy.php?id=1354930952
-回家的诱惑,http://www.lebaobei.top:5678/yy.php?id=1354658043
-国产动作电影,http://www.lebaobei.top:5678/yy.php?id=1382736858
-蓝色星球-自然-纪录片,http://www.lebaobei.top:5678/yy.php?id=1354930936
-机械战警1-3,http://www.lebaobei.top:5678/yy.php?id=1382736854
-国外侦探,http://www.lebaobei.top:5678/yy.php?id=1382736896
-喜剧电影合集,http://www.lebaobei.top:5678/yy.php?id=1354926637
-本山快乐营,http://www.lebaobei.top:5678/yy.php?id=1382736852
-大唐双龙传,http://www.lebaobei.top:5678/yy.php?id=1354930979
-了不起的萝莉小玲,http://www.lebaobei.top:5678/yy.php?id=1382736799
-渴望,http://www.lebaobei.top:5678/yy.php?id=1354930963
-《一剑开天门》,http://www.lebaobei.top:5678/yy.php?id=34313906
-老司机带你开眼界,http://www.lebaobei.top:5678/yy.php?id=1349538007
-小生物的故事,http://www.lebaobei.top:5678/yy.php?id=1382736834
-欢乐颂,http://www.lebaobei.top:5678/yy.php?id=1382735624
-憨豆先生,http://www.lebaobei.top:5678/yy.php?id=1354930189
-萌鸡小队S1-国漫,http://www.lebaobei.top:5678/yy.php?id=1382736904
-热播喜剧,http://www.lebaobei.top:5678/yy.php?id=1354936169
-小小飞虎队,http://www.lebaobei.top:5678/yy.php?id=1382749888
-魔域桃源-刘德华主演,http://www.lebaobei.top:5678/yy.php?id=1382749904
-妖神记之黑狱篇,http://www.lebaobei.top:5678/yy.php?id=1382745173
-【请进来观看】,http://www.lebaobei.top:5678/yy.php?id=37033366
-娘亲舅大,http://www.lebaobei.top:5678/yy.php?id=1354932360
-吐槽大会 第2季,http://www.lebaobei.top:5678/yy.php?id=1354936145
-本山快乐营2,http://www.lebaobei.top:5678/yy.php?id=1382736718
-金星脱口秀-敢说会道,http://www.lebaobei.top:5678/yy.php?id=1354932407
-赶海新发现,http://www.lebaobei.top:5678/yy.php?id=1382749912
-攻壳机动队,http://www.lebaobei.top:5678/yy.php?id=1382745089
-国外动作片,http://www.lebaobei.top:5678/yy.php?id=1382749913
-开心俱乐部,http://www.lebaobei.top:5678/yy.php?id=1382735541
-大江大河2-高分影视推荐,http://www.lebaobei.top:5678/yy.php?id=1382736797
-漫威超级英雄系列,http://www.lebaobei.top:5678/yy.php?id=1354932402
-法证先锋,http://www.lebaobei.top:5678/yy.php?id=1354930965
-银河护卫队-国外科幻巨作,http://www.lebaobei.top:5678/yy.php?id=1382736815
-一城一味（舌尖姐妹篇）,http://www.lebaobei.top:5678/yy.php?id=1382745179
-吾儿可教,http://www.lebaobei.top:5678/yy.php?id=1354932391
-家族荣耀-精彩港剧,http://www.lebaobei.top:5678/yy.php?id=1382745103
-欢迎来到爆笑剧场,http://www.lebaobei.top:5678/yy.php?id=1382736916
-白夜追凶第一季,http://www.lebaobei.top:5678/yy.php?id=1354932359
-宫心计-港剧-古装,http://www.lebaobei.top:5678/yy.php?id=1354933540
-聪明的顺溜之雄鹰小子S2-国漫,http://www.lebaobei.top:5678/yy.php?id=1382736903
-百家讲坛-之女皇武则天,http://www.lebaobei.top:5678/yy.php?id=1354889015
-漫画解说,http://www.lebaobei.top:5678/yy.php?id=1382735568
-缺宅男女-精彩港剧,http://www.lebaobei.top:5678/yy.php?id=1382745088
-超乎意料的国外侦探,http://www.lebaobei.top:5678/yy.php?id=1382735543
-大明宫词,http://www.lebaobei.top:5678/yy.php?id=1382745190
-�潘磕惺康谝患�-国产喜剧,http://www.lebaobei.top:5678/yy.php?id=1382741637
-黄大妮-电视剧,http://www.lebaobei.top:5678/yy.php?id=1354930904
-本山快乐营-爆笑小品,http://www.lebaobei.top:5678/yy.php?id=1354930948
-法证先锋Ⅳ,http://www.lebaobei.top:5678/yy.php?id=1354932426
-欢乐集结号,http://www.lebaobei.top:5678/yy.php?id=1382749911
-史诗级战争大片,http://www.lebaobei.top:5678/yy.php?id=1382745092
-冰冻星球-纪录片,http://www.lebaobei.top:5678/yy.php?id=1382736849
-吐槽大会 第5季,http://www.lebaobei.top:5678/yy.php?id=1354889009
-赵本山爆笑小品2,http://www.lebaobei.top:5678/yy.php?id=1354936217
-金装四大才子,http://www.lebaobei.top:5678/yy.php?id=1354926600
-什么会让你快乐,http://www.lebaobei.top:5678/yy.php?id=54886912
-公主嫁到-电视剧,http://www.lebaobei.top:5678/yy.php?id=1354930957
-凡人的品格-影视剧,http://www.lebaobei.top:5678/yy.php?id=1354936116
-怪医文三块-影视剧,http://www.lebaobei.top:5678/yy.php?id=1354936154
-顺娘-影视剧,http://www.lebaobei.top:5678/yy.php?id=1354930945
-丁大命,http://www.lebaobei.top:5678/yy.php?id=1382735579
-地心历险记2,http://www.lebaobei.top:5678/yy.php?id=1354936228
-嫦娥,http://www.lebaobei.top:5678/yy.php?id=1354658064
-大力女都奉顺-韩剧,http://www.lebaobei.top:5678/yy.php?id=1382735542
-我比你更懂车 你偏不信,http://www.lebaobei.top:5678/yy.php?id=85042287
-李茶的姑妈-开心麻花,http://www.lebaobei.top:5678/yy.php?id=1354936191
-国外战争,http://www.lebaobei.top:5678/yy.php?id=1382735571
-刺激！国外战争,http://www.lebaobei.top:5678/yy.php?id=1354936142
-越策越开心2015,http://www.lebaobei.top:5678/yy.php?id=1382735559
-国内侦探电影大全,http://www.lebaobei.top:5678/yy.php?id=1354936134
-无敌解压,http://www.lebaobei.top:5678/yy.php?id=1382736897
-国外战争,http://www.lebaobei.top:5678/yy.php?id=1382749918
-记忆中的TVB,http://www.lebaobei.top:5678/yy.php?id=1382749951
-寻味顺德-美食纪录片,http://www.lebaobei.top:5678/yy.php?id=1382736844
-德鲁纳酒店-韩剧,http://www.lebaobei.top:5678/yy.php?id=1354931488
-林正英 九叔 僵尸 鬼片,http://www.lebaobei.top:5678/yy.php?id=1382828957
-国内战争,http://www.lebaobei.top:5678/yy.php?id=1354930204
-绝美！航拍中国第1季,http://www.lebaobei.top:5678/yy.php?id=1354936136
-笑傲江湖-电视剧,http://www.lebaobei.top:5678/yy.php?id=1354936128
-守望的天空,http://www.lebaobei.top:5678/yy.php?id=1382736843
-冲上云霄2,http://www.lebaobei.top:5678/yy.php?id=1354933556
-守望的天空,http://www.lebaobei.top:5678/yy.php?id=1382736843
-冲上云霄2,http://www.lebaobei.top:5678/yy.php?id=1354933556
-男生女生向前冲,http://www.lebaobei.top:5678/yy.php?id=1382745122
-苦乐村官,http://www.lebaobei.top:5678/yy.php?id=1382736864
-超燃动作片,http://www.lebaobei.top:5678/yy.php?id=1354936199
-熊仔之正义守护-国漫,http://www.lebaobei.top:5678/yy.php?id=1382736836
-爱的迫降-韩剧,http://www.lebaobei.top:5678/yy.php?id=1354889042
-开心麻花街,http://www.lebaobei.top:5678/yy.php?id=1354926643
-外国爆笑喜剧,http://www.lebaobei.top:5678/yy.php?id=1382745093
-男亲女爱-经典港剧,http://www.lebaobei.top:5678/yy.php?id=1382736715
-美国队长史蒂夫,http://www.lebaobei.top:5678/yy.php?id=1382736813
-王朝-自然-纪录片,http://www.lebaobei.top:5678/yy.php?id=1354930927
-碟中谍系列-国外动作大片,http://www.lebaobei.top:5678/yy.php?id=1354930181
-传奇之王-影视剧,http://www.lebaobei.top:5678/yy.php?id=1354926735
-今夜百乐门,http://www.lebaobei.top:5678/yy.php?id=1382736912
-笑傲江湖 第2季,http://www.lebaobei.top:5678/yy.php?id=1382736914
-越策越开心23-33,http://www.lebaobei.top:5678/yy.php?id=1354930967
-心理追凶-港剧,http://www.lebaobei.top:5678/yy.php?id=1354936207
-觅食者-美食纪录片,http://www.lebaobei.top:5678/yy.php?id=1382736841
-真心想让你幸福,http://www.lebaobei.top:5678/yy.php?id=1382736876
-修牛蹄,http://www.lebaobei.top:5678/yy.php?id=1353413683
-国外科幻片,http://www.lebaobei.top:5678/yy.php?id=1382735585
-一起来笑吧,http://www.lebaobei.top:5678/yy.php?id=1454859415
-苦咖啡,http://www.lebaobei.top:5678/yy.php?id=1382736908
-尽享国内精彩战争片,http://www.lebaobei.top:5678/yy.php?id=1382745094
-笑傲江湖 第1季,http://www.lebaobei.top:5678/yy.php?id=1382749896
-洗地毯,http://www.lebaobei.top:5678/yy.php?id=1382736859
-国内喜剧,http://www.lebaobei.top:5678/yy.php?id=1382735563
-辽宁951瑶瑶姐,http://www.lebaobei.top:5678/yy.php?id=1355281666
-喜乐街,http://www.lebaobei.top:5678/yy.php?id=1354936231
-丈夫在外有人？真相竟然是！,http://www.lebaobei.top:5678/yy.php?id=1354932375
-霸道总裁爱上女秘书,http://www.lebaobei.top:5678/yy.php?id=1354936167
-经典24小时电影剧场,http://www.lebaobei.top:5678/yy.php?id=37880083
-蜥蜴世界,http://www.lebaobei.top:5678/yy.php?id=1382735545
-白鹿原,http://www.lebaobei.top:5678/yy.php?id=1451064143
-大酱园,http://www.lebaobei.top:5678/yy.php?id=1382736824
-仙女影视,http://www.lebaobei.top:5678/yy.php?id=1356038038
-富滇风云,http://www.lebaobei.top:5678/yy.php?id=1382736853
-王牌逗王牌-喜剧,http://www.lebaobei.top:5678/yy.php?id=1354658048
-换子成龙-影视剧,http://www.lebaobei.top:5678/yy.php?id=1354932397
-熊出没-国漫,http://www.lebaobei.top:5678/yy.php?id=1354936157
-吐槽大会 第1季,http://www.lebaobei.top:5678/yy.php?id=1354936210
-老表，你好Hea！-精彩港剧,http://www.lebaobei.top:5678/yy.php?id=1382736873
-笑声传奇,http://www.lebaobei.top:5678/yy.php?id=1382736880
-做你的百变少女,http://www.lebaobei.top:5678/yy.php?id=1355549868
-溏心风暴之家好月圆,http://www.lebaobei.top:5678/yy.php?id=1354888747
-五行只缺你,http://www.lebaobei.top:5678/yy.php?id=22325556
-动作大片-热血开打,http://www.lebaobei.top:5678/yy.php?id=1354936168
-跳远生命线-优质港剧,http://www.lebaobei.top:5678/yy.php?id=1382735566
-热播国内侦探片,http://www.lebaobei.top:5678/yy.php?id=1382736820
-功夫婆媳-影视剧,http://www.lebaobei.top:5678/yy.php?id=1382736883
-中年计划,http://www.lebaobei.top:5678/yy.php?id=1354658051
-李三枪-抗战影视剧,http://www.lebaobei.top:5678/yy.php?id=1354936122
-MUFC贝影,http://www.lebaobei.top:5678/yy.php?id=1355659580
-烧脑！国外侦探,http://www.lebaobei.top:5678/yy.php?id=1382735551
-摔跤吧爸爸！院线大片,http://www.lebaobei.top:5678/yy.php?id=1382736851
-正在直播,http://www.lebaobei.top:5678/yy.php?id=1461178025
-地心历险记-科幻,http://www.lebaobei.top:5678/yy.php?id=1382736911
-催泪战争,http://www.lebaobei.top:5678/yy.php?id=1382745124
-机动步队,http://www.lebaobei.top:5678/yy.php?id=1354932371
-国外喜剧电影,http://www.lebaobei.top:5678/yy.php?id=1354936178
-国内科幻,http://www.lebaobei.top:5678/yy.php?id=1354936170
-无罪推定,http://www.lebaobei.top:5678/yy.php?id=1354936208
-外国战争经典,http://www.lebaobei.top:5678/yy.php?id=1382749890
-大君-描绘爱情,http://www.lebaobei.top:5678/yy.php?id=1382736874
-能耐大了第1季,http://www.lebaobei.top:5678/yy.php?id=1354930195
-10年没洗的地毯,http://www.lebaobei.top:5678/yy.php?id=1354931585
-能耐大了！德云社演技爆棚,http://www.lebaobei.top:5678/yy.php?id=1354930915
-越策越开心12-22,http://www.lebaobei.top:5678/yy.php?id=1382735558
-越策越开心34-45,http://www.lebaobei.top:5678/yy.php?id=1382736895
-失忆24小时,http://www.lebaobei.top:5678/yy.php?id=1382741640
-超解压短视频,http://www.lebaobei.top:5678/yy.php?id=1382744423
-大家都爱看的港剧,http://www.lebaobei.top:5678/yy.php?id=1382736861
-仙灵儿,http://www.lebaobei.top:5678/yy.php?id=1382736887
-倚天屠龙记,http://www.lebaobei.top:5678/yy.php?id=1354585252
-火线追凶-侦探系列电影,http://www.lebaobei.top:5678/yy.php?id=1382745090
-国内动作电影,http://www.lebaobei.top:5678/yy.php?id=1382745176
-闲暇观看综艺,http://www.lebaobei.top:5678/yy.php?id=1354932379
-国内科幻电影,http://www.lebaobei.top:5678/yy.php?id=1354932444
-梦想改造家 第1季,http://www.lebaobei.top:5678/yy.php?id=1382736892
-冲上云霄-经典港剧,http://www.lebaobei.top:5678/yy.php?id=1382736833
-翡翠凤凰-影视剧,http://www.lebaobei.top:5678/yy.php?id=1354926666
-命中注定我爱你-泰剧,http://www.lebaobei.top:5678/yy.php?id=1354930903
-大家都在看的警匪片,http://www.lebaobei.top:5678/yy.php?id=1354930964
-一起峡谷相遇吗,http://www.lebaobei.top:5678/yy.php?id=1354342554
-武工队传奇,http://www.lebaobei.top:5678/yy.php?id=22089862
-
 
 
 
@@ -2122,90 +1334,90 @@ MUFC贝影,http://www.lebaobei.top:5678/yy.php?id=1355659580
 
 
 ▶️┃广东,#genre#
-广东珠江,http://103.45.68.47:666/gy/gy379/触电.php?pk=1183
-广东卫视,http://103.45.68.47:666/gy/gy379/触电.php?pk=1182
-大湾区卫视,http://103.45.68.47:666/gy/gy379/触电.php?pk=1197
-广东新闻,http://103.45.68.47:666/gy/gy379/触电.php?pk=1186
-广东4K超高清,http://103.45.68.47:666/gy/gy379/触电.php?pk=1198
-广东民生,http://103.45.68.47:666/gy/gy379/触电.php?pk=1185
-广东体育,http://103.45.68.47:666/gy/gy379/触电.php?pk=1184
-广东影视,http://103.45.68.47:666/gy/gy379/触电.php?pk=1199
-嘉佳卡通,http://103.45.68.47:666/gy/gy379/触电.php?pk=1187
-大湾区卫视(海外版),http://103.45.68.47:666/gy/gy379/触电.php?pk=1191
-广东经济科教,http://103.45.68.47:666/gy/gy379/触电.php?pk=1196
-广东少儿,http://103.45.68.47:666/gy/gy379/触电.php?pk=1200
-广东移动,http://103.45.68.47:666/gy/gy379/触电.php?pk=2463
-GRTN文化频道,http://103.45.68.47:666/gy/gy379/触电.php?pk=2511
-河源综合,http://103.45.68.47:666/gy/gy379/触电.php?pk=2402
-河源公共,http://103.45.68.47:666/gy/gy379/触电.php?pk=2496
-肇庆生活,http://103.45.68.47:666/gy/gy379/触电.php?pk=2525
-肇庆综合,http://103.45.68.47:666/gy/gy379/触电.php?pk=1232
-阳江-1,http://103.45.68.47:666/gy/gy379/触电.php?pk=2505
-阳江-2,http://103.45.68.47:666/gy/gy379/触电.php?pk=2506
-化州综合,http://103.45.68.47:666/gy/gy379/触电.php?pk=2440
-开平生活,http://103.45.68.47:666/gy/gy379/触电.php?pk=2406
-紫金台,http://103.45.68.47:666/gy/gy379/触电.php?pk=2452
-海丰县广播电视台,http://103.45.68.47:666/gy/gy379/触电.php?pk=2413
-英德新闻综合频道,http://103.45.68.47:666/gy/gy379/触电.php?pk=2447
-阳春综合,http://103.45.68.47:666/gy/gy379/触电.php?pk=2458
-广宁综合,http://103.45.68.47:666/gy/gy379/触电.php?pk=2414
-惠东综合频道,http://103.45.68.47:666/gy/gy379/触电.php?pk=2404
-乐昌电视台,http://103.45.68.47:666/gy/gy379/触电.php?pk=2503
-普宁台,http://103.45.68.47:666/gy/gy379/触电.php?pk=2450
-惠阳电视台,http://103.45.68.47:666/gy/gy379/触电.php?pk=2470
-开平综合,http://103.45.68.47:666/gy/gy379/触电.php?pk=2405
-工布江达县广播电视台,http://103.45.68.47:666/gy/gy379/触电.php?pk=2439
-廉江台,http://103.45.68.47:666/gy/gy379/触电.php?pk=2445
-清新综合频道,http://103.45.68.47:666/gy/gy379/触电.php?pk=2448
-佛冈综合,http://103.45.68.47:666/gy/gy379/触电.php?pk=2460
-鹤山综合,http://103.45.68.47:666/gy/gy379/触电.php?pk=2441
-信宜综合,http://103.45.68.47:666/gy/gy379/触电.php?pk=2471
-怀集综合,http://103.45.68.47:666/gy/gy379/触电.php?pk=2462
-徐闻台,http://103.45.68.47:666/gy/gy379/触电.php?pk=2474
-遂溪台,http://103.45.68.47:666/gy/gy379/触电.php?pk=2488
-阳西综合,http://103.45.68.47:666/gy/gy379/触电.php?pk=2476
-台山台,http://103.45.68.47:666/gy/gy379/触电.php?pk=2479
-新会综合,http://103.45.68.47:666/gy/gy379/触电.php?pk=2490
-潮安综合,http://103.45.68.47:666/gy/gy379/触电.php?pk=2523
-连州综合,http://103.45.68.47:666/gy/gy379/触电.php?pk=2455
-吴川综合,http://103.45.68.47:666/gy/gy379/触电.php?pk=2499
-连平台,http://103.45.68.47:666/gy/gy379/触电.php?pk=2520
-东源频道,http://103.45.68.47:666/gy/gy379/触电.php?pk=2497
-广东新闻广播,http://103.45.68.47:666/gy/gy379/触电.php?pk=2512
-珠江经济,http://103.45.68.47:666/gy/gy379/触电.php?pk=2513
-音乐之声,http://103.45.68.47:666/gy/gy379/触电.php?pk=2514
-交通之声,http://103.45.68.47:666/gy/gy379/触电.php?pk=2515
-南方生活,http://103.45.68.47:666/gy/gy379/触电.php?pk=2518
-城市之声,http://103.45.68.47:666/gy/gy379/触电.php?pk=2519
-股市广播,http://103.45.68.47:666/gy/gy379/触电.php?pk=2516
-文体广播,http://103.45.68.47:666/gy/gy379/触电.php?pk=2517
-高要电台,http://103.45.68.47:666/gy/gy379/触电.php?pk=2467
-惠阳电台,http://103.45.68.47:666/gy/gy379/触电.php?pk=2478
-海丰电台,http://103.45.68.47:666/gy/gy379/触电.php?pk=2464
-佛冈电台,http://103.45.68.47:666/gy/gy379/触电.php?pk=2461
-化州电台,http://103.45.68.47:666/gy/gy379/触电.php?pk=2449
-英德电台,http://103.45.68.47:666/gy/gy379/触电.php?pk=2446
-广宁电台,http://103.45.68.47:666/gy/gy379/触电.php?pk=2430
-四会电台,http://103.45.68.47:666/gy/gy379/触电.php?pk=2410
-连州电台,http://103.45.68.47:666/gy/gy379/触电.php?pk=2457
-惠东综合广播,http://103.45.68.47:666/gy/gy379/触电.php?pk=2443
-廉江电台,http://103.45.68.47:666/gy/gy379/触电.php?pk=2411
-阳春电台,http://103.45.68.47:666/gy/gy379/触电.php?pk=2459
-螺河之声,http://103.45.68.47:666/gy/gy379/触电.php?pk=2466
-鹤山电台,http://103.45.68.47:666/gy/gy379/触电.php?pk=2442
-信宜电台,http://103.45.68.47:666/gy/gy379/触电.php?pk=2473
-徐闻电台,http://103.45.68.47:666/gy/gy379/触电.php?pk=2475
-新兴电台,http://103.45.68.47:666/gy/gy379/触电.php?pk=2484
-台山电台,http://103.45.68.47:666/gy/gy379/触电.php?pk=2480
-怀集电台,http://103.45.68.47:666/gy/gy379/触电.php?pk=2486
-恩平电台,http://103.45.68.47:666/gy/gy379/触电.php?pk=2481
-新会电台,http://103.45.68.47:666/gy/gy379/触电.php?pk=2489
-普宁电台,http://103.45.68.47:666/gy/gy379/触电.php?pk=2501
-东源电台,http://103.45.68.47:666/gy/gy379/触电.php?pk=2498
-阳江综合广播,http://103.45.68.47:666/gy/gy379/触电.php?pk=2508
-阳江旅游环保广播,http://103.45.68.47:666/gy/gy379/触电.php?pk=2507
-博罗people广播电台,http://103.45.68.47:666/gy/gy379/触电.php?pk=2521
-潮安电台,http://103.45.68.47:666/gy/gy379/触电.php?pk=2524
+广东珠江,http://103.45.68.47:666/gy/gy271/触电.php?pk=1183
+广东卫视,http://103.45.68.47:666/gy/gy271/触电.php?pk=1182
+大湾区卫视,http://103.45.68.47:666/gy/gy271/触电.php?pk=1197
+广东新闻,http://103.45.68.47:666/gy/gy271/触电.php?pk=1186
+广东4K超高清,http://103.45.68.47:666/gy/gy271/触电.php?pk=1198
+广东民生,http://103.45.68.47:666/gy/gy271/触电.php?pk=1185
+广东体育,http://103.45.68.47:666/gy/gy271/触电.php?pk=1184
+广东影视,http://103.45.68.47:666/gy/gy271/触电.php?pk=1199
+嘉佳卡通,http://103.45.68.47:666/gy/gy271/触电.php?pk=1187
+大湾区卫视(海外版),http://103.45.68.47:666/gy/gy271/触电.php?pk=1191
+广东经济科教,http://103.45.68.47:666/gy/gy271/触电.php?pk=1196
+广东少儿,http://103.45.68.47:666/gy/gy271/触电.php?pk=1200
+广东移动,http://103.45.68.47:666/gy/gy271/触电.php?pk=2463
+GRTN文化频道,http://103.45.68.47:666/gy/gy271/触电.php?pk=2511
+河源综合,http://103.45.68.47:666/gy/gy271/触电.php?pk=2402
+河源公共,http://103.45.68.47:666/gy/gy271/触电.php?pk=2496
+肇庆生活,http://103.45.68.47:666/gy/gy271/触电.php?pk=2525
+肇庆综合,http://103.45.68.47:666/gy/gy271/触电.php?pk=1232
+阳江-1,http://103.45.68.47:666/gy/gy271/触电.php?pk=2505
+阳江-2,http://103.45.68.47:666/gy/gy271/触电.php?pk=2506
+化州综合,http://103.45.68.47:666/gy/gy271/触电.php?pk=2440
+开平生活,http://103.45.68.47:666/gy/gy271/触电.php?pk=2406
+紫金台,http://103.45.68.47:666/gy/gy271/触电.php?pk=2452
+海丰县广播电视台,http://103.45.68.47:666/gy/gy271/触电.php?pk=2413
+英德新闻综合频道,http://103.45.68.47:666/gy/gy271/触电.php?pk=2447
+阳春综合,http://103.45.68.47:666/gy/gy271/触电.php?pk=2458
+广宁综合,http://103.45.68.47:666/gy/gy271/触电.php?pk=2414
+惠东综合频道,http://103.45.68.47:666/gy/gy271/触电.php?pk=2404
+乐昌电视台,http://103.45.68.47:666/gy/gy271/触电.php?pk=2503
+普宁台,http://103.45.68.47:666/gy/gy271/触电.php?pk=2450
+惠阳电视台,http://103.45.68.47:666/gy/gy271/触电.php?pk=2470
+开平综合,http://103.45.68.47:666/gy/gy271/触电.php?pk=2405
+工布江达县广播电视台,http://103.45.68.47:666/gy/gy271/触电.php?pk=2439
+廉江台,http://103.45.68.47:666/gy/gy271/触电.php?pk=2445
+清新综合频道,http://103.45.68.47:666/gy/gy271/触电.php?pk=2448
+佛冈综合,http://103.45.68.47:666/gy/gy271/触电.php?pk=2460
+鹤山综合,http://103.45.68.47:666/gy/gy271/触电.php?pk=2441
+信宜综合,http://103.45.68.47:666/gy/gy271/触电.php?pk=2471
+怀集综合,http://103.45.68.47:666/gy/gy271/触电.php?pk=2462
+徐闻台,http://103.45.68.47:666/gy/gy271/触电.php?pk=2474
+遂溪台,http://103.45.68.47:666/gy/gy271/触电.php?pk=2488
+阳西综合,http://103.45.68.47:666/gy/gy271/触电.php?pk=2476
+台山台,http://103.45.68.47:666/gy/gy271/触电.php?pk=2479
+新会综合,http://103.45.68.47:666/gy/gy271/触电.php?pk=2490
+潮安综合,http://103.45.68.47:666/gy/gy271/触电.php?pk=2523
+连州综合,http://103.45.68.47:666/gy/gy271/触电.php?pk=2455
+吴川综合,http://103.45.68.47:666/gy/gy271/触电.php?pk=2499
+连平台,http://103.45.68.47:666/gy/gy271/触电.php?pk=2520
+东源频道,http://103.45.68.47:666/gy/gy271/触电.php?pk=2497
+广东新闻广播,http://103.45.68.47:666/gy/gy271/触电.php?pk=2512
+珠江经济,http://103.45.68.47:666/gy/gy271/触电.php?pk=2513
+音乐之声,http://103.45.68.47:666/gy/gy271/触电.php?pk=2514
+交通之声,http://103.45.68.47:666/gy/gy271/触电.php?pk=2515
+南方生活,http://103.45.68.47:666/gy/gy271/触电.php?pk=2518
+城市之声,http://103.45.68.47:666/gy/gy271/触电.php?pk=2519
+股市广播,http://103.45.68.47:666/gy/gy271/触电.php?pk=2516
+文体广播,http://103.45.68.47:666/gy/gy271/触电.php?pk=2517
+高要电台,http://103.45.68.47:666/gy/gy271/触电.php?pk=2467
+惠阳电台,http://103.45.68.47:666/gy/gy271/触电.php?pk=2478
+海丰电台,http://103.45.68.47:666/gy/gy271/触电.php?pk=2464
+佛冈电台,http://103.45.68.47:666/gy/gy271/触电.php?pk=2461
+化州电台,http://103.45.68.47:666/gy/gy271/触电.php?pk=2449
+英德电台,http://103.45.68.47:666/gy/gy271/触电.php?pk=2446
+广宁电台,http://103.45.68.47:666/gy/gy271/触电.php?pk=2430
+四会电台,http://103.45.68.47:666/gy/gy271/触电.php?pk=2410
+连州电台,http://103.45.68.47:666/gy/gy271/触电.php?pk=2457
+惠东综合广播,http://103.45.68.47:666/gy/gy271/触电.php?pk=2443
+廉江电台,http://103.45.68.47:666/gy/gy271/触电.php?pk=2411
+阳春电台,http://103.45.68.47:666/gy/gy271/触电.php?pk=2459
+螺河之声,http://103.45.68.47:666/gy/gy271/触电.php?pk=2466
+鹤山电台,http://103.45.68.47:666/gy/gy271/触电.php?pk=2442
+信宜电台,http://103.45.68.47:666/gy/gy271/触电.php?pk=2473
+徐闻电台,http://103.45.68.47:666/gy/gy271/触电.php?pk=2475
+新兴电台,http://103.45.68.47:666/gy/gy271/触电.php?pk=2484
+台山电台,http://103.45.68.47:666/gy/gy271/触电.php?pk=2480
+怀集电台,http://103.45.68.47:666/gy/gy271/触电.php?pk=2486
+恩平电台,http://103.45.68.47:666/gy/gy271/触电.php?pk=2481
+新会电台,http://103.45.68.47:666/gy/gy271/触电.php?pk=2489
+普宁电台,http://103.45.68.47:666/gy/gy271/触电.php?pk=2501
+东源电台,http://103.45.68.47:666/gy/gy271/触电.php?pk=2498
+阳江综合广播,http://103.45.68.47:666/gy/gy271/触电.php?pk=2508
+阳江旅游环保广播,http://103.45.68.47:666/gy/gy271/触电.php?pk=2507
+博罗people广播电台,http://103.45.68.47:666/gy/gy271/触电.php?pk=2521
+潮安电台,http://103.45.68.47:666/gy/gy271/触电.php?pk=2524
 
 
 
@@ -2524,172 +1736,172 @@ GRTN文化频道,http://103.45.68.47:666/gy/gy379/触电.php?pk=2511
 Soda东南亚之旅,https://vdse.bdstatic.com//b6295e9776c2cd347716fc2447e27fac.mp4
 #️⃣成龙,#genre#
 
-龙马精神2023,http://103.45.68.47:666/gy/gy379/点播.php?id=330921
-神勇双响炮,http://103.45.68.47:666/gy/gy379/点播.php?id=330521
-秘密追踪,http://103.45.68.47:666/gy/gy379/点播.php?id=208129
-运气没信号,http://103.45.68.47:666/gy/gy379/点播.php?id=326242
-双龙会,http://103.45.68.47:666/gy/gy379/点播.php?id=293352
-飞龙猛将,http://103.45.68.47:666/gy/gy379/点播.php?id=291456
-A计划续集,http://103.45.68.47:666/gy/gy379/点播.php?id=289204
-剑花烟雨江南,http://103.45.68.47:666/gy/gy379/点播.php?id=289192
-龙拳,http://103.45.68.47:666/gy/gy379/点播.php?id=289182
-威龙猛探,http://103.45.68.47:666/gy/gy379/点播.php?id=289181
-一个好人,http://103.45.68.47:666/gy/gy379/点播.php?id=289180
-警察故事3：超級警察,http://103.45.68.47:666/gy/gy379/点播.php?id=288299
-望夫成龙,http://103.45.68.47:666/gy/gy379/点播.php?id=275015
-“湾区升明月”2021大湾区中秋电影音乐晚会,http://103.45.68.47:666/gy/gy379/点播.php?id=274859
-龙虎武师,http://103.45.68.47:666/gy/gy379/点播.php?id=274858
-新警察故事,http://103.45.68.47:666/gy/gy379/点播.php?id=274857
-警察故事1,http://103.45.68.47:666/gy/gy379/点播.php?id=274856
-笑拳怪招,http://103.45.68.47:666/gy/gy379/点播.php?id=274855
-总是有爱在隔离,http://103.45.68.47:666/gy/gy379/点播.php?id=274854
-拳精,http://103.45.68.47:666/gy/gy379/点播.php?id=274853
-于成龙,http://103.45.68.47:666/gy/gy379/点播.php?id=62103
-A计划1983,http://103.45.68.47:666/gy/gy379/点播.php?id=256338
-黄河异闻录,http://103.45.68.47:666/gy/gy379/点播.php?id=248606
-我是谁1998,http://103.45.68.47:666/gy/gy379/点播.php?id=247263
-警察故事3：超级警察,http://103.45.68.47:666/gy/gy379/点播.php?id=247258
-蛇鹤八步,http://103.45.68.47:666/gy/gy379/点播.php?id=246758
-牛魔王之魔王再临,http://103.45.68.47:666/gy/gy379/点播.php?id=240550
-我是谁的宝贝,http://103.45.68.47:666/gy/gy379/点播.php?id=240175
-无限超越班,http://103.45.68.47:666/gy/gy379/点播.php?id=208907
-侠女,http://103.45.68.47:666/gy/gy379/点播.php?id=231664
-精武门,http://103.45.68.47:666/gy/gy379/点播.php?id=230926
-功夫之王,http://103.45.68.47:666/gy/gy379/点播.php?id=229431
-快餐车,http://103.45.68.47:666/gy/gy379/点播.php?id=229428
-中央广播电视总台春节联欢晚会2023,http://103.45.68.47:666/gy/gy379/点播.php?id=224958
-超能太监,http://103.45.68.47:666/gy/gy379/点播.php?id=223878
-攀登者,http://103.45.68.47:666/gy/gy379/点播.php?id=219122
-龙牌之谜,http://103.45.68.47:666/gy/gy379/点播.php?id=219113
-疲城,http://103.45.68.47:666/gy/gy379/点播.php?id=213544
-参与者,http://103.45.68.47:666/gy/gy379/点播.php?id=202157
-辛亥革命,http://103.45.68.47:666/gy/gy379/点播.php?id=82840
-沉默的雪,http://103.45.68.47:666/gy/gy379/点播.php?id=82828
-龙腾虎跃,http://103.45.68.47:666/gy/gy379/点播.php?id=74387
-风雨双流星,http://103.45.68.47:666/gy/gy379/点播.php?id=74366
-玻璃樽,http://103.45.68.47:666/gy/gy379/点播.php?id=74287
-特务迷城,http://103.45.68.47:666/gy/gy379/点播.php?id=74270
-功夫熊猫3,http://103.45.68.47:666/gy/gy379/点播.php?id=74189
-一招半式闯江湖,http://103.45.68.47:666/gy/gy379/点播.php?id=74163
-警察故事续集,http://103.45.68.47:666/gy/gy379/点播.php?id=65791
-警察故事2013,http://103.45.68.47:666/gy/gy379/点播.php?id=57965
-神话2005,http://103.45.68.47:666/gy/gy379/点播.php?id=57935
-杀手壕,http://103.45.68.47:666/gy/gy379/点播.php?id=57888
-城市猎人国语,http://103.45.68.47:666/gy/gy379/点播.php?id=57824
-功夫梦,http://103.45.68.47:666/gy/gy379/点播.php?id=57798
-阴阳镇怪谈,http://103.45.68.47:666/gy/gy379/点播.php?id=56654
-醉拳2,http://103.45.68.47:666/gy/gy379/点播.php?id=49675
-尖峰时刻,http://103.45.68.47:666/gy/gy379/点播.php?id=49528
-奇迹,http://103.45.68.47:666/gy/gy379/点播.php?id=49504
-急先锋,http://103.45.68.47:666/gy/gy379/点播.php?id=46064
-宝贝计划,http://103.45.68.47:666/gy/gy379/点播.php?id=46051
+龙马精神2023,http://103.45.68.47:666/gy/gy271/点播.php?id=330921
+神勇双响炮,http://103.45.68.47:666/gy/gy271/点播.php?id=330521
+秘密追踪,http://103.45.68.47:666/gy/gy271/点播.php?id=208129
+运气没信号,http://103.45.68.47:666/gy/gy271/点播.php?id=326242
+双龙会,http://103.45.68.47:666/gy/gy271/点播.php?id=293352
+飞龙猛将,http://103.45.68.47:666/gy/gy271/点播.php?id=291456
+A计划续集,http://103.45.68.47:666/gy/gy271/点播.php?id=289204
+剑花烟雨江南,http://103.45.68.47:666/gy/gy271/点播.php?id=289192
+龙拳,http://103.45.68.47:666/gy/gy271/点播.php?id=289182
+威龙猛探,http://103.45.68.47:666/gy/gy271/点播.php?id=289181
+一个好人,http://103.45.68.47:666/gy/gy271/点播.php?id=289180
+警察故事3：超級警察,http://103.45.68.47:666/gy/gy271/点播.php?id=288299
+望夫成龙,http://103.45.68.47:666/gy/gy271/点播.php?id=275015
+“湾区升明月”2021大湾区中秋电影音乐晚会,http://103.45.68.47:666/gy/gy271/点播.php?id=274859
+龙虎武师,http://103.45.68.47:666/gy/gy271/点播.php?id=274858
+新警察故事,http://103.45.68.47:666/gy/gy271/点播.php?id=274857
+警察故事1,http://103.45.68.47:666/gy/gy271/点播.php?id=274856
+笑拳怪招,http://103.45.68.47:666/gy/gy271/点播.php?id=274855
+总是有爱在隔离,http://103.45.68.47:666/gy/gy271/点播.php?id=274854
+拳精,http://103.45.68.47:666/gy/gy271/点播.php?id=274853
+于成龙,http://103.45.68.47:666/gy/gy271/点播.php?id=62103
+A计划1983,http://103.45.68.47:666/gy/gy271/点播.php?id=256338
+黄河异闻录,http://103.45.68.47:666/gy/gy271/点播.php?id=248606
+我是谁1998,http://103.45.68.47:666/gy/gy271/点播.php?id=247263
+警察故事3：超级警察,http://103.45.68.47:666/gy/gy271/点播.php?id=247258
+蛇鹤八步,http://103.45.68.47:666/gy/gy271/点播.php?id=246758
+牛魔王之魔王再临,http://103.45.68.47:666/gy/gy271/点播.php?id=240550
+我是谁的宝贝,http://103.45.68.47:666/gy/gy271/点播.php?id=240175
+无限超越班,http://103.45.68.47:666/gy/gy271/点播.php?id=208907
+侠女,http://103.45.68.47:666/gy/gy271/点播.php?id=231664
+精武门,http://103.45.68.47:666/gy/gy271/点播.php?id=230926
+功夫之王,http://103.45.68.47:666/gy/gy271/点播.php?id=229431
+快餐车,http://103.45.68.47:666/gy/gy271/点播.php?id=229428
+中央广播电视总台春节联欢晚会2023,http://103.45.68.47:666/gy/gy271/点播.php?id=224958
+超能太监,http://103.45.68.47:666/gy/gy271/点播.php?id=223878
+攀登者,http://103.45.68.47:666/gy/gy271/点播.php?id=219122
+龙牌之谜,http://103.45.68.47:666/gy/gy271/点播.php?id=219113
+疲城,http://103.45.68.47:666/gy/gy271/点播.php?id=213544
+参与者,http://103.45.68.47:666/gy/gy271/点播.php?id=202157
+辛亥革命,http://103.45.68.47:666/gy/gy271/点播.php?id=82840
+沉默的雪,http://103.45.68.47:666/gy/gy271/点播.php?id=82828
+龙腾虎跃,http://103.45.68.47:666/gy/gy271/点播.php?id=74387
+风雨双流星,http://103.45.68.47:666/gy/gy271/点播.php?id=74366
+玻璃樽,http://103.45.68.47:666/gy/gy271/点播.php?id=74287
+特务迷城,http://103.45.68.47:666/gy/gy271/点播.php?id=74270
+功夫熊猫3,http://103.45.68.47:666/gy/gy271/点播.php?id=74189
+一招半式闯江湖,http://103.45.68.47:666/gy/gy271/点播.php?id=74163
+警察故事续集,http://103.45.68.47:666/gy/gy271/点播.php?id=65791
+警察故事2013,http://103.45.68.47:666/gy/gy271/点播.php?id=57965
+神话2005,http://103.45.68.47:666/gy/gy271/点播.php?id=57935
+杀手壕,http://103.45.68.47:666/gy/gy271/点播.php?id=57888
+城市猎人国语,http://103.45.68.47:666/gy/gy271/点播.php?id=57824
+功夫梦,http://103.45.68.47:666/gy/gy271/点播.php?id=57798
+阴阳镇怪谈,http://103.45.68.47:666/gy/gy271/点播.php?id=56654
+醉拳2,http://103.45.68.47:666/gy/gy271/点播.php?id=49675
+尖峰时刻,http://103.45.68.47:666/gy/gy271/点播.php?id=49528
+奇迹,http://103.45.68.47:666/gy/gy271/点播.php?id=49504
+急先锋,http://103.45.68.47:666/gy/gy271/点播.php?id=46064
+宝贝计划,http://103.45.68.47:666/gy/gy271/点播.php?id=46051
 ▶️┃李连杰,#genre#
 
-游侠普通话">http://103.45.68.47:666/gy/gy379/点播.php?id=421126
+游侠普通话">http://103.45.68.47:666/gy/gy271/点播.php?id=421126
 
-游侠,http://103.45.68.47:666/gy/gy379/点播.php?id=420900
+游侠,http://103.45.68.47:666/gy/gy271/点播.php?id=420900
 
-龙在天涯,http://103.45.68.47:666/gy/gy379/点播.php?id=369943
+龙在天涯,http://103.45.68.47:666/gy/gy271/点播.php?id=369943
 
-敢死队,http://103.45.68.47:666/gy/gy379/点播.php?id=369706
+敢死队,http://103.45.68.47:666/gy/gy271/点播.php?id=369706
 
-海洋天堂,http://103.45.68.47:666/gy/gy379/点播.php?id=369695
+海洋天堂,http://103.45.68.47:666/gy/gy271/点播.php?id=369695
 
-豫剧唐知县斩诰命,http://103.45.68.47:666/gy/gy379/点播.php?id=368102
+豫剧唐知县斩诰命,http://103.45.68.47:666/gy/gy271/点播.php?id=368102
 
-坠子包公铡李连芳,http://103.45.68.47:666/gy/gy379/点播.php?id=335107
+坠子包公铡李连芳,http://103.45.68.47:666/gy/gy271/点播.php?id=335107
 
-慕容骑士,http://103.45.68.47:666/gy/gy379/点播.php?id=325805
+慕容骑士,http://103.45.68.47:666/gy/gy271/点播.php?id=325805
 
-活着,http://103.45.68.47:666/gy/gy379/点播.php?id=325662
+活着,http://103.45.68.47:666/gy/gy271/点播.php?id=325662
 
-向阳照相馆,http://103.45.68.47:666/gy/gy379/点播.php?id=274364
+向阳照相馆,http://103.45.68.47:666/gy/gy271/点播.php?id=274364
 
-宇宙追缉令,http://103.45.68.47:666/gy/gy379/点播.php?id=272333
+宇宙追缉令,http://103.45.68.47:666/gy/gy271/点播.php?id=272333
 
-英雄导演剪辑版,http://103.45.68.47:666/gy/gy379/点播.php?id=272332
+英雄导演剪辑版,http://103.45.68.47:666/gy/gy271/点播.php?id=272332
 
-少林小子,http://103.45.68.47:666/gy/gy379/点播.php?id=272331
+少林小子,http://103.45.68.47:666/gy/gy271/点播.php?id=272331
 
-黄飞鸿2：男儿当自强,http://103.45.68.47:666/gy/gy379/点播.php?id=272330
+黄飞鸿2：男儿当自强,http://103.45.68.47:666/gy/gy271/点播.php?id=272330
 
-黄飞鸿1：壮志凌云,http://103.45.68.47:666/gy/gy379/点播.php?id=272329
+黄飞鸿1：壮志凌云,http://103.45.68.47:666/gy/gy271/点播.php?id=272329
 
-不二神探,http://103.45.68.47:666/gy/gy379/点播.php?id=272328
+不二神探,http://103.45.68.47:666/gy/gy271/点播.php?id=272328
 
-木乃伊3,http://103.45.68.47:666/gy/gy379/点播.php?id=61819
+木乃伊3,http://103.45.68.47:666/gy/gy271/点播.php?id=61819
 
-太极张三丰1993,http://103.45.68.47:666/gy/gy379/点播.php?id=256965
+太极张三丰1993,http://103.45.68.47:666/gy/gy271/点播.php?id=256965
 
-新少林五祖,http://103.45.68.47:666/gy/gy379/点播.php?id=46081
+新少林五祖,http://103.45.68.47:666/gy/gy271/点播.php?id=46081
 
-新少林五祖1994,http://103.45.68.47:666/gy/gy379/点播.php?id=256339
+新少林五祖1994,http://103.45.68.47:666/gy/gy271/点播.php?id=256339
 
-方世玉续集,http://103.45.68.47:666/gy/gy379/点播.php?id=247712
+方世玉续集,http://103.45.68.47:666/gy/gy271/点播.php?id=247712
 
-龙潭虎穴,http://103.45.68.47:666/gy/gy379/点播.php?id=247269
+龙潭虎穴,http://103.45.68.47:666/gy/gy271/点播.php?id=247269
 
-少林寺,http://103.45.68.47:666/gy/gy379/点播.php?id=229539
+少林寺,http://103.45.68.47:666/gy/gy271/点播.php?id=229539
 
-功夫之王,http://103.45.68.47:666/gy/gy379/点播.php?id=229431
+功夫之王,http://103.45.68.47:666/gy/gy271/点播.php?id=229431
 
-花木兰,http://103.45.68.47:666/gy/gy379/点播.php?id=213477
+花木兰,http://103.45.68.47:666/gy/gy271/点播.php?id=213477
 
-冒险王,http://103.45.68.47:666/gy/gy379/点播.php?id=213379
+冒险王,http://103.45.68.47:666/gy/gy271/点播.php?id=213379
 
-黄飞鸿之二：男儿当自强,http://103.45.68.47:666/gy/gy379/点播.php?id=212837
+黄飞鸿之二：男儿当自强,http://103.45.68.47:666/gy/gy271/点播.php?id=212837
 
-霍元甲,http://103.45.68.47:666/gy/gy379/点播.php?id=209866
+霍元甲,http://103.45.68.47:666/gy/gy271/点播.php?id=209866
 
-中南海保镖,http://103.45.68.47:666/gy/gy379/点播.php?id=206547
+中南海保镖,http://103.45.68.47:666/gy/gy271/点播.php?id=206547
 
-黄飞鸿之铁公鸡斗蜈蚣,http://103.45.68.47:666/gy/gy379/点播.php?id=74377
+黄飞鸿之铁公鸡斗蜈蚣,http://103.45.68.47:666/gy/gy271/点播.php?id=74377
 
-黄飞鸿6：西域雄师,http://103.45.68.47:666/gy/gy379/点播.php?id=74376
+黄飞鸿6：西域雄师,http://103.45.68.47:666/gy/gy271/点播.php?id=74376
 
-精武英雄,http://103.45.68.47:666/gy/gy379/点播.php?id=74304
+精武英雄,http://103.45.68.47:666/gy/gy271/点播.php?id=74304
 
-倚天屠龙记之魔教教主,http://103.45.68.47:666/gy/gy379/点播.php?id=57788
+倚天屠龙记之魔教教主,http://103.45.68.47:666/gy/gy271/点播.php?id=57788
 
-黑侠,http://103.45.68.47:666/gy/gy379/点播.php?id=46218
+黑侠,http://103.45.68.47:666/gy/gy271/点播.php?id=46218
 
-方世玉,http://103.45.68.47:666/gy/gy379/点播.php?id=46084
+方世玉,http://103.45.68.47:666/gy/gy271/点播.php?id=46084
 
-致命摇篮,http://103.45.68.47:666/gy/gy379/点播.php?id=44103
+致命摇篮,http://103.45.68.47:666/gy/gy271/点播.php?id=44103
 
-黄飞鸿,http://103.45.68.47:666/gy/gy379/点播.php?id=40542
+黄飞鸿,http://103.45.68.47:666/gy/gy271/点播.php?id=40542
 
-武松斗杀西门庆,http://103.45.68.47:666/gy/gy379/点播.php?id=40425
+武松斗杀西门庆,http://103.45.68.47:666/gy/gy271/点播.php?id=40425
 
-投名状,http://103.45.68.47:666/gy/gy379/点播.php?id=40391
+投名状,http://103.45.68.47:666/gy/gy271/点播.php?id=40391
 
-东方巨龙,http://103.45.68.47:666/gy/gy379/点播.php?id=40299
+东方巨龙,http://103.45.68.47:666/gy/gy271/点播.php?id=40299
 
-黄飞鸿92之龙行天下,http://103.45.68.47:666/gy/gy379/点播.php?id=34923
+黄飞鸿92之龙行天下,http://103.45.68.47:666/gy/gy271/点播.php?id=34923
 
-黄飞鸿3：狮王争霸,http://103.45.68.47:666/gy/gy379/点播.php?id=34921
+黄飞鸿3：狮王争霸,http://103.45.68.47:666/gy/gy271/点播.php?id=34921
 
-致命罗密欧,http://103.45.68.47:666/gy/gy379/点播.php?id=34879
+致命罗密欧,http://103.45.68.47:666/gy/gy271/点播.php?id=34879
 
-英雄,http://103.45.68.47:666/gy/gy379/点播.php?id=34880
+英雄,http://103.45.68.47:666/gy/gy271/点播.php?id=34880
 
-敢死队1,http://103.45.68.47:666/gy/gy379/点播.php?id=34806
+敢死队1,http://103.45.68.47:666/gy/gy271/点播.php?id=34806
 
-南北少林,http://103.45.68.47:666/gy/gy379/点播.php?id=34744
+南北少林,http://103.45.68.47:666/gy/gy271/点播.php?id=34744
 
-笑傲江湖2：东方不败,http://103.45.68.47:666/gy/gy379/点播.php?id=31210
+笑傲江湖2：东方不败,http://103.45.68.47:666/gy/gy271/点播.php?id=31210
 
-花木兰2020普通话版,http://103.45.68.47:666/gy/gy379/点播.php?id=27473
+花木兰2020普通话版,http://103.45.68.47:666/gy/gy271/点播.php?id=27473
 
-龙门飞甲,http://103.45.68.47:666/gy/gy379/点播.php?id=442
+龙门飞甲,http://103.45.68.47:666/gy/gy271/点播.php?id=442
 
-致命武器4,http://103.45.68.47:666/gy/gy379/点播.php?id=389
+致命武器4,http://103.45.68.47:666/gy/gy271/点播.php?id=389
 
-给爸爸的信,http://103.45.68.47:666/gy/gy379/点播.php?id=378
+给爸爸的信,http://103.45.68.47:666/gy/gy271/点播.php?id=378
 
-洪熙官,http://103.45.68.47:666/gy/gy379/点播.php?id=335
+洪熙官,http://103.45.68.47:666/gy/gy271/点播.php?id=335
 
-封神传奇,http://103.45.68.47:666/gy/gy379/点播.php?id=276
+封神传奇,http://103.45.68.47:666/gy/gy271/点播.php?id=276
 
 
 
@@ -3163,103 +2375,103 @@ A计划1983,http://103.45.68.47:666/gy/gy379/点播.php?id=256338
 
 
 ▶️┃范 伟,#genre#
-星光灿烂2017"><a href="http://103.45.68.47:666/gy/gy379/点播.php?id=419242
+星光灿烂2017"><a href="http://103.45.68.47:666/gy/gy271/点播.php?id=419242
 
-老大的幸福,http://103.45.68.47:666/gy/gy379/点播.php?id=417034
+老大的幸福,http://103.45.68.47:666/gy/gy271/点播.php?id=417034
 
-不成问题的问题,http://103.45.68.47:666/gy/gy379/点播.php?id=368884
+不成问题的问题,http://103.45.68.47:666/gy/gy271/点播.php?id=368884
 
-雷哥老范,http://103.45.68.47:666/gy/gy379/点播.php?id=329459
+雷哥老范,http://103.45.68.47:666/gy/gy271/点播.php?id=329459
 
-跟踪孔令学,http://103.45.68.47:666/gy/gy379/点播.php?id=325930
+跟踪孔令学,http://103.45.68.47:666/gy/gy271/点播.php?id=325930
 
-看车人的七月,http://103.45.68.47:666/gy/gy379/点播.php?id=325928
+看车人的七月,http://103.45.68.47:666/gy/gy271/点播.php?id=325928
 
-耳朵大有福,http://103.45.68.47:666/gy/gy379/点播.php?id=323633
+耳朵大有福,http://103.45.68.47:666/gy/gy271/点播.php?id=323633
 
-乡亲乡爱,http://103.45.68.47:666/gy/gy379/点播.php?id=318187
+乡亲乡爱,http://103.45.68.47:666/gy/gy271/点播.php?id=318187
 
-立功·东北旧事,http://103.45.68.47:666/gy/gy379/点播.php?id=230437
+立功·东北旧事,http://103.45.68.47:666/gy/gy271/点播.php?id=230437
 
-铁道英雄,http://103.45.68.47:666/gy/gy379/点播.php?id=291102
+铁道英雄,http://103.45.68.47:666/gy/gy271/点播.php?id=291102
 
-道士下山,http://103.45.68.47:666/gy/gy379/点播.php?id=289328
+道士下山,http://103.45.68.47:666/gy/gy271/点播.php?id=289328
 
-小宝和老财,http://103.45.68.47:666/gy/gy379/点播.php?id=288792
+小宝和老财,http://103.45.68.47:666/gy/gy271/点播.php?id=288792
 
-大宋提刑官第一部,http://103.45.68.47:666/gy/gy379/点播.php?id=151901
+大宋提刑官第一部,http://103.45.68.47:666/gy/gy271/点播.php?id=151901
 
-马大帅2,http://103.45.68.47:666/gy/gy379/点播.php?id=285707
+马大帅2,http://103.45.68.47:666/gy/gy271/点播.php?id=285707
 
-马大帅3,http://103.45.68.47:666/gy/gy379/点播.php?id=285673
+马大帅3,http://103.45.68.47:666/gy/gy271/点播.php?id=285673
 
-马大帅1,http://103.45.68.47:666/gy/gy379/点播.php?id=285646
+马大帅1,http://103.45.68.47:666/gy/gy271/点播.php?id=285646
 
-刘老根第三部,http://103.45.68.47:666/gy/gy379/点播.php?id=111684
+刘老根第三部,http://103.45.68.47:666/gy/gy271/点播.php?id=111684
 
-刘老根,http://103.45.68.47:666/gy/gy379/点播.php?id=111666
+刘老根,http://103.45.68.47:666/gy/gy271/点播.php?id=111666
 
-刘老根2,http://103.45.68.47:666/gy/gy379/点播.php?id=111644
+刘老根2,http://103.45.68.47:666/gy/gy271/点播.php?id=111644
 
-刘老根第四部,http://103.45.68.47:666/gy/gy379/点播.php?id=125666
+刘老根第四部,http://103.45.68.47:666/gy/gy271/点播.php?id=125666
 
-乡村爱情2,http://103.45.68.47:666/gy/gy379/点播.php?id=50139
+乡村爱情2,http://103.45.68.47:666/gy/gy271/点播.php?id=50139
 
-乡村爱情1,http://103.45.68.47:666/gy/gy379/点播.php?id=96936
+乡村爱情1,http://103.45.68.47:666/gy/gy271/点播.php?id=96936
 
-漫长的季节,http://103.45.68.47:666/gy/gy379/点播.php?id=259389
+漫长的季节,http://103.45.68.47:666/gy/gy271/点播.php?id=259389
 
-绝世高手,http://103.45.68.47:666/gy/gy379/点播.php?id=246751
+绝世高手,http://103.45.68.47:666/gy/gy271/点播.php?id=246751
 
-欲念游戏,http://103.45.68.47:666/gy/gy379/点播.php?id=219087
+欲念游戏,http://103.45.68.47:666/gy/gy271/点播.php?id=219087
 
-我在时间尽头等你,http://103.45.68.47:666/gy/gy379/点播.php?id=213412
+我在时间尽头等你,http://103.45.68.47:666/gy/gy271/点播.php?id=213412
 
-不速来客,http://103.45.68.47:666/gy/gy379/点播.php?id=213020
+不速来客,http://103.45.68.47:666/gy/gy271/点播.php?id=213020
 
-诞生于2020的莫扎特,http://103.45.68.47:666/gy/gy379/点播.php?id=191269
+诞生于2020的莫扎特,http://103.45.68.47:666/gy/gy271/点播.php?id=191269
 
-夜深人不静,http://103.45.68.47:666/gy/gy379/点播.php?id=125662
+夜深人不静,http://103.45.68.47:666/gy/gy271/点播.php?id=125662
 
-我和我的家乡,http://103.45.68.47:666/gy/gy379/点播.php?id=77550
+我和我的家乡,http://103.45.68.47:666/gy/gy271/点播.php?id=77550
 
-一秒钟,http://103.45.68.47:666/gy/gy379/点播.php?id=74038
+一秒钟,http://103.45.68.47:666/gy/gy271/点播.php?id=74038
 
-非诚勿扰,http://103.45.68.47:666/gy/gy379/点播.php?id=61532
+非诚勿扰,http://103.45.68.47:666/gy/gy271/点播.php?id=61532
 
-父子雄兵,http://103.45.68.47:666/gy/gy379/点播.php?id=49603
+父子雄兵,http://103.45.68.47:666/gy/gy271/点播.php?id=49603
 
-有完没完,http://103.45.68.47:666/gy/gy379/点播.php?id=49575
+有完没完,http://103.45.68.47:666/gy/gy271/点播.php?id=49575
 
-黄金大劫案,http://103.45.68.47:666/gy/gy379/点播.php?id=46216
+黄金大劫案,http://103.45.68.47:666/gy/gy271/点播.php?id=46216
 
-断·桥,http://103.45.68.47:666/gy/gy379/点播.php?id=45912
+断·桥,http://103.45.68.47:666/gy/gy271/点播.php?id=45912
 
-一句顶一万句,http://103.45.68.47:666/gy/gy379/点播.php?id=44464
+一句顶一万句,http://103.45.68.47:666/gy/gy271/点播.php?id=44464
 
-地狱之旅,http://103.45.68.47:666/gy/gy379/点播.php?id=44038
+地狱之旅,http://103.45.68.47:666/gy/gy271/点播.php?id=44038
 
-私人订制,http://103.45.68.47:666/gy/gy379/点播.php?id=43942
+私人订制,http://103.45.68.47:666/gy/gy271/点播.php?id=43942
 
-第一炉香,http://103.45.68.47:666/gy/gy379/点播.php?id=39243
+第一炉香,http://103.45.68.47:666/gy/gy271/点播.php?id=39243
 
-愤怒的小孩,http://103.45.68.47:666/gy/gy379/点播.php?id=38295
+愤怒的小孩,http://103.45.68.47:666/gy/gy271/点播.php?id=38295
 
-两只老虎,http://103.45.68.47:666/gy/gy379/点播.php?id=38194
+两只老虎,http://103.45.68.47:666/gy/gy271/点播.php?id=38194
 
-外太空的莫扎特,http://103.45.68.47:666/gy/gy379/点播.php?id=31244
+外太空的莫扎特,http://103.45.68.47:666/gy/gy271/点播.php?id=31244
 
-南京!南京!,http://103.45.68.47:666/gy/gy379/点播.php?id=31126
+南京!南京!,http://103.45.68.47:666/gy/gy271/点播.php?id=31126
 
-兔侠传奇,http://103.45.68.47:666/gy/gy379/点播.php?id=27315
+兔侠传奇,http://103.45.68.47:666/gy/gy271/点播.php?id=27315
 
-长安道,http://103.45.68.47:666/gy/gy379/点播.php?id=27273
+长安道,http://103.45.68.47:666/gy/gy271/点播.php?id=27273
 
-求求你表扬我,http://103.45.68.47:666/gy/gy379/点播.php?id=26785
+求求你表扬我,http://103.45.68.47:666/gy/gy271/点播.php?id=26785
 
-即日启程,http://103.45.68.47:666/gy/gy379/点播.php?id=3321
+即日启程,http://103.45.68.47:666/gy/gy271/点播.php?id=3321
 
-赛车总动员2普通话版,http://103.45.68.47:666/gy/gy379/点播.php?id=404
+赛车总动员2普通话版,http://103.45.68.47:666/gy/gy271/点播.php?id=404
 
 
 

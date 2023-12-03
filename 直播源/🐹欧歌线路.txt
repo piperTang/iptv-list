@@ -1,4 +1,4 @@
-//🇨🇳欧歌2023-12-03 03:03:14整合本接口
+//🇨🇳欧歌2023-12-04 03:03:16整合本接口
 
 {
 "wallpaper":"./t/",
@@ -9,7 +9,7 @@
 {"name":"TV","type":0,"url":"./tv/","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}],
 "sites": [
 
-{"key":"豆瓣1","name":"❤更新:12/1❤tv.nxog.top","type":3,"api":"csp_Douban","searchable":0,"ext":"./json/douban.json"},
+{"key":"豆瓣1","name":"❤更新:12/4❤tv.nxog.top","type":3,"api":"csp_Douban","searchable":0,"ext":"./json/douban.json"},
 {"key":"豆瓣2","name":"📢公众号欧歌app榜单荐片","type":3,"api":"csp_Douban","searchable":0},
 
     //jar
@@ -94,15 +94,7 @@
 
 {"name": "🐉️嗅探0","type": 3,"url": "Web"},
 {"name":"🐉并发2","type":2,"url":"Parallel"},
-{"name": "🐉欧歌tv","type": 0,"url": "http://tv.nxog.top/jx/nxog.html?ou=公众号欧歌app&url="},
-{"name": "🐉欧歌m","type": 0,"url": "http://m.nxog.top/jx/nxog.html?ou=公众号欧歌app&url="},
-{"name": "🐉欧歌w","type": 0,"url": "http://w.nxog.top/jx/nxog.html?ou=公众号欧歌app&url="},
-{"name": "🐉欧歌vip","type": 0,"url": "http://vip.nxog.top/?ou=公众号欧歌app&url="},
-
-{"name":"🐉欧歌c","type":0,"url":"http://tv.nxog.top/jx/nxog.html?ou=公众号欧歌app&url=","ext":{"header":{"user-agent":"Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"}}}, 
-{"name":"🐉欧歌d","type":0,"url":"http://m.nxog.top/jx/nxog.html?ou=公众号欧歌app&url=","ext":{"header":{"user-agent":"Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"}}}, 
-{"name":"🐉欧歌e","type":0,"url":"http://w.nxog.top/jx/nxog.html?ou=公众号欧歌app&url=","ext":{"header":{"user-agent":"Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"}}}, 
-{"name":"🐉欧歌v","type":0,"url":"http://vip.nxog.top/?ou=公众号欧歌app&url=","ext":{"header":{"user-agent":"Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"}}}, {"name":"🐉欧歌1","type":0,"url":"https://jx.xyflv.cc/?url=","ext":{"header":{"user-agent":"Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36","referer":"https://www.xyflv.cc/"}}},
+{"name": "🐉欧歌tv","type": 0,"url": "http://v.nxog.top/nxog.html?ou=公众号欧歌app&url="},{"name":"🐉欧歌1","type":0,"url":"https://jx.xyflv.cc/?url=","ext":{"header":{"user-agent":"Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36","referer":"https://www.xyflv.cc/"}}},
 {"name":"🐉欧歌2","type":0,"url":"https://jx.xmflv.com/?url=","ext":{"header":{"user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.57"}}},
 {"name":"🐉欧歌3","type":0,"url":"https://jx.zhanlangbu.com/?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"],"ext":{"header":{"user-agent":"Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"}}}},
 {"name":"🐉欧歌4","type":0,"url":"https://jx.yparse.com/index.php?url=","ext":{"header":{"user-agent":"Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"}}},
