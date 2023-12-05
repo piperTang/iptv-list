@@ -43,28 +43,28 @@ CCTV-1高清,http://222.175.159.226:808/hls/20231/index.m3u8
 
 
 ▶️┃央视,#genre#
-cctv1,http://103.45.68.47:666/gy/gy_hbbH/爱看mg.php?id=cctv1
-cctv1b,http://103.45.68.47:666/gy/gy_hbbH/爱看mg.php?id=cctv1b
-cctv2,http://103.45.68.47:666/gy/gy_hbbH/爱看mg.php?id=cctv2
-cctv3,http://103.45.68.47:666/gy/gy_hbbH/爱看mg.php?id=cctv3
-cctv4,http://103.45.68.47:666/gy/gy_hbbH/爱看mg.php?id=cctv4
-cctv4欧洲,http://103.45.68.47:666/gy/gy_hbbH/爱看mg.php?id=cctv4欧洲
-cctv4美洲,http://103.45.68.47:666/gy/gy_hbbH/爱看mg.php?id=cctv4美洲
-cctv5,http://103.45.68.47:666/gy/gy_hbbH/爱看mg.php?id=cctv5
-cctv5b,http://103.45.68.47:666/gy/gy_hbbH/爱看mg.php?id=cctv5b
-cctv5p,http://103.45.68.47:666/gy/gy_hbbH/爱看mg.php?id=cctv5p
-cctv5p2,http://103.45.68.47:666/gy/gy_hbbH/爱看mg.php?id=cctv5p2
-cctv6,http://103.45.68.47:666/gy/gy_hbbH/爱看mg.php?id=cctv6
-cctv7,http://103.45.68.47:666/gy/gy_hbbH/爱看mg.php?id=cctv7
-cctv8,http://103.45.68.47:666/gy/gy_hbbH/爱看mg.php?id=cctv8
-cctv9,http://103.45.68.47:666/gy/gy_hbbH/爱看mg.php?id=cctv9
-cctv10,http://103.45.68.47:666/gy/gy_hbbH/爱看mg.php?id=cctv10
-cctv11,http://103.45.68.47:666/gy/gy_hbbH/爱看mg.php?id=cctv11
-cctv12,http://103.45.68.47:666/gy/gy_hbbH/爱看mg.php?id=cctv12
-cctv13,http://103.45.68.47:666/gy/gy_hbbH/爱看mg.php?id=cctv13
-cctv14,http://103.45.68.47:666/gy/gy_hbbH/爱看mg.php?id=cctv14
-cctv15,http://103.45.68.47:666/gy/gy_hbbH/爱看mg.php?id=cctv15
-cctv17,http://103.45.68.47:666/gy/gy_hbbH/爱看mg.php?id=cctv17
+cctv1,http://103.45.68.47:666/gy/gy_JsEu/爱看mg.php?id=cctv1
+cctv1b,http://103.45.68.47:666/gy/gy_JsEu/爱看mg.php?id=cctv1b
+cctv2,http://103.45.68.47:666/gy/gy_JsEu/爱看mg.php?id=cctv2
+cctv3,http://103.45.68.47:666/gy/gy_JsEu/爱看mg.php?id=cctv3
+cctv4,http://103.45.68.47:666/gy/gy_JsEu/爱看mg.php?id=cctv4
+cctv4欧洲,http://103.45.68.47:666/gy/gy_JsEu/爱看mg.php?id=cctv4欧洲
+cctv4美洲,http://103.45.68.47:666/gy/gy_JsEu/爱看mg.php?id=cctv4美洲
+cctv5,http://103.45.68.47:666/gy/gy_JsEu/爱看mg.php?id=cctv5
+cctv5b,http://103.45.68.47:666/gy/gy_JsEu/爱看mg.php?id=cctv5b
+cctv5p,http://103.45.68.47:666/gy/gy_JsEu/爱看mg.php?id=cctv5p
+cctv5p2,http://103.45.68.47:666/gy/gy_JsEu/爱看mg.php?id=cctv5p2
+cctv6,http://103.45.68.47:666/gy/gy_JsEu/爱看mg.php?id=cctv6
+cctv7,http://103.45.68.47:666/gy/gy_JsEu/爱看mg.php?id=cctv7
+cctv8,http://103.45.68.47:666/gy/gy_JsEu/爱看mg.php?id=cctv8
+cctv9,http://103.45.68.47:666/gy/gy_JsEu/爱看mg.php?id=cctv9
+cctv10,http://103.45.68.47:666/gy/gy_JsEu/爱看mg.php?id=cctv10
+cctv11,http://103.45.68.47:666/gy/gy_JsEu/爱看mg.php?id=cctv11
+cctv12,http://103.45.68.47:666/gy/gy_JsEu/爱看mg.php?id=cctv12
+cctv13,http://103.45.68.47:666/gy/gy_JsEu/爱看mg.php?id=cctv13
+cctv14,http://103.45.68.47:666/gy/gy_JsEu/爱看mg.php?id=cctv14
+cctv15,http://103.45.68.47:666/gy/gy_JsEu/爱看mg.php?id=cctv15
+cctv17,http://103.45.68.47:666/gy/gy_JsEu/爱看mg.php?id=cctv17
 
 
 
@@ -125,40 +125,40 @@ CHC家庭影院,http://hms2944nc1972666637.live.aikan.miguvideo.com/wh7f454c46tw
 体坛名栏汇,http://hms2904nc1972666633.live.aikan.miguvideo.com/wh7f454c46tw1600458454_-832716323/wd_r3/cctv/titanminglan/600/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=139.198.127.250&timestamp=20230816073750&ContentId=265218759&timezone=UTC&mtv_session=b2e617f735c59ee2def1e133e7a80a5c&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=0c1268f6846ee93a05130bcd7741b787
 新片放映厅,http://hms2904nc1972666634.live.aikan.miguvideo.com/wh7f454c46tw1600732348_-360169236/wd-virtuallive5100030975-150/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=139.198.127.250&timestamp=20230816073750&ContentId=265218930&timezone=UTC&mtv_session=63000e2fea84d8a6504746c34e7d4d75&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=b6ef40cfda8ddfec090a09afb9dd2444
 
-东方卫视HD,http://103.45.68.47:666/gy/gy_hbbH/爱看mg.php?id=东方卫视HD
-东方卫视HD2,http://103.45.68.47:666/gy/gy_hbbH/爱看mg.php?id=东方卫视HD2
-重庆卫视,http://103.45.68.47:666/gy/gy_hbbH/爱看mg.php?id=重庆卫视
-吉林卫视,http://103.45.68.47:666/gy/gy_hbbH/爱看mg.php?id=吉林卫视
-辽宁卫视HD,http://103.45.68.47:666/gy/gy_hbbH/爱看mg.php?id=辽宁卫视HD
-内蒙古卫视,http://103.45.68.47:666/gy/gy_hbbH/爱看mg.php?id=内蒙古卫视
-宁夏卫视,http://103.45.68.47:666/gy/gy_hbbH/爱看mg.php?id=宁夏卫视
-甘肃卫视,http://103.45.68.47:666/gy/gy_hbbH/爱看mg.php?id=甘肃卫视
-青海卫视,http://103.45.68.47:666/gy/gy_hbbH/爱看mg.php?id=青海卫视
-陕西卫视HD,http://103.45.68.47:666/gy/gy_hbbH/爱看mg.php?id=陕西卫视HD
-山东卫视HD,http://103.45.68.47:666/gy/gy_hbbH/爱看mg.php?id=山东卫视HD
-湖北卫视HD,http://103.45.68.47:666/gy/gy_hbbH/爱看mg.php?id=湖北卫视HD
-湖南卫视HD,http://103.45.68.47:666/gy/gy_hbbH/爱看mg.php?id=湖南卫视HD
-江西卫视HD,http://103.45.68.47:666/gy/gy_hbbH/爱看mg.php?id=江西卫视HD
-江苏卫视HD,http://103.45.68.47:666/gy/gy_hbbH/爱看mg.php?id=江苏卫视HD
-广东卫视HD,http://103.45.68.47:666/gy/gy_hbbH/爱看mg.php?id=广东卫视HD
-广东卫视HD2,http://103.45.68.47:666/gy/gy_hbbH/爱看mg.php?id=广东卫视HD2
-大湾区卫视,http://103.45.68.47:666/gy/gy_hbbH/爱看mg.php?id=大湾区卫视
-四川卫视HD,http://103.45.68.47:666/gy/gy_hbbH/爱看mg.php?id=四川卫视HD
-新疆卫视,http://103.45.68.47:666/gy/gy_hbbH/爱看mg.php?id=新疆卫视
-西藏卫视,http://103.45.68.47:666/gy/gy_hbbH/爱看mg.php?id=西藏卫视
-海南卫视,http://103.45.68.47:666/gy/gy_hbbH/爱看mg.php?id=海南卫视
-四海钓鱼,http://103.45.68.47:666/gy/gy_hbbH/爱看mg.php?id=四海钓鱼
-江苏教育,http://103.45.68.47:666/gy/gy_hbbH/爱看mg.php?id=江苏教育
-山东教育卫视,http://103.45.68.47:666/gy/gy_hbbH/爱看mg.php?id=山东教育卫视
-游戏风云HD,http://103.45.68.47:666/gy/gy_hbbH/爱看mg.php?id=游戏风云HD
-欢笑剧场4K,http://103.45.68.47:666/gy/gy_hbbH/爱看mg.php?id=欢笑剧场4K
-东方购物,http://103.45.68.47:666/gy/gy_hbbH/爱看mg.php?id=东方购物
-之江纪录,http://103.45.68.47:666/gy/gy_hbbH/爱看mg.php?id=之江纪录
-杭州综合,http://103.45.68.47:666/gy/gy_hbbH/爱看mg.php?id=杭州综合
-杭州明珠,http://103.45.68.47:666/gy/gy_hbbH/爱看mg.php?id=杭州明珠
-杭州生活,http://103.45.68.47:666/gy/gy_hbbH/爱看mg.php?id=杭州生活
-杭州影视,http://103.45.68.47:666/gy/gy_hbbH/爱看mg.php?id=杭州影视
-杭州少儿体育,http://103.45.68.47:666/gy/gy_hbbH/爱看mg.php?id=杭州少儿体育
+东方卫视HD,http://103.45.68.47:666/gy/gy_JsEu/爱看mg.php?id=东方卫视HD
+东方卫视HD2,http://103.45.68.47:666/gy/gy_JsEu/爱看mg.php?id=东方卫视HD2
+重庆卫视,http://103.45.68.47:666/gy/gy_JsEu/爱看mg.php?id=重庆卫视
+吉林卫视,http://103.45.68.47:666/gy/gy_JsEu/爱看mg.php?id=吉林卫视
+辽宁卫视HD,http://103.45.68.47:666/gy/gy_JsEu/爱看mg.php?id=辽宁卫视HD
+内蒙古卫视,http://103.45.68.47:666/gy/gy_JsEu/爱看mg.php?id=内蒙古卫视
+宁夏卫视,http://103.45.68.47:666/gy/gy_JsEu/爱看mg.php?id=宁夏卫视
+甘肃卫视,http://103.45.68.47:666/gy/gy_JsEu/爱看mg.php?id=甘肃卫视
+青海卫视,http://103.45.68.47:666/gy/gy_JsEu/爱看mg.php?id=青海卫视
+陕西卫视HD,http://103.45.68.47:666/gy/gy_JsEu/爱看mg.php?id=陕西卫视HD
+山东卫视HD,http://103.45.68.47:666/gy/gy_JsEu/爱看mg.php?id=山东卫视HD
+湖北卫视HD,http://103.45.68.47:666/gy/gy_JsEu/爱看mg.php?id=湖北卫视HD
+湖南卫视HD,http://103.45.68.47:666/gy/gy_JsEu/爱看mg.php?id=湖南卫视HD
+江西卫视HD,http://103.45.68.47:666/gy/gy_JsEu/爱看mg.php?id=江西卫视HD
+江苏卫视HD,http://103.45.68.47:666/gy/gy_JsEu/爱看mg.php?id=江苏卫视HD
+广东卫视HD,http://103.45.68.47:666/gy/gy_JsEu/爱看mg.php?id=广东卫视HD
+广东卫视HD2,http://103.45.68.47:666/gy/gy_JsEu/爱看mg.php?id=广东卫视HD2
+大湾区卫视,http://103.45.68.47:666/gy/gy_JsEu/爱看mg.php?id=大湾区卫视
+四川卫视HD,http://103.45.68.47:666/gy/gy_JsEu/爱看mg.php?id=四川卫视HD
+新疆卫视,http://103.45.68.47:666/gy/gy_JsEu/爱看mg.php?id=新疆卫视
+西藏卫视,http://103.45.68.47:666/gy/gy_JsEu/爱看mg.php?id=西藏卫视
+海南卫视,http://103.45.68.47:666/gy/gy_JsEu/爱看mg.php?id=海南卫视
+四海钓鱼,http://103.45.68.47:666/gy/gy_JsEu/爱看mg.php?id=四海钓鱼
+江苏教育,http://103.45.68.47:666/gy/gy_JsEu/爱看mg.php?id=江苏教育
+山东教育卫视,http://103.45.68.47:666/gy/gy_JsEu/爱看mg.php?id=山东教育卫视
+游戏风云HD,http://103.45.68.47:666/gy/gy_JsEu/爱看mg.php?id=游戏风云HD
+欢笑剧场4K,http://103.45.68.47:666/gy/gy_JsEu/爱看mg.php?id=欢笑剧场4K
+东方购物,http://103.45.68.47:666/gy/gy_JsEu/爱看mg.php?id=东方购物
+之江纪录,http://103.45.68.47:666/gy/gy_JsEu/爱看mg.php?id=之江纪录
+杭州综合,http://103.45.68.47:666/gy/gy_JsEu/爱看mg.php?id=杭州综合
+杭州明珠,http://103.45.68.47:666/gy/gy_JsEu/爱看mg.php?id=杭州明珠
+杭州生活,http://103.45.68.47:666/gy/gy_JsEu/爱看mg.php?id=杭州生活
+杭州影视,http://103.45.68.47:666/gy/gy_JsEu/爱看mg.php?id=杭州影视
+杭州少儿体育,http://103.45.68.47:666/gy/gy_JsEu/爱看mg.php?id=杭州少儿体育
 
 
 
@@ -169,12 +169,12 @@ CHC家庭影院,http://hms2944nc1972666637.live.aikan.miguvideo.com/wh7f454c46tw
 
 周星馳一,http://tx-screenshots.flv.huya.com/src/1394575534-1394575534-5989656310331736064-2789274524-10057-A-0-1.m3u8
 
-周星馳二,http://103.45.68.47:666/gy/gy_hbbH/斗鱼.php?id=122402
+周星馳二,http://103.45.68.47:666/gy/gy_JsEu/斗鱼.php?id=122402
 
 
 
-邵氏影院,http://103.45.68.47:666/gy/gy_hbbH/斗鱼.php?id=4246519
-周星馳粵語d,http://103.45.68.47:666/gy/gy_hbbH/斗鱼.php?id=6566671
+邵氏影院,http://103.45.68.47:666/gy/gy_JsEu/斗鱼.php?id=4246519
+周星馳粵語d,http://103.45.68.47:666/gy/gy_JsEu/斗鱼.php?id=6566671
 
 李連傑,http://tx-screenshots.flv.huya.com/src/1394565196-1394565196-5989611908959830016-2789253848-10057-A-0-1.m3u8
 周潤發,http://tx-screenshots.flv.huya.com/src/1394565192-1394565192-5989611891779960832-2789253840-10057-A-0-1.m3u8
@@ -185,14 +185,14 @@ CHC家庭影院,http://hms2944nc1972666637.live.aikan.miguvideo.com/wh7f454c46tw
 
 成龍一,https://epg.pw/stream/eafc1adaaec0364fa93e48fbaa0a48ea1e1e9f1912cdc7512da8967b95004da5.ctv
 
-成龍三,http://103.45.68.47:666/gy/gy_hbbH/斗鱼.php?id=3379942
-成龍李連傑,http://103.45.68.47:666/gy/gy_hbbH/斗鱼.php?id=8107217
-李小龍,http://103.45.68.47:666/gy/gy_hbbH/斗鱼.php?id=8721095
+成龍三,http://103.45.68.47:666/gy/gy_JsEu/斗鱼.php?id=3379942
+成龍李連傑,http://103.45.68.47:666/gy/gy_JsEu/斗鱼.php?id=8107217
+李小龍,http://103.45.68.47:666/gy/gy_JsEu/斗鱼.php?id=8721095
 
 
 女神系列☆邱淑貞 王祖賢 張曼玉,https://live.goodiptv.club/api/huya.php?id=11336571
 沈騰一,https://live.goodiptv.club/api/huya.php?id=11601968
-沈騰二,http://103.45.68.47:666/gy/gy_hbbH/斗鱼.php?id=85894
+沈騰二,http://103.45.68.47:666/gy/gy_JsEu/斗鱼.php?id=85894
 
 
 
@@ -339,42 +339,42 @@ CHC家庭影院,http://hms2944nc1972666637.live.aikan.miguvideo.com/wh7f454c46tw
 
 
 ▶️┃斗鱼,#genre#
-邵氏影院㊣代,http://103.45.68.47:666/gy/gy_hbbH/斗鱼.php?id=4246519
+邵氏影院㊣代,http://103.45.68.47:666/gy/gy_JsEu/斗鱼.php?id=4246519
 
-凌儿影院㊣版,http://103.45.68.47:666/gy/gy_hbbH/斗鱼.php?id=1377142
+凌儿影院㊣版,http://103.45.68.47:666/gy/gy_JsEu/斗鱼.php?id=1377142
 
 
 
-http://103.45.68.47:666/gy/gy_hbbH/斗鱼.php?id=2758565
+http://103.45.68.47:666/gy/gy_JsEu/斗鱼.php?id=2758565
 神乐影院-1台,https://tc-tc2-interact.douyucdn2.cn/dyliveflv1/85894rmovieChow_900p.m3u8
 神乐影院-2台,https://tc-tc2-interact.douyucdn2.cn/dyliveflv1a/122402rK7MO9bXSq_900.m3u8
-神乐影院✔原,http://103.45.68.47:666/gy/gy_hbbH/斗鱼.php?id=122402
-可乐影院✔原,http://103.45.68.47:666/gy/gy_hbbH/斗鱼.php?id=20415
-冰冰剧场✔原,http://103.45.68.47:666/gy/gy_hbbH/斗鱼.php?id=74374
-小宇60帧✔原,http://103.45.68.47:666/gy/gy_hbbH/斗鱼.php?id=323876
-吃米滴虫✔原,http://103.45.68.47:666/gy/gy_hbbH/斗鱼.php?id=315457
-冰冰经典✔原,http://103.45.68.47:666/gy/gy_hbbH/斗鱼.php?id=74374
-恐怖惊悚✔原,http://103.45.68.47:666/gy/gy_hbbH/斗鱼.php?id=96577
-電影劇場✔原,http://103.45.68.47:666/gy/gy_hbbH/斗鱼.php?id=7575350
-國語電影✔原,http://103.45.68.47:666/gy/gy_hbbH/斗鱼.php?id=2436390
-豆瓣高分✔原,http://103.45.68.47:666/gy/gy_hbbH/斗鱼.php?id=8770422
-花卷陪看✔原,http://103.45.68.47:666/gy/gy_hbbH/斗鱼.php?id=52787
-漫威剧情✔原,http://103.45.68.47:666/gy/gy_hbbH/斗鱼.php?id=6140589
-霍格沃茨✔原,http://103.45.68.47:666/gy/gy_hbbH/斗鱼.php?id=8814650
-鱼宝恐怖✔原,http://103.45.68.47:666/gy/gy_hbbH/斗鱼.php?id=1165374
-鬼片恐怖✔原,http://103.45.68.47:666/gy/gy_hbbH/斗鱼.php?id=2935323
-小U鬼片✔原,http://103.45.68.47:666/gy/gy_hbbH/斗鱼.php?id=96577
+神乐影院✔原,http://103.45.68.47:666/gy/gy_JsEu/斗鱼.php?id=122402
+可乐影院✔原,http://103.45.68.47:666/gy/gy_JsEu/斗鱼.php?id=20415
+冰冰剧场✔原,http://103.45.68.47:666/gy/gy_JsEu/斗鱼.php?id=74374
+小宇60帧✔原,http://103.45.68.47:666/gy/gy_JsEu/斗鱼.php?id=323876
+吃米滴虫✔原,http://103.45.68.47:666/gy/gy_JsEu/斗鱼.php?id=315457
+冰冰经典✔原,http://103.45.68.47:666/gy/gy_JsEu/斗鱼.php?id=74374
+恐怖惊悚✔原,http://103.45.68.47:666/gy/gy_JsEu/斗鱼.php?id=96577
+電影劇場✔原,http://103.45.68.47:666/gy/gy_JsEu/斗鱼.php?id=7575350
+國語電影✔原,http://103.45.68.47:666/gy/gy_JsEu/斗鱼.php?id=2436390
+豆瓣高分✔原,http://103.45.68.47:666/gy/gy_JsEu/斗鱼.php?id=8770422
+花卷陪看✔原,http://103.45.68.47:666/gy/gy_JsEu/斗鱼.php?id=52787
+漫威剧情✔原,http://103.45.68.47:666/gy/gy_JsEu/斗鱼.php?id=6140589
+霍格沃茨✔原,http://103.45.68.47:666/gy/gy_JsEu/斗鱼.php?id=8814650
+鱼宝恐怖✔原,http://103.45.68.47:666/gy/gy_JsEu/斗鱼.php?id=1165374
+鬼片恐怖✔原,http://103.45.68.47:666/gy/gy_JsEu/斗鱼.php?id=2935323
+小U鬼片✔原,http://103.45.68.47:666/gy/gy_JsEu/斗鱼.php?id=96577
 
-吃奶滴虫✔原,http://103.45.68.47:666/gy/gy_hbbH/斗鱼.php?id=263824
-变种人片✔原,http://103.45.68.47:666/gy/gy_hbbH/斗鱼.php?id=9651304
-喜剧电影✔原,http://103.45.68.47:666/gy/gy_hbbH/斗鱼.php?id=9292492
-女神电影✔原,http://103.45.68.47:666/gy/gy_hbbH/斗鱼.php?id=747764
-华语经典✔原,http://103.45.68.47:666/gy/gy_hbbH/斗鱼.php?id=434971
-避风影院✔原,http://103.45.68.47:666/gy/gy_hbbH/斗鱼.php?id=9826611
+吃奶滴虫✔原,http://103.45.68.47:666/gy/gy_JsEu/斗鱼.php?id=263824
+变种人片✔原,http://103.45.68.47:666/gy/gy_JsEu/斗鱼.php?id=9651304
+喜剧电影✔原,http://103.45.68.47:666/gy/gy_JsEu/斗鱼.php?id=9292492
+女神电影✔原,http://103.45.68.47:666/gy/gy_JsEu/斗鱼.php?id=747764
+华语经典✔原,http://103.45.68.47:666/gy/gy_JsEu/斗鱼.php?id=434971
+避风影院✔原,http://103.45.68.47:666/gy/gy_JsEu/斗鱼.php?id=9826611
 
-欧美大片✔原,http://103.45.68.47:666/gy/gy_hbbH/斗鱼.php?id=2793084
-贝爷影厅✔原,http://103.45.68.47:666/gy/gy_hbbH/斗鱼.php?id=252802
-译制国语✔原,http://103.45.68.47:666/gy/gy_hbbH/斗鱼.php?id=2436390
+欧美大片✔原,http://103.45.68.47:666/gy/gy_JsEu/斗鱼.php?id=2793084
+贝爷影厅✔原,http://103.45.68.47:666/gy/gy_JsEu/斗鱼.php?id=252802
+译制国语✔原,http://103.45.68.47:666/gy/gy_JsEu/斗鱼.php?id=2436390
 绍兴影院✪另,http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8
 斗鱼华语点歌台,http://epg.112114.xyz/douyu/3186217
 斗鱼??周杰伦??,http://epg.112114.xyz/douyu/7537296
@@ -1334,90 +1334,90 @@ Wesley黑骑士的直播间,http://mmitv.top/test/douyu.php?id=11665049&u=547269
 
 
 ▶️┃广东,#genre#
-广东珠江,http://103.45.68.47:666/gy/gy_hbbH/触电.php?pk=1183
-广东卫视,http://103.45.68.47:666/gy/gy_hbbH/触电.php?pk=1182
-大湾区卫视,http://103.45.68.47:666/gy/gy_hbbH/触电.php?pk=1197
-广东新闻,http://103.45.68.47:666/gy/gy_hbbH/触电.php?pk=1186
-广东4K超高清,http://103.45.68.47:666/gy/gy_hbbH/触电.php?pk=1198
-广东民生,http://103.45.68.47:666/gy/gy_hbbH/触电.php?pk=1185
-广东体育,http://103.45.68.47:666/gy/gy_hbbH/触电.php?pk=1184
-广东影视,http://103.45.68.47:666/gy/gy_hbbH/触电.php?pk=1199
-嘉佳卡通,http://103.45.68.47:666/gy/gy_hbbH/触电.php?pk=1187
-大湾区卫视(海外版),http://103.45.68.47:666/gy/gy_hbbH/触电.php?pk=1191
-广东经济科教,http://103.45.68.47:666/gy/gy_hbbH/触电.php?pk=1196
-广东少儿,http://103.45.68.47:666/gy/gy_hbbH/触电.php?pk=1200
-广东移动,http://103.45.68.47:666/gy/gy_hbbH/触电.php?pk=2463
-GRTN文化频道,http://103.45.68.47:666/gy/gy_hbbH/触电.php?pk=2511
-河源综合,http://103.45.68.47:666/gy/gy_hbbH/触电.php?pk=2402
-河源公共,http://103.45.68.47:666/gy/gy_hbbH/触电.php?pk=2496
-肇庆生活,http://103.45.68.47:666/gy/gy_hbbH/触电.php?pk=2525
-肇庆综合,http://103.45.68.47:666/gy/gy_hbbH/触电.php?pk=1232
-阳江-1,http://103.45.68.47:666/gy/gy_hbbH/触电.php?pk=2505
-阳江-2,http://103.45.68.47:666/gy/gy_hbbH/触电.php?pk=2506
-化州综合,http://103.45.68.47:666/gy/gy_hbbH/触电.php?pk=2440
-开平生活,http://103.45.68.47:666/gy/gy_hbbH/触电.php?pk=2406
-紫金台,http://103.45.68.47:666/gy/gy_hbbH/触电.php?pk=2452
-海丰县广播电视台,http://103.45.68.47:666/gy/gy_hbbH/触电.php?pk=2413
-英德新闻综合频道,http://103.45.68.47:666/gy/gy_hbbH/触电.php?pk=2447
-阳春综合,http://103.45.68.47:666/gy/gy_hbbH/触电.php?pk=2458
-广宁综合,http://103.45.68.47:666/gy/gy_hbbH/触电.php?pk=2414
-惠东综合频道,http://103.45.68.47:666/gy/gy_hbbH/触电.php?pk=2404
-乐昌电视台,http://103.45.68.47:666/gy/gy_hbbH/触电.php?pk=2503
-普宁台,http://103.45.68.47:666/gy/gy_hbbH/触电.php?pk=2450
-惠阳电视台,http://103.45.68.47:666/gy/gy_hbbH/触电.php?pk=2470
-开平综合,http://103.45.68.47:666/gy/gy_hbbH/触电.php?pk=2405
-工布江达县广播电视台,http://103.45.68.47:666/gy/gy_hbbH/触电.php?pk=2439
-廉江台,http://103.45.68.47:666/gy/gy_hbbH/触电.php?pk=2445
-清新综合频道,http://103.45.68.47:666/gy/gy_hbbH/触电.php?pk=2448
-佛冈综合,http://103.45.68.47:666/gy/gy_hbbH/触电.php?pk=2460
-鹤山综合,http://103.45.68.47:666/gy/gy_hbbH/触电.php?pk=2441
-信宜综合,http://103.45.68.47:666/gy/gy_hbbH/触电.php?pk=2471
-怀集综合,http://103.45.68.47:666/gy/gy_hbbH/触电.php?pk=2462
-徐闻台,http://103.45.68.47:666/gy/gy_hbbH/触电.php?pk=2474
-遂溪台,http://103.45.68.47:666/gy/gy_hbbH/触电.php?pk=2488
-阳西综合,http://103.45.68.47:666/gy/gy_hbbH/触电.php?pk=2476
-台山台,http://103.45.68.47:666/gy/gy_hbbH/触电.php?pk=2479
-新会综合,http://103.45.68.47:666/gy/gy_hbbH/触电.php?pk=2490
-潮安综合,http://103.45.68.47:666/gy/gy_hbbH/触电.php?pk=2523
-连州综合,http://103.45.68.47:666/gy/gy_hbbH/触电.php?pk=2455
-吴川综合,http://103.45.68.47:666/gy/gy_hbbH/触电.php?pk=2499
-连平台,http://103.45.68.47:666/gy/gy_hbbH/触电.php?pk=2520
-东源频道,http://103.45.68.47:666/gy/gy_hbbH/触电.php?pk=2497
-广东新闻广播,http://103.45.68.47:666/gy/gy_hbbH/触电.php?pk=2512
-珠江经济,http://103.45.68.47:666/gy/gy_hbbH/触电.php?pk=2513
-音乐之声,http://103.45.68.47:666/gy/gy_hbbH/触电.php?pk=2514
-交通之声,http://103.45.68.47:666/gy/gy_hbbH/触电.php?pk=2515
-南方生活,http://103.45.68.47:666/gy/gy_hbbH/触电.php?pk=2518
-城市之声,http://103.45.68.47:666/gy/gy_hbbH/触电.php?pk=2519
-股市广播,http://103.45.68.47:666/gy/gy_hbbH/触电.php?pk=2516
-文体广播,http://103.45.68.47:666/gy/gy_hbbH/触电.php?pk=2517
-高要电台,http://103.45.68.47:666/gy/gy_hbbH/触电.php?pk=2467
-惠阳电台,http://103.45.68.47:666/gy/gy_hbbH/触电.php?pk=2478
-海丰电台,http://103.45.68.47:666/gy/gy_hbbH/触电.php?pk=2464
-佛冈电台,http://103.45.68.47:666/gy/gy_hbbH/触电.php?pk=2461
-化州电台,http://103.45.68.47:666/gy/gy_hbbH/触电.php?pk=2449
-英德电台,http://103.45.68.47:666/gy/gy_hbbH/触电.php?pk=2446
-广宁电台,http://103.45.68.47:666/gy/gy_hbbH/触电.php?pk=2430
-四会电台,http://103.45.68.47:666/gy/gy_hbbH/触电.php?pk=2410
-连州电台,http://103.45.68.47:666/gy/gy_hbbH/触电.php?pk=2457
-惠东综合广播,http://103.45.68.47:666/gy/gy_hbbH/触电.php?pk=2443
-廉江电台,http://103.45.68.47:666/gy/gy_hbbH/触电.php?pk=2411
-阳春电台,http://103.45.68.47:666/gy/gy_hbbH/触电.php?pk=2459
-螺河之声,http://103.45.68.47:666/gy/gy_hbbH/触电.php?pk=2466
-鹤山电台,http://103.45.68.47:666/gy/gy_hbbH/触电.php?pk=2442
-信宜电台,http://103.45.68.47:666/gy/gy_hbbH/触电.php?pk=2473
-徐闻电台,http://103.45.68.47:666/gy/gy_hbbH/触电.php?pk=2475
-新兴电台,http://103.45.68.47:666/gy/gy_hbbH/触电.php?pk=2484
-台山电台,http://103.45.68.47:666/gy/gy_hbbH/触电.php?pk=2480
-怀集电台,http://103.45.68.47:666/gy/gy_hbbH/触电.php?pk=2486
-恩平电台,http://103.45.68.47:666/gy/gy_hbbH/触电.php?pk=2481
-新会电台,http://103.45.68.47:666/gy/gy_hbbH/触电.php?pk=2489
-普宁电台,http://103.45.68.47:666/gy/gy_hbbH/触电.php?pk=2501
-东源电台,http://103.45.68.47:666/gy/gy_hbbH/触电.php?pk=2498
-阳江综合广播,http://103.45.68.47:666/gy/gy_hbbH/触电.php?pk=2508
-阳江旅游环保广播,http://103.45.68.47:666/gy/gy_hbbH/触电.php?pk=2507
-博罗people广播电台,http://103.45.68.47:666/gy/gy_hbbH/触电.php?pk=2521
-潮安电台,http://103.45.68.47:666/gy/gy_hbbH/触电.php?pk=2524
+广东珠江,http://103.45.68.47:666/gy/gy_JsEu/触电.php?pk=1183
+广东卫视,http://103.45.68.47:666/gy/gy_JsEu/触电.php?pk=1182
+大湾区卫视,http://103.45.68.47:666/gy/gy_JsEu/触电.php?pk=1197
+广东新闻,http://103.45.68.47:666/gy/gy_JsEu/触电.php?pk=1186
+广东4K超高清,http://103.45.68.47:666/gy/gy_JsEu/触电.php?pk=1198
+广东民生,http://103.45.68.47:666/gy/gy_JsEu/触电.php?pk=1185
+广东体育,http://103.45.68.47:666/gy/gy_JsEu/触电.php?pk=1184
+广东影视,http://103.45.68.47:666/gy/gy_JsEu/触电.php?pk=1199
+嘉佳卡通,http://103.45.68.47:666/gy/gy_JsEu/触电.php?pk=1187
+大湾区卫视(海外版),http://103.45.68.47:666/gy/gy_JsEu/触电.php?pk=1191
+广东经济科教,http://103.45.68.47:666/gy/gy_JsEu/触电.php?pk=1196
+广东少儿,http://103.45.68.47:666/gy/gy_JsEu/触电.php?pk=1200
+广东移动,http://103.45.68.47:666/gy/gy_JsEu/触电.php?pk=2463
+GRTN文化频道,http://103.45.68.47:666/gy/gy_JsEu/触电.php?pk=2511
+河源综合,http://103.45.68.47:666/gy/gy_JsEu/触电.php?pk=2402
+河源公共,http://103.45.68.47:666/gy/gy_JsEu/触电.php?pk=2496
+肇庆生活,http://103.45.68.47:666/gy/gy_JsEu/触电.php?pk=2525
+肇庆综合,http://103.45.68.47:666/gy/gy_JsEu/触电.php?pk=1232
+阳江-1,http://103.45.68.47:666/gy/gy_JsEu/触电.php?pk=2505
+阳江-2,http://103.45.68.47:666/gy/gy_JsEu/触电.php?pk=2506
+化州综合,http://103.45.68.47:666/gy/gy_JsEu/触电.php?pk=2440
+开平生活,http://103.45.68.47:666/gy/gy_JsEu/触电.php?pk=2406
+紫金台,http://103.45.68.47:666/gy/gy_JsEu/触电.php?pk=2452
+海丰县广播电视台,http://103.45.68.47:666/gy/gy_JsEu/触电.php?pk=2413
+英德新闻综合频道,http://103.45.68.47:666/gy/gy_JsEu/触电.php?pk=2447
+阳春综合,http://103.45.68.47:666/gy/gy_JsEu/触电.php?pk=2458
+广宁综合,http://103.45.68.47:666/gy/gy_JsEu/触电.php?pk=2414
+惠东综合频道,http://103.45.68.47:666/gy/gy_JsEu/触电.php?pk=2404
+乐昌电视台,http://103.45.68.47:666/gy/gy_JsEu/触电.php?pk=2503
+普宁台,http://103.45.68.47:666/gy/gy_JsEu/触电.php?pk=2450
+惠阳电视台,http://103.45.68.47:666/gy/gy_JsEu/触电.php?pk=2470
+开平综合,http://103.45.68.47:666/gy/gy_JsEu/触电.php?pk=2405
+工布江达县广播电视台,http://103.45.68.47:666/gy/gy_JsEu/触电.php?pk=2439
+廉江台,http://103.45.68.47:666/gy/gy_JsEu/触电.php?pk=2445
+清新综合频道,http://103.45.68.47:666/gy/gy_JsEu/触电.php?pk=2448
+佛冈综合,http://103.45.68.47:666/gy/gy_JsEu/触电.php?pk=2460
+鹤山综合,http://103.45.68.47:666/gy/gy_JsEu/触电.php?pk=2441
+信宜综合,http://103.45.68.47:666/gy/gy_JsEu/触电.php?pk=2471
+怀集综合,http://103.45.68.47:666/gy/gy_JsEu/触电.php?pk=2462
+徐闻台,http://103.45.68.47:666/gy/gy_JsEu/触电.php?pk=2474
+遂溪台,http://103.45.68.47:666/gy/gy_JsEu/触电.php?pk=2488
+阳西综合,http://103.45.68.47:666/gy/gy_JsEu/触电.php?pk=2476
+台山台,http://103.45.68.47:666/gy/gy_JsEu/触电.php?pk=2479
+新会综合,http://103.45.68.47:666/gy/gy_JsEu/触电.php?pk=2490
+潮安综合,http://103.45.68.47:666/gy/gy_JsEu/触电.php?pk=2523
+连州综合,http://103.45.68.47:666/gy/gy_JsEu/触电.php?pk=2455
+吴川综合,http://103.45.68.47:666/gy/gy_JsEu/触电.php?pk=2499
+连平台,http://103.45.68.47:666/gy/gy_JsEu/触电.php?pk=2520
+东源频道,http://103.45.68.47:666/gy/gy_JsEu/触电.php?pk=2497
+广东新闻广播,http://103.45.68.47:666/gy/gy_JsEu/触电.php?pk=2512
+珠江经济,http://103.45.68.47:666/gy/gy_JsEu/触电.php?pk=2513
+音乐之声,http://103.45.68.47:666/gy/gy_JsEu/触电.php?pk=2514
+交通之声,http://103.45.68.47:666/gy/gy_JsEu/触电.php?pk=2515
+南方生活,http://103.45.68.47:666/gy/gy_JsEu/触电.php?pk=2518
+城市之声,http://103.45.68.47:666/gy/gy_JsEu/触电.php?pk=2519
+股市广播,http://103.45.68.47:666/gy/gy_JsEu/触电.php?pk=2516
+文体广播,http://103.45.68.47:666/gy/gy_JsEu/触电.php?pk=2517
+高要电台,http://103.45.68.47:666/gy/gy_JsEu/触电.php?pk=2467
+惠阳电台,http://103.45.68.47:666/gy/gy_JsEu/触电.php?pk=2478
+海丰电台,http://103.45.68.47:666/gy/gy_JsEu/触电.php?pk=2464
+佛冈电台,http://103.45.68.47:666/gy/gy_JsEu/触电.php?pk=2461
+化州电台,http://103.45.68.47:666/gy/gy_JsEu/触电.php?pk=2449
+英德电台,http://103.45.68.47:666/gy/gy_JsEu/触电.php?pk=2446
+广宁电台,http://103.45.68.47:666/gy/gy_JsEu/触电.php?pk=2430
+四会电台,http://103.45.68.47:666/gy/gy_JsEu/触电.php?pk=2410
+连州电台,http://103.45.68.47:666/gy/gy_JsEu/触电.php?pk=2457
+惠东综合广播,http://103.45.68.47:666/gy/gy_JsEu/触电.php?pk=2443
+廉江电台,http://103.45.68.47:666/gy/gy_JsEu/触电.php?pk=2411
+阳春电台,http://103.45.68.47:666/gy/gy_JsEu/触电.php?pk=2459
+螺河之声,http://103.45.68.47:666/gy/gy_JsEu/触电.php?pk=2466
+鹤山电台,http://103.45.68.47:666/gy/gy_JsEu/触电.php?pk=2442
+信宜电台,http://103.45.68.47:666/gy/gy_JsEu/触电.php?pk=2473
+徐闻电台,http://103.45.68.47:666/gy/gy_JsEu/触电.php?pk=2475
+新兴电台,http://103.45.68.47:666/gy/gy_JsEu/触电.php?pk=2484
+台山电台,http://103.45.68.47:666/gy/gy_JsEu/触电.php?pk=2480
+怀集电台,http://103.45.68.47:666/gy/gy_JsEu/触电.php?pk=2486
+恩平电台,http://103.45.68.47:666/gy/gy_JsEu/触电.php?pk=2481
+新会电台,http://103.45.68.47:666/gy/gy_JsEu/触电.php?pk=2489
+普宁电台,http://103.45.68.47:666/gy/gy_JsEu/触电.php?pk=2501
+东源电台,http://103.45.68.47:666/gy/gy_JsEu/触电.php?pk=2498
+阳江综合广播,http://103.45.68.47:666/gy/gy_JsEu/触电.php?pk=2508
+阳江旅游环保广播,http://103.45.68.47:666/gy/gy_JsEu/触电.php?pk=2507
+博罗people广播电台,http://103.45.68.47:666/gy/gy_JsEu/触电.php?pk=2521
+潮安电台,http://103.45.68.47:666/gy/gy_JsEu/触电.php?pk=2524
 
 
 
@@ -1736,172 +1736,172 @@ GRTN文化频道,http://103.45.68.47:666/gy/gy_hbbH/触电.php?pk=2511
 Soda东南亚之旅,https://vdse.bdstatic.com//b6295e9776c2cd347716fc2447e27fac.mp4
 #️⃣成龙,#genre#
 
-龙马精神2023,http://103.45.68.47:666/gy/gy_hbbH/点播.php?id=330921
-神勇双响炮,http://103.45.68.47:666/gy/gy_hbbH/点播.php?id=330521
-秘密追踪,http://103.45.68.47:666/gy/gy_hbbH/点播.php?id=208129
-运气没信号,http://103.45.68.47:666/gy/gy_hbbH/点播.php?id=326242
-双龙会,http://103.45.68.47:666/gy/gy_hbbH/点播.php?id=293352
-飞龙猛将,http://103.45.68.47:666/gy/gy_hbbH/点播.php?id=291456
-A计划续集,http://103.45.68.47:666/gy/gy_hbbH/点播.php?id=289204
-剑花烟雨江南,http://103.45.68.47:666/gy/gy_hbbH/点播.php?id=289192
-龙拳,http://103.45.68.47:666/gy/gy_hbbH/点播.php?id=289182
-威龙猛探,http://103.45.68.47:666/gy/gy_hbbH/点播.php?id=289181
-一个好人,http://103.45.68.47:666/gy/gy_hbbH/点播.php?id=289180
-警察故事3：超級警察,http://103.45.68.47:666/gy/gy_hbbH/点播.php?id=288299
-望夫成龙,http://103.45.68.47:666/gy/gy_hbbH/点播.php?id=275015
-“湾区升明月”2021大湾区中秋电影音乐晚会,http://103.45.68.47:666/gy/gy_hbbH/点播.php?id=274859
-龙虎武师,http://103.45.68.47:666/gy/gy_hbbH/点播.php?id=274858
-新警察故事,http://103.45.68.47:666/gy/gy_hbbH/点播.php?id=274857
-警察故事1,http://103.45.68.47:666/gy/gy_hbbH/点播.php?id=274856
-笑拳怪招,http://103.45.68.47:666/gy/gy_hbbH/点播.php?id=274855
-总是有爱在隔离,http://103.45.68.47:666/gy/gy_hbbH/点播.php?id=274854
-拳精,http://103.45.68.47:666/gy/gy_hbbH/点播.php?id=274853
-于成龙,http://103.45.68.47:666/gy/gy_hbbH/点播.php?id=62103
-A计划1983,http://103.45.68.47:666/gy/gy_hbbH/点播.php?id=256338
-黄河异闻录,http://103.45.68.47:666/gy/gy_hbbH/点播.php?id=248606
-我是谁1998,http://103.45.68.47:666/gy/gy_hbbH/点播.php?id=247263
-警察故事3：超级警察,http://103.45.68.47:666/gy/gy_hbbH/点播.php?id=247258
-蛇鹤八步,http://103.45.68.47:666/gy/gy_hbbH/点播.php?id=246758
-牛魔王之魔王再临,http://103.45.68.47:666/gy/gy_hbbH/点播.php?id=240550
-我是谁的宝贝,http://103.45.68.47:666/gy/gy_hbbH/点播.php?id=240175
-无限超越班,http://103.45.68.47:666/gy/gy_hbbH/点播.php?id=208907
-侠女,http://103.45.68.47:666/gy/gy_hbbH/点播.php?id=231664
-精武门,http://103.45.68.47:666/gy/gy_hbbH/点播.php?id=230926
-功夫之王,http://103.45.68.47:666/gy/gy_hbbH/点播.php?id=229431
-快餐车,http://103.45.68.47:666/gy/gy_hbbH/点播.php?id=229428
-中央广播电视总台春节联欢晚会2023,http://103.45.68.47:666/gy/gy_hbbH/点播.php?id=224958
-超能太监,http://103.45.68.47:666/gy/gy_hbbH/点播.php?id=223878
-攀登者,http://103.45.68.47:666/gy/gy_hbbH/点播.php?id=219122
-龙牌之谜,http://103.45.68.47:666/gy/gy_hbbH/点播.php?id=219113
-疲城,http://103.45.68.47:666/gy/gy_hbbH/点播.php?id=213544
-参与者,http://103.45.68.47:666/gy/gy_hbbH/点播.php?id=202157
-辛亥革命,http://103.45.68.47:666/gy/gy_hbbH/点播.php?id=82840
-沉默的雪,http://103.45.68.47:666/gy/gy_hbbH/点播.php?id=82828
-龙腾虎跃,http://103.45.68.47:666/gy/gy_hbbH/点播.php?id=74387
-风雨双流星,http://103.45.68.47:666/gy/gy_hbbH/点播.php?id=74366
-玻璃樽,http://103.45.68.47:666/gy/gy_hbbH/点播.php?id=74287
-特务迷城,http://103.45.68.47:666/gy/gy_hbbH/点播.php?id=74270
-功夫熊猫3,http://103.45.68.47:666/gy/gy_hbbH/点播.php?id=74189
-一招半式闯江湖,http://103.45.68.47:666/gy/gy_hbbH/点播.php?id=74163
-警察故事续集,http://103.45.68.47:666/gy/gy_hbbH/点播.php?id=65791
-警察故事2013,http://103.45.68.47:666/gy/gy_hbbH/点播.php?id=57965
-神话2005,http://103.45.68.47:666/gy/gy_hbbH/点播.php?id=57935
-杀手壕,http://103.45.68.47:666/gy/gy_hbbH/点播.php?id=57888
-城市猎人国语,http://103.45.68.47:666/gy/gy_hbbH/点播.php?id=57824
-功夫梦,http://103.45.68.47:666/gy/gy_hbbH/点播.php?id=57798
-阴阳镇怪谈,http://103.45.68.47:666/gy/gy_hbbH/点播.php?id=56654
-醉拳2,http://103.45.68.47:666/gy/gy_hbbH/点播.php?id=49675
-尖峰时刻,http://103.45.68.47:666/gy/gy_hbbH/点播.php?id=49528
-奇迹,http://103.45.68.47:666/gy/gy_hbbH/点播.php?id=49504
-急先锋,http://103.45.68.47:666/gy/gy_hbbH/点播.php?id=46064
-宝贝计划,http://103.45.68.47:666/gy/gy_hbbH/点播.php?id=46051
+龙马精神2023,http://103.45.68.47:666/gy/gy_JsEu/点播.php?id=330921
+神勇双响炮,http://103.45.68.47:666/gy/gy_JsEu/点播.php?id=330521
+秘密追踪,http://103.45.68.47:666/gy/gy_JsEu/点播.php?id=208129
+运气没信号,http://103.45.68.47:666/gy/gy_JsEu/点播.php?id=326242
+双龙会,http://103.45.68.47:666/gy/gy_JsEu/点播.php?id=293352
+飞龙猛将,http://103.45.68.47:666/gy/gy_JsEu/点播.php?id=291456
+A计划续集,http://103.45.68.47:666/gy/gy_JsEu/点播.php?id=289204
+剑花烟雨江南,http://103.45.68.47:666/gy/gy_JsEu/点播.php?id=289192
+龙拳,http://103.45.68.47:666/gy/gy_JsEu/点播.php?id=289182
+威龙猛探,http://103.45.68.47:666/gy/gy_JsEu/点播.php?id=289181
+一个好人,http://103.45.68.47:666/gy/gy_JsEu/点播.php?id=289180
+警察故事3：超級警察,http://103.45.68.47:666/gy/gy_JsEu/点播.php?id=288299
+望夫成龙,http://103.45.68.47:666/gy/gy_JsEu/点播.php?id=275015
+“湾区升明月”2021大湾区中秋电影音乐晚会,http://103.45.68.47:666/gy/gy_JsEu/点播.php?id=274859
+龙虎武师,http://103.45.68.47:666/gy/gy_JsEu/点播.php?id=274858
+新警察故事,http://103.45.68.47:666/gy/gy_JsEu/点播.php?id=274857
+警察故事1,http://103.45.68.47:666/gy/gy_JsEu/点播.php?id=274856
+笑拳怪招,http://103.45.68.47:666/gy/gy_JsEu/点播.php?id=274855
+总是有爱在隔离,http://103.45.68.47:666/gy/gy_JsEu/点播.php?id=274854
+拳精,http://103.45.68.47:666/gy/gy_JsEu/点播.php?id=274853
+于成龙,http://103.45.68.47:666/gy/gy_JsEu/点播.php?id=62103
+A计划1983,http://103.45.68.47:666/gy/gy_JsEu/点播.php?id=256338
+黄河异闻录,http://103.45.68.47:666/gy/gy_JsEu/点播.php?id=248606
+我是谁1998,http://103.45.68.47:666/gy/gy_JsEu/点播.php?id=247263
+警察故事3：超级警察,http://103.45.68.47:666/gy/gy_JsEu/点播.php?id=247258
+蛇鹤八步,http://103.45.68.47:666/gy/gy_JsEu/点播.php?id=246758
+牛魔王之魔王再临,http://103.45.68.47:666/gy/gy_JsEu/点播.php?id=240550
+我是谁的宝贝,http://103.45.68.47:666/gy/gy_JsEu/点播.php?id=240175
+无限超越班,http://103.45.68.47:666/gy/gy_JsEu/点播.php?id=208907
+侠女,http://103.45.68.47:666/gy/gy_JsEu/点播.php?id=231664
+精武门,http://103.45.68.47:666/gy/gy_JsEu/点播.php?id=230926
+功夫之王,http://103.45.68.47:666/gy/gy_JsEu/点播.php?id=229431
+快餐车,http://103.45.68.47:666/gy/gy_JsEu/点播.php?id=229428
+中央广播电视总台春节联欢晚会2023,http://103.45.68.47:666/gy/gy_JsEu/点播.php?id=224958
+超能太监,http://103.45.68.47:666/gy/gy_JsEu/点播.php?id=223878
+攀登者,http://103.45.68.47:666/gy/gy_JsEu/点播.php?id=219122
+龙牌之谜,http://103.45.68.47:666/gy/gy_JsEu/点播.php?id=219113
+疲城,http://103.45.68.47:666/gy/gy_JsEu/点播.php?id=213544
+参与者,http://103.45.68.47:666/gy/gy_JsEu/点播.php?id=202157
+辛亥革命,http://103.45.68.47:666/gy/gy_JsEu/点播.php?id=82840
+沉默的雪,http://103.45.68.47:666/gy/gy_JsEu/点播.php?id=82828
+龙腾虎跃,http://103.45.68.47:666/gy/gy_JsEu/点播.php?id=74387
+风雨双流星,http://103.45.68.47:666/gy/gy_JsEu/点播.php?id=74366
+玻璃樽,http://103.45.68.47:666/gy/gy_JsEu/点播.php?id=74287
+特务迷城,http://103.45.68.47:666/gy/gy_JsEu/点播.php?id=74270
+功夫熊猫3,http://103.45.68.47:666/gy/gy_JsEu/点播.php?id=74189
+一招半式闯江湖,http://103.45.68.47:666/gy/gy_JsEu/点播.php?id=74163
+警察故事续集,http://103.45.68.47:666/gy/gy_JsEu/点播.php?id=65791
+警察故事2013,http://103.45.68.47:666/gy/gy_JsEu/点播.php?id=57965
+神话2005,http://103.45.68.47:666/gy/gy_JsEu/点播.php?id=57935
+杀手壕,http://103.45.68.47:666/gy/gy_JsEu/点播.php?id=57888
+城市猎人国语,http://103.45.68.47:666/gy/gy_JsEu/点播.php?id=57824
+功夫梦,http://103.45.68.47:666/gy/gy_JsEu/点播.php?id=57798
+阴阳镇怪谈,http://103.45.68.47:666/gy/gy_JsEu/点播.php?id=56654
+醉拳2,http://103.45.68.47:666/gy/gy_JsEu/点播.php?id=49675
+尖峰时刻,http://103.45.68.47:666/gy/gy_JsEu/点播.php?id=49528
+奇迹,http://103.45.68.47:666/gy/gy_JsEu/点播.php?id=49504
+急先锋,http://103.45.68.47:666/gy/gy_JsEu/点播.php?id=46064
+宝贝计划,http://103.45.68.47:666/gy/gy_JsEu/点播.php?id=46051
 ▶️┃李连杰,#genre#
 
-游侠普通话">http://103.45.68.47:666/gy/gy_hbbH/点播.php?id=421126
+游侠普通话">http://103.45.68.47:666/gy/gy_JsEu/点播.php?id=421126
 
-游侠,http://103.45.68.47:666/gy/gy_hbbH/点播.php?id=420900
+游侠,http://103.45.68.47:666/gy/gy_JsEu/点播.php?id=420900
 
-龙在天涯,http://103.45.68.47:666/gy/gy_hbbH/点播.php?id=369943
+龙在天涯,http://103.45.68.47:666/gy/gy_JsEu/点播.php?id=369943
 
-敢死队,http://103.45.68.47:666/gy/gy_hbbH/点播.php?id=369706
+敢死队,http://103.45.68.47:666/gy/gy_JsEu/点播.php?id=369706
 
-海洋天堂,http://103.45.68.47:666/gy/gy_hbbH/点播.php?id=369695
+海洋天堂,http://103.45.68.47:666/gy/gy_JsEu/点播.php?id=369695
 
-豫剧唐知县斩诰命,http://103.45.68.47:666/gy/gy_hbbH/点播.php?id=368102
+豫剧唐知县斩诰命,http://103.45.68.47:666/gy/gy_JsEu/点播.php?id=368102
 
-坠子包公铡李连芳,http://103.45.68.47:666/gy/gy_hbbH/点播.php?id=335107
+坠子包公铡李连芳,http://103.45.68.47:666/gy/gy_JsEu/点播.php?id=335107
 
-慕容骑士,http://103.45.68.47:666/gy/gy_hbbH/点播.php?id=325805
+慕容骑士,http://103.45.68.47:666/gy/gy_JsEu/点播.php?id=325805
 
-活着,http://103.45.68.47:666/gy/gy_hbbH/点播.php?id=325662
+活着,http://103.45.68.47:666/gy/gy_JsEu/点播.php?id=325662
 
-向阳照相馆,http://103.45.68.47:666/gy/gy_hbbH/点播.php?id=274364
+向阳照相馆,http://103.45.68.47:666/gy/gy_JsEu/点播.php?id=274364
 
-宇宙追缉令,http://103.45.68.47:666/gy/gy_hbbH/点播.php?id=272333
+宇宙追缉令,http://103.45.68.47:666/gy/gy_JsEu/点播.php?id=272333
 
-英雄导演剪辑版,http://103.45.68.47:666/gy/gy_hbbH/点播.php?id=272332
+英雄导演剪辑版,http://103.45.68.47:666/gy/gy_JsEu/点播.php?id=272332
 
-少林小子,http://103.45.68.47:666/gy/gy_hbbH/点播.php?id=272331
+少林小子,http://103.45.68.47:666/gy/gy_JsEu/点播.php?id=272331
 
-黄飞鸿2：男儿当自强,http://103.45.68.47:666/gy/gy_hbbH/点播.php?id=272330
+黄飞鸿2：男儿当自强,http://103.45.68.47:666/gy/gy_JsEu/点播.php?id=272330
 
-黄飞鸿1：壮志凌云,http://103.45.68.47:666/gy/gy_hbbH/点播.php?id=272329
+黄飞鸿1：壮志凌云,http://103.45.68.47:666/gy/gy_JsEu/点播.php?id=272329
 
-不二神探,http://103.45.68.47:666/gy/gy_hbbH/点播.php?id=272328
+不二神探,http://103.45.68.47:666/gy/gy_JsEu/点播.php?id=272328
 
-木乃伊3,http://103.45.68.47:666/gy/gy_hbbH/点播.php?id=61819
+木乃伊3,http://103.45.68.47:666/gy/gy_JsEu/点播.php?id=61819
 
-太极张三丰1993,http://103.45.68.47:666/gy/gy_hbbH/点播.php?id=256965
+太极张三丰1993,http://103.45.68.47:666/gy/gy_JsEu/点播.php?id=256965
 
-新少林五祖,http://103.45.68.47:666/gy/gy_hbbH/点播.php?id=46081
+新少林五祖,http://103.45.68.47:666/gy/gy_JsEu/点播.php?id=46081
 
-新少林五祖1994,http://103.45.68.47:666/gy/gy_hbbH/点播.php?id=256339
+新少林五祖1994,http://103.45.68.47:666/gy/gy_JsEu/点播.php?id=256339
 
-方世玉续集,http://103.45.68.47:666/gy/gy_hbbH/点播.php?id=247712
+方世玉续集,http://103.45.68.47:666/gy/gy_JsEu/点播.php?id=247712
 
-龙潭虎穴,http://103.45.68.47:666/gy/gy_hbbH/点播.php?id=247269
+龙潭虎穴,http://103.45.68.47:666/gy/gy_JsEu/点播.php?id=247269
 
-少林寺,http://103.45.68.47:666/gy/gy_hbbH/点播.php?id=229539
+少林寺,http://103.45.68.47:666/gy/gy_JsEu/点播.php?id=229539
 
-功夫之王,http://103.45.68.47:666/gy/gy_hbbH/点播.php?id=229431
+功夫之王,http://103.45.68.47:666/gy/gy_JsEu/点播.php?id=229431
 
-花木兰,http://103.45.68.47:666/gy/gy_hbbH/点播.php?id=213477
+花木兰,http://103.45.68.47:666/gy/gy_JsEu/点播.php?id=213477
 
-冒险王,http://103.45.68.47:666/gy/gy_hbbH/点播.php?id=213379
+冒险王,http://103.45.68.47:666/gy/gy_JsEu/点播.php?id=213379
 
-黄飞鸿之二：男儿当自强,http://103.45.68.47:666/gy/gy_hbbH/点播.php?id=212837
+黄飞鸿之二：男儿当自强,http://103.45.68.47:666/gy/gy_JsEu/点播.php?id=212837
 
-霍元甲,http://103.45.68.47:666/gy/gy_hbbH/点播.php?id=209866
+霍元甲,http://103.45.68.47:666/gy/gy_JsEu/点播.php?id=209866
 
-中南海保镖,http://103.45.68.47:666/gy/gy_hbbH/点播.php?id=206547
+中南海保镖,http://103.45.68.47:666/gy/gy_JsEu/点播.php?id=206547
 
-黄飞鸿之铁公鸡斗蜈蚣,http://103.45.68.47:666/gy/gy_hbbH/点播.php?id=74377
+黄飞鸿之铁公鸡斗蜈蚣,http://103.45.68.47:666/gy/gy_JsEu/点播.php?id=74377
 
-黄飞鸿6：西域雄师,http://103.45.68.47:666/gy/gy_hbbH/点播.php?id=74376
+黄飞鸿6：西域雄师,http://103.45.68.47:666/gy/gy_JsEu/点播.php?id=74376
 
-精武英雄,http://103.45.68.47:666/gy/gy_hbbH/点播.php?id=74304
+精武英雄,http://103.45.68.47:666/gy/gy_JsEu/点播.php?id=74304
 
-倚天屠龙记之魔教教主,http://103.45.68.47:666/gy/gy_hbbH/点播.php?id=57788
+倚天屠龙记之魔教教主,http://103.45.68.47:666/gy/gy_JsEu/点播.php?id=57788
 
-黑侠,http://103.45.68.47:666/gy/gy_hbbH/点播.php?id=46218
+黑侠,http://103.45.68.47:666/gy/gy_JsEu/点播.php?id=46218
 
-方世玉,http://103.45.68.47:666/gy/gy_hbbH/点播.php?id=46084
+方世玉,http://103.45.68.47:666/gy/gy_JsEu/点播.php?id=46084
 
-致命摇篮,http://103.45.68.47:666/gy/gy_hbbH/点播.php?id=44103
+致命摇篮,http://103.45.68.47:666/gy/gy_JsEu/点播.php?id=44103
 
-黄飞鸿,http://103.45.68.47:666/gy/gy_hbbH/点播.php?id=40542
+黄飞鸿,http://103.45.68.47:666/gy/gy_JsEu/点播.php?id=40542
 
-武松斗杀西门庆,http://103.45.68.47:666/gy/gy_hbbH/点播.php?id=40425
+武松斗杀西门庆,http://103.45.68.47:666/gy/gy_JsEu/点播.php?id=40425
 
-投名状,http://103.45.68.47:666/gy/gy_hbbH/点播.php?id=40391
+投名状,http://103.45.68.47:666/gy/gy_JsEu/点播.php?id=40391
 
-东方巨龙,http://103.45.68.47:666/gy/gy_hbbH/点播.php?id=40299
+东方巨龙,http://103.45.68.47:666/gy/gy_JsEu/点播.php?id=40299
 
-黄飞鸿92之龙行天下,http://103.45.68.47:666/gy/gy_hbbH/点播.php?id=34923
+黄飞鸿92之龙行天下,http://103.45.68.47:666/gy/gy_JsEu/点播.php?id=34923
 
-黄飞鸿3：狮王争霸,http://103.45.68.47:666/gy/gy_hbbH/点播.php?id=34921
+黄飞鸿3：狮王争霸,http://103.45.68.47:666/gy/gy_JsEu/点播.php?id=34921
 
-致命罗密欧,http://103.45.68.47:666/gy/gy_hbbH/点播.php?id=34879
+致命罗密欧,http://103.45.68.47:666/gy/gy_JsEu/点播.php?id=34879
 
-英雄,http://103.45.68.47:666/gy/gy_hbbH/点播.php?id=34880
+英雄,http://103.45.68.47:666/gy/gy_JsEu/点播.php?id=34880
 
-敢死队1,http://103.45.68.47:666/gy/gy_hbbH/点播.php?id=34806
+敢死队1,http://103.45.68.47:666/gy/gy_JsEu/点播.php?id=34806
 
-南北少林,http://103.45.68.47:666/gy/gy_hbbH/点播.php?id=34744
+南北少林,http://103.45.68.47:666/gy/gy_JsEu/点播.php?id=34744
 
-笑傲江湖2：东方不败,http://103.45.68.47:666/gy/gy_hbbH/点播.php?id=31210
+笑傲江湖2：东方不败,http://103.45.68.47:666/gy/gy_JsEu/点播.php?id=31210
 
-花木兰2020普通话版,http://103.45.68.47:666/gy/gy_hbbH/点播.php?id=27473
+花木兰2020普通话版,http://103.45.68.47:666/gy/gy_JsEu/点播.php?id=27473
 
-龙门飞甲,http://103.45.68.47:666/gy/gy_hbbH/点播.php?id=442
+龙门飞甲,http://103.45.68.47:666/gy/gy_JsEu/点播.php?id=442
 
-致命武器4,http://103.45.68.47:666/gy/gy_hbbH/点播.php?id=389
+致命武器4,http://103.45.68.47:666/gy/gy_JsEu/点播.php?id=389
 
-给爸爸的信,http://103.45.68.47:666/gy/gy_hbbH/点播.php?id=378
+给爸爸的信,http://103.45.68.47:666/gy/gy_JsEu/点播.php?id=378
 
-洪熙官,http://103.45.68.47:666/gy/gy_hbbH/点播.php?id=335
+洪熙官,http://103.45.68.47:666/gy/gy_JsEu/点播.php?id=335
 
-封神传奇,http://103.45.68.47:666/gy/gy_hbbH/点播.php?id=276
+封神传奇,http://103.45.68.47:666/gy/gy_JsEu/点播.php?id=276
 
 
 
@@ -2375,103 +2375,103 @@ A计划1983,http://103.45.68.47:666/gy/gy_hbbH/点播.php?id=256338
 
 
 ▶️┃范 伟,#genre#
-星光灿烂2017"><a href="http://103.45.68.47:666/gy/gy_hbbH/点播.php?id=419242
+星光灿烂2017"><a href="http://103.45.68.47:666/gy/gy_JsEu/点播.php?id=419242
 
-老大的幸福,http://103.45.68.47:666/gy/gy_hbbH/点播.php?id=417034
+老大的幸福,http://103.45.68.47:666/gy/gy_JsEu/点播.php?id=417034
 
-不成问题的问题,http://103.45.68.47:666/gy/gy_hbbH/点播.php?id=368884
+不成问题的问题,http://103.45.68.47:666/gy/gy_JsEu/点播.php?id=368884
 
-雷哥老范,http://103.45.68.47:666/gy/gy_hbbH/点播.php?id=329459
+雷哥老范,http://103.45.68.47:666/gy/gy_JsEu/点播.php?id=329459
 
-跟踪孔令学,http://103.45.68.47:666/gy/gy_hbbH/点播.php?id=325930
+跟踪孔令学,http://103.45.68.47:666/gy/gy_JsEu/点播.php?id=325930
 
-看车人的七月,http://103.45.68.47:666/gy/gy_hbbH/点播.php?id=325928
+看车人的七月,http://103.45.68.47:666/gy/gy_JsEu/点播.php?id=325928
 
-耳朵大有福,http://103.45.68.47:666/gy/gy_hbbH/点播.php?id=323633
+耳朵大有福,http://103.45.68.47:666/gy/gy_JsEu/点播.php?id=323633
 
-乡亲乡爱,http://103.45.68.47:666/gy/gy_hbbH/点播.php?id=318187
+乡亲乡爱,http://103.45.68.47:666/gy/gy_JsEu/点播.php?id=318187
 
-立功·东北旧事,http://103.45.68.47:666/gy/gy_hbbH/点播.php?id=230437
+立功·东北旧事,http://103.45.68.47:666/gy/gy_JsEu/点播.php?id=230437
 
-铁道英雄,http://103.45.68.47:666/gy/gy_hbbH/点播.php?id=291102
+铁道英雄,http://103.45.68.47:666/gy/gy_JsEu/点播.php?id=291102
 
-道士下山,http://103.45.68.47:666/gy/gy_hbbH/点播.php?id=289328
+道士下山,http://103.45.68.47:666/gy/gy_JsEu/点播.php?id=289328
 
-小宝和老财,http://103.45.68.47:666/gy/gy_hbbH/点播.php?id=288792
+小宝和老财,http://103.45.68.47:666/gy/gy_JsEu/点播.php?id=288792
 
-大宋提刑官第一部,http://103.45.68.47:666/gy/gy_hbbH/点播.php?id=151901
+大宋提刑官第一部,http://103.45.68.47:666/gy/gy_JsEu/点播.php?id=151901
 
-马大帅2,http://103.45.68.47:666/gy/gy_hbbH/点播.php?id=285707
+马大帅2,http://103.45.68.47:666/gy/gy_JsEu/点播.php?id=285707
 
-马大帅3,http://103.45.68.47:666/gy/gy_hbbH/点播.php?id=285673
+马大帅3,http://103.45.68.47:666/gy/gy_JsEu/点播.php?id=285673
 
-马大帅1,http://103.45.68.47:666/gy/gy_hbbH/点播.php?id=285646
+马大帅1,http://103.45.68.47:666/gy/gy_JsEu/点播.php?id=285646
 
-刘老根第三部,http://103.45.68.47:666/gy/gy_hbbH/点播.php?id=111684
+刘老根第三部,http://103.45.68.47:666/gy/gy_JsEu/点播.php?id=111684
 
-刘老根,http://103.45.68.47:666/gy/gy_hbbH/点播.php?id=111666
+刘老根,http://103.45.68.47:666/gy/gy_JsEu/点播.php?id=111666
 
-刘老根2,http://103.45.68.47:666/gy/gy_hbbH/点播.php?id=111644
+刘老根2,http://103.45.68.47:666/gy/gy_JsEu/点播.php?id=111644
 
-刘老根第四部,http://103.45.68.47:666/gy/gy_hbbH/点播.php?id=125666
+刘老根第四部,http://103.45.68.47:666/gy/gy_JsEu/点播.php?id=125666
 
-乡村爱情2,http://103.45.68.47:666/gy/gy_hbbH/点播.php?id=50139
+乡村爱情2,http://103.45.68.47:666/gy/gy_JsEu/点播.php?id=50139
 
-乡村爱情1,http://103.45.68.47:666/gy/gy_hbbH/点播.php?id=96936
+乡村爱情1,http://103.45.68.47:666/gy/gy_JsEu/点播.php?id=96936
 
-漫长的季节,http://103.45.68.47:666/gy/gy_hbbH/点播.php?id=259389
+漫长的季节,http://103.45.68.47:666/gy/gy_JsEu/点播.php?id=259389
 
-绝世高手,http://103.45.68.47:666/gy/gy_hbbH/点播.php?id=246751
+绝世高手,http://103.45.68.47:666/gy/gy_JsEu/点播.php?id=246751
 
-欲念游戏,http://103.45.68.47:666/gy/gy_hbbH/点播.php?id=219087
+欲念游戏,http://103.45.68.47:666/gy/gy_JsEu/点播.php?id=219087
 
-我在时间尽头等你,http://103.45.68.47:666/gy/gy_hbbH/点播.php?id=213412
+我在时间尽头等你,http://103.45.68.47:666/gy/gy_JsEu/点播.php?id=213412
 
-不速来客,http://103.45.68.47:666/gy/gy_hbbH/点播.php?id=213020
+不速来客,http://103.45.68.47:666/gy/gy_JsEu/点播.php?id=213020
 
-诞生于2020的莫扎特,http://103.45.68.47:666/gy/gy_hbbH/点播.php?id=191269
+诞生于2020的莫扎特,http://103.45.68.47:666/gy/gy_JsEu/点播.php?id=191269
 
-夜深人不静,http://103.45.68.47:666/gy/gy_hbbH/点播.php?id=125662
+夜深人不静,http://103.45.68.47:666/gy/gy_JsEu/点播.php?id=125662
 
-我和我的家乡,http://103.45.68.47:666/gy/gy_hbbH/点播.php?id=77550
+我和我的家乡,http://103.45.68.47:666/gy/gy_JsEu/点播.php?id=77550
 
-一秒钟,http://103.45.68.47:666/gy/gy_hbbH/点播.php?id=74038
+一秒钟,http://103.45.68.47:666/gy/gy_JsEu/点播.php?id=74038
 
-非诚勿扰,http://103.45.68.47:666/gy/gy_hbbH/点播.php?id=61532
+非诚勿扰,http://103.45.68.47:666/gy/gy_JsEu/点播.php?id=61532
 
-父子雄兵,http://103.45.68.47:666/gy/gy_hbbH/点播.php?id=49603
+父子雄兵,http://103.45.68.47:666/gy/gy_JsEu/点播.php?id=49603
 
-有完没完,http://103.45.68.47:666/gy/gy_hbbH/点播.php?id=49575
+有完没完,http://103.45.68.47:666/gy/gy_JsEu/点播.php?id=49575
 
-黄金大劫案,http://103.45.68.47:666/gy/gy_hbbH/点播.php?id=46216
+黄金大劫案,http://103.45.68.47:666/gy/gy_JsEu/点播.php?id=46216
 
-断·桥,http://103.45.68.47:666/gy/gy_hbbH/点播.php?id=45912
+断·桥,http://103.45.68.47:666/gy/gy_JsEu/点播.php?id=45912
 
-一句顶一万句,http://103.45.68.47:666/gy/gy_hbbH/点播.php?id=44464
+一句顶一万句,http://103.45.68.47:666/gy/gy_JsEu/点播.php?id=44464
 
-地狱之旅,http://103.45.68.47:666/gy/gy_hbbH/点播.php?id=44038
+地狱之旅,http://103.45.68.47:666/gy/gy_JsEu/点播.php?id=44038
 
-私人订制,http://103.45.68.47:666/gy/gy_hbbH/点播.php?id=43942
+私人订制,http://103.45.68.47:666/gy/gy_JsEu/点播.php?id=43942
 
-第一炉香,http://103.45.68.47:666/gy/gy_hbbH/点播.php?id=39243
+第一炉香,http://103.45.68.47:666/gy/gy_JsEu/点播.php?id=39243
 
-愤怒的小孩,http://103.45.68.47:666/gy/gy_hbbH/点播.php?id=38295
+愤怒的小孩,http://103.45.68.47:666/gy/gy_JsEu/点播.php?id=38295
 
-两只老虎,http://103.45.68.47:666/gy/gy_hbbH/点播.php?id=38194
+两只老虎,http://103.45.68.47:666/gy/gy_JsEu/点播.php?id=38194
 
-外太空的莫扎特,http://103.45.68.47:666/gy/gy_hbbH/点播.php?id=31244
+外太空的莫扎特,http://103.45.68.47:666/gy/gy_JsEu/点播.php?id=31244
 
-南京!南京!,http://103.45.68.47:666/gy/gy_hbbH/点播.php?id=31126
+南京!南京!,http://103.45.68.47:666/gy/gy_JsEu/点播.php?id=31126
 
-兔侠传奇,http://103.45.68.47:666/gy/gy_hbbH/点播.php?id=27315
+兔侠传奇,http://103.45.68.47:666/gy/gy_JsEu/点播.php?id=27315
 
-长安道,http://103.45.68.47:666/gy/gy_hbbH/点播.php?id=27273
+长安道,http://103.45.68.47:666/gy/gy_JsEu/点播.php?id=27273
 
-求求你表扬我,http://103.45.68.47:666/gy/gy_hbbH/点播.php?id=26785
+求求你表扬我,http://103.45.68.47:666/gy/gy_JsEu/点播.php?id=26785
 
-即日启程,http://103.45.68.47:666/gy/gy_hbbH/点播.php?id=3321
+即日启程,http://103.45.68.47:666/gy/gy_JsEu/点播.php?id=3321
 
-赛车总动员2普通话版,http://103.45.68.47:666/gy/gy_hbbH/点播.php?id=404
+赛车总动员2普通话版,http://103.45.68.47:666/gy/gy_JsEu/点播.php?id=404
 
 
 
