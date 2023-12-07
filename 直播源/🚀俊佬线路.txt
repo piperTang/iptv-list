@@ -1710,6 +1710,8 @@ CHC家庭影院,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/in
 60帧极致蓝光,http://epg.112114.xyz/douyu/747764
 经典神剧,http://epg.112114.xyz/douyu/3700024
 华语经典,http://epg.112114.xyz/douyu/434971
+1905国际,http://47.109.155.164/vv/1905.php?id=1905a
+1905国内,http://47.109.155.164/vv/1905.php?id=1905b
 欢笑剧场4K,http://193.233.206.48/电视直播源分享群-212710857.php?/PLTV/&auth=231018&ip=&id=hxjc
 欢笑剧场4K,http://193.233.206.48/电视直播源分享群-212710857.php?/PLTV/&auth=231018&ip=&id=hxjc4k
 都市剧场,http://193.233.206.48/电视直播源分享群-212710857.php?/PLTV/&auth=231018&ip=&id=dsjc
