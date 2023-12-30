@@ -880,7 +880,7 @@ TVBS NEWS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV31.m3u8
 华视综艺,https://ytm2.yuanhsing.cf/TBSCTSSHOW.m3u8
 华视戏剧,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV12.m3u8
 华视戏剧,https://ytm2.yuanhsing.cf/ctsprog.m3u8
-大立電視,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
+大立电视,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 番薯台,http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8
 八大电视,https://ytm2.yuanhsing.cf/GTVDRAMA.m3u8
 大立电视,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
@@ -903,7 +903,7 @@ MOMO1台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV04.m3u8
 MOMO2台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV05.m3u8
 三立新闻,https://yt-stream.livednow.com/stream/FoBfXvlOR6I/master.m3u8
 三立新闻+,https://yt-stream.livednow.com/stream/oZdzzvxTfUY/master.m3u8
-中天新聞2,https://yt-stream.livednow.com/stream/WPfPjbOLNfE/master.m3u8
+中天新闻,https://yt-stream.livednow.com/stream/WPfPjbOLNfE/master.m3u8
 中天亚洲台,https://yt-stream.livednow.com/stream/s2waUruqze4/master.m3u8
 台视新闻台,https://yt-stream.livednow.com/stream/xL0ch83RAK8/master.m3u8
 公视新闻台,https://yt-stream.livednow.com/stream/quwqlazU-c8/master.m3u8
@@ -1676,6 +1676,9 @@ CHC家庭影院,http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/jbtygqC
 
 4K,#genre#
 CCTV4K,http://[2409:8087:2001:20:2800:0:df6e:eb13]/ott.mobaibox.com/PLTV/3/224/3221228228/index.m3u8
+CCTV4K,http://[2409:8087:2001:20:2800:0:df6e:eb26]:80/ott.mobaibox.com/PLTV/3/224/3221228472/index.m3u8
+CCTV4K,http://[2409:8087:2001:20:2800:0:df6e:eb12]/wh7f454c46tw4259108076_496521789/ott.mobaibox.com/PLTV/3/224/3221228228/index.m3u8
+CCTV4K,http://cfss.cc/api/ysp/cctv4k.m3u8
 CCTV4K,http://liveop.cctv.cn/hls/4KHD/playlist.m3u8   
 CCTV4K,http://liveop.cctv.cn/hls/4KHD/playlist.m3u8?zzhongd
 CCTV4K,http://193.233.206.48/电视直播源分享群-212710857.php?/PLTV/&auth=231018&ip=&id=cctv4k
