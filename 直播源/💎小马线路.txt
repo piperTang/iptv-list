@@ -2,10 +2,10 @@
 公众号【小马网络科技园】,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg6uyj4QUosO5G.mp4
 qq群【869256826】,http://15799848.s21v.faiusr.com/58/ABUIABA6GAAg3q6M5gUohPidmQc.mp4
 更新于,http://antiserver.kuwo.cn/anti.s?rid=MUSIC_1583215&response=res&format=mp4&type=convert_url
-23年12月24日,http://antiserver.kuwo.cn/anti.s?rid=MUSIC_28470656&response=res&format=mp4&type=convert_url
-测试,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001013/index.m3u8
-测试北京,https://gyssi.link/iptv/chinaiptv/%E5%8C%97%E4%BA%AC.m3u
-测试云南,https://gyssi.link/iptv/chinaiptv/%E4%BA%91%E5%8D%97.m3u
+24年1月1日,http://antiserver.kuwo.cn/anti.s?rid=MUSIC_28470656&response=res&format=mp4&type=convert_url
+祝大家,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001013/index.m3u8
+元旦,https://gyssi.link/iptv/chinaiptv/%E5%8C%97%E4%BA%AC.m3u
+快乐,https://gyssi.link/iptv/chinaiptv/%E4%BA%91%E5%8D%97.m3u
 测试重庆https://gyssi.link/iptv/chinaiptv/%E9%87%8D%E5%BA%86.m3u
 测试凤凰卫视资讯台,http://120.40.62.120:8888/rtp/239.61.2.183:9086
 测试凤凰卫视中文台,http://120.40.62.120:8888/rtp/239.61.2.184:9092
