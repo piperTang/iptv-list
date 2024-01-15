@@ -1816,6 +1816,13 @@ MV音乐,http://zzy789.xyz/douyu1.php?id=3870925
 罗城综合,http://111.12.75.177:9100/lctvlive/lch.m3u8
 
 🌴｜清新福建,#genre#
+海峡卫视,http://110.86.15.66:9901/tsfile/live/0150_1.m3u8?key=txiptv&playlive=1&authid=0
+福建公共,http://110.86.15.66:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
+福建体育,http://110.86.15.66:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
+福建综合,http://110.86.15.66:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
+福建电视剧,http://110.86.15.66:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
+福建少儿,http://110.86.15.66:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
+福建经济,http://110.86.15.66:9901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
 福州综合,http://live.zohi.tv/video/s10001-fztv-1/index.m3u8
 福州生活,http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
 漳州一套,http://31182.hlsplay.aodianyun.com/lms_31182/tv_channel_175.m3u8
