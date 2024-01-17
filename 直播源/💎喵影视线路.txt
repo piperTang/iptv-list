@@ -210,7 +210,46 @@ CCTV8,http://111.20.35.103:6610/yinhe/2/ch00000090990000001869/index.m3u8?virtua
 CCTV4,http://219.140.56.34:3333/tsfile/live/1004_1.m3u8
 CCTV1,http://222.81.86.42:8060/hls/ch3/ch3.m3u8
 
+综合,#genre#
+CCTV13新闻,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
+浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
+CCTV1,http://124.222.142.65:5678/zhibo/index.php?id=cctv1
+CCTV2,http://124.222.142.65:5678/zhibo/index.php?id=cctv2
+CCTV3,http://124.222.142.65:5678/zhibo/index.php?id=cctv3
+CCTV4,http://124.222.142.65:5678/zhibo/index.php?id=cctv4
+CCTV5,http://124.222.142.65:5678/zhibo/index.php?id=cctv5
+CCTV6,http://124.222.142.65:5678/zhibo/index.php?id=cctv6
+CCTV7,http://124.222.142.65:5678/zhibo/index.php?id=cctv7
+CCTV8,http://124.222.142.65:5678/zhibo/index.php?id=cctv8
+CCTV9,http://124.222.142.65:5678/zhibo/index.php?id=cctv9
+CCTV10,http://124.222.142.65:5678/zhibo/index.php?id=cctv10
+CCTV11,http://124.222.142.65:5678/zhibo/index.php?id=cctv11
+CCTV12,http://124.222.142.65:5678/zhibo/index.php?id=cctv12
+CCTV13,http://124.222.142.65:5678/zhibo/index.php?id=cctv13
+CCTV14,http://124.222.142.65:5678/zhibo/index.php?id=cctv14
+CCTV15,http://124.222.142.65:5678/zhibo/index.php?id=cctv15
+CCTV17,http://124.222.142.65:5678/zhibo/index.php?id=cctv17
+CCTV5+,http://124.222.142.65:5678/zhibo/index.php?id=cctv5p
 
+东方卫视,http://124.222.142.65:5678/zhibo/index.php?id=dfws
+重庆卫视,http://124.222.142.65:5678/zhibo/index.php?id=cqws
+吉林卫视,http://124.222.142.65:5678/zhibo/index.php?id=jlws
+辽宁卫视,http://124.222.142.65:5678/zhibo/index.php?id=lnws
+内蒙古卫视,http://124.222.142.65:5678/zhibo/index.php?id=nmws
+宁夏卫视,http://124.222.142.65:5678/zhibo/index.php?id=nxws
+甘肃卫视,http://124.222.142.65:5678/zhibo/index.php?id=gsws
+青海卫视,http://124.222.142.65:5678/zhibo/index.php?id=qhws
+陕西卫视,http://124.222.142.65:5678/zhibo/index.php?id=sxws
+山东卫视,http://124.222.142.65:5678/zhibo/index.php?id=sdws
+湖北卫视,http://124.222.142.65:5678/zhibo/index.php?id=hubws
+湖南卫视,http://124.222.142.65:5678/zhibo/index.php?id=hunws
+江西卫视,http://124.222.142.65:5678/zhibo/index.php?id=jxws
+江苏卫视,http://124.222.142.65:5678/zhibo/index.php?id=jsws
+大湾区卫视,http://124.222.142.65:5678/zhibo/index.php?id=dwqws
+广东卫视,http://124.222.142.65:5678/zhibo/index.php?id=gdws
+四川卫视,http://124.222.142.65:5678/zhibo/index.php?id=scws
+西藏卫视,http://124.222.142.65:5678/zhibo/index.php?id=xzws
+海南卫视,http://124.222.142.65:5678/zhibo/index.php?id=xjws
 
 移动央卫,#genre#
 CCTV-1综合,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8
