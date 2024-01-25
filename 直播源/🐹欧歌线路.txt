@@ -1,4 +1,4 @@
-//🇨🇳欧歌2024-01-25 03:03:12整合本接口
+//🇨🇳欧歌2024-01-26 03:03:18整合本接口
 
 {
 "wallpaper":"./t/",
@@ -12,7 +12,7 @@
 {"name":"TV","type":0,"url":"https://fanmingming.com/txt?url=https%3A%2F%2Flive.fanmingming.com%2Ftv%2Fm3u%2Fipv6.m3u","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}],
 "sites": [
 {"key":"豆瓣2","name":"📢公众号欧歌app榜单 tv.nxog.top","type":3,"api":"csp_Douban","searchable":0},
-{"key":"豆瓣1","name":"📢公告公众号欧歌app❤接口更新:1/24❤                         👉公众号欧歌app 网址 tv.nxog.top  👈","type":3,"api":"csp_Douban","searchable":0},
+{"key":"豆瓣1","name":"📢公众号欧歌app公告❤更新:1/25❤ ","type":3,"api":"csp_Notice","searchable":0,"changeable": 0,"jar":"./jar.php?id=xx;md5;18ee45921e80c33623b4c0561970666a","ext": "http://nxog.eu.org/nxog/ts/?b=公众号欧歌app"},
 
 
     //jar
