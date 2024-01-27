@@ -1,0 +1,2 @@
+<html><head>
+</head><body><p><a><script type="text/javascript"> window.location.href="http://www.sanfengyun.com/webstop/recordstop.html";</script></a></p></body></html>
