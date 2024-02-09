@@ -1951,6 +1951,16 @@ Bestv赛事6,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001154/in
 家有购物,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001244/index.m3u8
 快乐购,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001368/index.m3u8
 
+肥羊高清春晚,#genre#
+CCTV4K-HLG-36Mbps-25FPS-[帧率阉割],http://1.14.131.61:5828/cctv4k.php
+CCTV4K-HLG-36Mbps-50FPS-GuDou满血,http://1.14.131.61:5678/gd4k.php
+CCTV4K-HLG-36Mbps-50FPS-移动满血,http://kjsp.aikan.miguvideo.com/PLTV/88888888/224/3221233679/index.m3u8
+CCTV4K-HLG-36Mbps-50FPS-满血臻彩视听,http://1.14.131.61:8765/av3a4k50fps.php
+CCTV8K-HLG-50FPS-AV3A-臻彩视听,http://1.14.131.61:8654/av3a8k50fps.php
+移动8K-1-150Mbps-50FPS-HLG-HEVC,http://kjsp.aikan.miguvideo.com/PLTV/88888888/224/3221233652/index.m3u8
+移动8K-2-150Mbps-50FPS-HLG-HEVC,http://kjsp.aikan.miguvideo.com/PLTV/88888888/224/3221235532/index.m3u8
+移动8K-3-150Mbps-50FPS-HLG-AVS3,http://kjsp.aikan.miguvideo.com/PLTV/88888888/224/3221235537/index.m3u8
+
 4K,#genre#
 CCTV4K,http://[2409:8087:2001:20:2800:0:df6e:eb13]/ott.mobaibox.com/PLTV/3/224/3221228228/index.m3u8
 CCTV4K,http://[2409:8087:2001:20:2800:0:df6e:eb26]:80/ott.mobaibox.com/PLTV/3/224/3221228472/index.m3u8
