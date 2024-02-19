@@ -1,9 +1,9 @@
 广东频道,#genre#
 广东珠江,http://218.17.143.73:9901/tsfile/live/1000_1.m3u8?key=txiptv&url=tvzb.com
 广东公共,http://218.17.143.73:9901/tsfile/live/1002_1.m3u8?key=txiptv&url=tvzb.com
-大湾区卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226218/index.m3u8?
 大湾区卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226218/index.m3u8
 大湾区卫视,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226218/index.m3u8?
+大湾区卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226218/index.m3u8?
 大湾区卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226218/index.m3u8?#http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226218/index.m3u8
 大湾区卫视,http://111.20.35.103:6610/000000001000/1000000002000011619/index.m3u8?channel-id=ystenlive&Contentid=1000000002000011619&livemode=1&stbId=00
 广东体育,http://218.17.143.73:9901/tsfile/live/1003_1.m3u8?key=txiptv&url=tvzb.com
@@ -12,4 +12,3 @@
 嘉佳卡通,http://119.62.142.2:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=0&authid=0
 汕头综合,http://120.238.13.198:8000/hls/65/index.m3u8
 清远公共,https://zqy-live.nanyuecloud.com/qingyuandianshi/qingyuandianshistream.m3u8?auth_key=601634549257-0-0-73ab89e29b6bf8ef7b5144cf0c04935a
-云浮综合,https://livestream.oeeee.com/slive/17806.m3u8
