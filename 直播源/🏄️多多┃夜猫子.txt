@@ -40,11 +40,11 @@
         --color-brand1-1: #F0F6FF !important;
     }
 </style>
-<script src=https://atomgit-opensource.oss-cn-beijing.aliyuncs.com/public/i18n/0.0.5/codeup-assets_develop.json?timestamp=1708542204003"></script>
+<script src=https://atomgit-opensource.oss-cn-beijing.aliyuncs.com/public/i18n/0.0.5/codeup-assets_develop.json?timestamp=1708628604339"></script>
 
 <link rel="stylesheet" href="https://atomgit-opensource.oss-cn-beijing.aliyuncs.com/public/yunxiao-fe/teamix-ui/1.5.3/style/style/yunxiao-v5.min.css" />
 <link rel="stylesheet" href="https://atomgit-opensource.oss-cn-beijing.aliyuncs.com/public/ais-fed/navigation-sdk/2.2.69/next-indexWithoutTeamixUI.css" />
-        <link rel="stylesheet" href="https://atomgit-opensource.oss-cn-beijing.aliyuncs.com/ais-fed/code-assets/5.0.42-o/index.css?timestamp=1708542204003">
+        <link rel="stylesheet" href="https://atomgit-opensource.oss-cn-beijing.aliyuncs.com/ais-fed/code-assets/5.0.42-o/index.css?timestamp=1708628604339">
                 </head>
     <body>
                     
@@ -156,6 +156,6 @@
 
 
 
-        <script src="https://atomgit-opensource.oss-cn-beijing.aliyuncs.com/ais-fed/code-assets/5.0.42-o/index.js?timestamp=1708542204003" nonce=""></script>
+        <script src="https://atomgit-opensource.oss-cn-beijing.aliyuncs.com/ais-fed/code-assets/5.0.42-o/index.js?timestamp=1708628604339" nonce=""></script>
                 </body>
     </html>
