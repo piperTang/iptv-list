@@ -7,6 +7,8 @@
 凤凰中文,欢迎访问http://tonkiang.us搜索最新直播源
 凤凰中文,http://110.87.27.146:8888/rtp/239.61.2.184:9092
 凤凰中文,欢迎访问http://tonkiang.us搜索最新直播源
+凤凰中文,http://110.72.75.63:808/hls/62/index.m3u8
+凤凰中文,欢迎访问http://tonkiang.us搜索最新直播源
 凤凰中文,http://221.7.175.154:8445/tsfile/live/1020_1.m3u8
 凤凰中文,欢迎访问http://tonkiang.us搜索最新直播源
 凤凰中文,http://110.72.85.32:808/hls/62/index.m3u8
@@ -29,13 +31,13 @@
 凤凰中文,欢迎访问http://tonkiang.us搜索最新直播源
 凤凰中文,http://183.133.107.100:8899/rtp/233.50.200.191:5140
 凤凰中文,欢迎访问http://tonkiang.us搜索最新直播源
+凤凰中文,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226546/index.m3u8
+凤凰中文,欢迎访问http://tonkiang.us搜索最新直播源
 凤凰中文,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226547/index.m3u8
 凤凰中文,欢迎访问http://tonkiang.us搜索最新直播源
 凤凰中文,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV43.m3u8
 凤凰中文,欢迎访问http://tonkiang.us搜索最新直播源
 凤凰中文,http://110.85.184.112:9999/rtp/239.61.2.183:9086
-凤凰中文,欢迎访问http://tonkiang.us搜索最新直播源
-凤凰中文,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226546/index.m3u8
 凤凰中文,欢迎访问http://tonkiang.us搜索最新直播源
 凤凰中文,http://110.85.184.112:9999/rtp/239.61.2.184:9092
 凤凰中文,欢迎访问http://tonkiang.us搜索最新直播源
@@ -64,8 +66,6 @@
 凤凰中文,http://162.19.247.76:22222/live/fenghuangweishi/index.m3u8
 凤凰中文,欢迎访问http://tonkiang.us搜索最新直播源
 凤凰中文,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8576/.m3u8
-凤凰中文,欢迎访问http://tonkiang.us搜索最新直播源
-凤凰中文,http://playtimeshift-live.ifeng.com/timeshift/live/06OLEEWQKN4/timeshift.m3u8?txKbps=702&delay=967
 凤凰中文,欢迎访问http://tonkiang.us搜索最新直播源
 凤凰中文,http://115.199.111.165:9999/rtp/233.50.200.191:5140
 凤凰中文,欢迎访问http://tonkiang.us搜索最新直播源
@@ -113,8 +113,6 @@
 凤凰中文,欢迎访问http://tonkiang.us搜索最新直播源
 凤凰中文,http://182.139.177.111:5555/udp/239.93.1.9:2192
 凤凰中文,欢迎访问http://tonkiang.us搜索最新直播源
-凤凰中文,https://epg.pw/stream/9d3ae35ac5340698211b15afabadf8d01cadfd8f2e804854fe854eb39412924a.m3u8
-凤凰中文,欢迎访问http://tonkiang.us搜索最新直播源
 凤凰中文,http://118.254.156.224:8888/udp/239.76.253.135:9000
 凤凰中文,欢迎访问http://tonkiang.us搜索最新直播源
 凤凰中文,http://110.72.79.121:808/hls/83/index.m3u8
@@ -128,6 +126,8 @@
 凤凰中文,http://110.81.206.138:50080/tsfile/live/23020_1.m3u8
 凤凰中文,欢迎访问http://tonkiang.us搜索最新直播源
 凤凰中文,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002275/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+凤凰中文,欢迎访问http://tonkiang.us搜索最新直播源
+凤凰中文,https://epg.pw/stream/9d3ae35ac5340698211b15afabadf8d01cadfd8f2e804854fe854eb39412924a.m3u8
 凤凰中文,欢迎访问http://tonkiang.us搜索最新直播源
 凤凰中文,http://182.139.42.66:8880/udp/239.93.1.9:2192
 凤凰中文,欢迎访问http://tonkiang.us搜索最新直播源
@@ -149,9 +149,9 @@
 凤凰中文,欢迎访问http://tonkiang.us搜索最新直播源
 凤凰中文,http://222.217.246.54:8282/tsfile/live/1083_1.m3u8
 凤凰资讯,欢迎访问http://tonkiang.us搜索最新直播源
-凤凰资讯,http://110.85.184.112:9999/rtp/239.61.2.183:9086
-凤凰资讯,欢迎访问http://tonkiang.us搜索最新直播源
 凤凰资讯,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226546/index.m3u8
+凤凰资讯,欢迎访问http://tonkiang.us搜索最新直播源
+凤凰资讯,http://110.85.184.112:9999/rtp/239.61.2.183:9086
 凤凰资讯,欢迎访问http://tonkiang.us搜索最新直播源
 凤凰资讯,http://117.28.32.180:4022/rtp/239.61.2.183:9086
 凤凰资讯,欢迎访问http://tonkiang.us搜索最新直播源
@@ -159,9 +159,11 @@
 凤凰资讯,欢迎访问http://tonkiang.us搜索最新直播源
 凤凰资讯,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226546/index.m3u8
 凤凰资讯,欢迎访问http://tonkiang.us搜索最新直播源
+凤凰资讯,http://221.7.175.154:8445/tsfile/live/1021_1.m3u8
+凤凰资讯,欢迎访问http://tonkiang.us搜索最新直播源
 凤凰资讯,http://[2409:8087:2001:20:2800:0:df6e:eb19]:80/ott.mobaibox.com/PLTV/3/224/3221228524/1.m3u8
 凤凰资讯,欢迎访问http://tonkiang.us搜索最新直播源
-凤凰资讯,http://221.7.175.154:8445/tsfile/live/1021_1.m3u8
+凤凰资讯,http://110.72.75.63:808/hls/63/index.m3u8
 凤凰资讯,欢迎访问http://tonkiang.us搜索最新直播源
 凤凰资讯,http://118.112.63.169:5555/udp/239.93.1.4:2191
 凤凰资讯,欢迎访问http://tonkiang.us搜索最新直播源
@@ -173,13 +175,9 @@
 凤凰资讯,欢迎访问http://tonkiang.us搜索最新直播源
 凤凰资讯,http://118.113.245.46:55555/udp/239.93.0.118:2191
 凤凰资讯,欢迎访问http://tonkiang.us搜索最新直播源
-凤凰资讯,http://171.217.113.144:4022/udp/239.93.0.118:2191
-凤凰资讯,欢迎访问http://tonkiang.us搜索最新直播源
 凤凰资讯,http://110.72.85.1:808/hls/1/index.m3u8
 凤凰资讯,欢迎访问http://tonkiang.us搜索最新直播源
 凤凰资讯,http://110.72.103.246:808/hls/1/index.m3u8
-凤凰资讯,欢迎访问http://tonkiang.us搜索最新直播源
-凤凰资讯,http://113.218.137.146:9999/udp/239.76.246.8:1234
 凤凰资讯,欢迎访问http://tonkiang.us搜索最新直播源
 凤凰资讯,http://198.16.100.90:8278/phoenixinfo_hd/playlist.m3u8?tid=MC1C1591244615912446&ct=19225&tsum=a4fd6441d252c98ea603b13ef749a84e
 凤凰资讯,欢迎访问http://tonkiang.us搜索最新直播源
@@ -190,6 +188,8 @@
 凤凰资讯,http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=156407
 凤凰资讯,欢迎访问http://tonkiang.us搜索最新直播源
 凤凰资讯,http://110.81.206.138:50080/tsfile/live/23019_1.m3u8
+凤凰资讯,欢迎访问http://tonkiang.us搜索最新直播源
+凤凰资讯,http://171.217.113.144:4022/udp/239.93.0.118:2191
 凤凰资讯,欢迎访问http://tonkiang.us搜索最新直播源
 凤凰资讯,http://125.69.91.30:55555/udp/239.93.0.118:2191
 凤凰资讯,欢迎访问http://tonkiang.us搜索最新直播源
@@ -287,8 +287,6 @@
 无线新闻,欢迎访问http://tonkiang.us搜索最新直播源
 无线新闻,http://198.16.100.90:8278/inews_twn/playlist.m3u8?tid=MD8D9734527497345274&ct=19249&tsum=88c5d57f9fdce89810d61e1001910a80
 无线新闻,欢迎访问http://tonkiang.us搜索最新直播源
-无线新闻,https://epg.pw/stream/c4ed6ad793bc69002f22845063b4b073c5aff6ded2f6cd72c47a6c890de4ad45.ctv
-无线新闻,欢迎访问http://tonkiang.us搜索最新直播源
 无线新闻,http://live.cooltv.top/tv/tvb.php?id=0&hq
 无线新闻,欢迎访问http://tonkiang.us搜索最新直播源
 无线新闻,http://198.16.100.90:8278/inews_twn/playlist.m3u8?tid=MD8D9734527497345274&ct=19249&tsum=88c5d57f9fdce89810d61e1001910a80
@@ -296,6 +294,8 @@
 无线新闻,http://198.16.100.90:8278/inews_twn/playlist.m3u8?tid=MF7F8784108987841089&ct=19225&tsum=50d719a9ed62cc070153963585e6d9d3
 无线新闻,欢迎访问http://tonkiang.us搜索最新直播源
 无线新闻,http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=153399
+无线新闻,欢迎访问http://tonkiang.us搜索最新直播源
+无线新闻,https://epg.pw/stream/c4ed6ad793bc69002f22845063b4b073c5aff6ded2f6cd72c47a6c890de4ad45.ctv
 无线新闻,欢迎访问http://tonkiang.us搜索最新直播源
 无线新闻,https://epg.pw/stream/8a901f8dbc93b286fc53ceceda0a7198f41dfd91a2ca2a528e314aea87eb806b.m3u8
 无线新闻,欢迎访问http://tonkiang.us搜索最新直播源
@@ -724,9 +724,9 @@ J2,http://sc2022.stream-link.org/tv2306.php?id=h03
 TV BRICS,欢迎访问http://tonkiang.us搜索最新直播源
 TV BRICS,http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
 TVB翡翠,欢迎访问http://tonkiang.us搜索最新直播源
-TVB翡翠,https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
-TVB翡翠,欢迎访问http://tonkiang.us搜索最新直播源
 TVB翡翠,https://epg.pw/stream/fe02817d95c6d58f41e1ea8208b5a8c9462bf525b153819b0c3918406127925a.m3u8
+TVB翡翠,欢迎访问http://tonkiang.us搜索最新直播源
+TVB翡翠,https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
 TVB翡翠,欢迎访问http://tonkiang.us搜索最新直播源
 TVB翡翠,http://r.jdshipin.com/qClQf
 TVB翡翠,欢迎访问http://tonkiang.us搜索最新直播源
@@ -748,9 +748,9 @@ TVB翡翠,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=1533
 TVB翡翠,欢迎访问http://tonkiang.us搜索最新直播源
 TVB翡翠,http://23.237.10.66:16410
 TVB翡翠,欢迎访问http://tonkiang.us搜索最新直播源
-TVB翡翠,https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
-TVB翡翠,欢迎访问http://tonkiang.us搜索最新直播源
 TVB翡翠,https://epg.pw/stream/fe02817d95c6d58f41e1ea8208b5a8c9462bf525b153819b0c3918406127925a.m3u8
+TVB翡翠,欢迎访问http://tonkiang.us搜索最新直播源
+TVB翡翠,https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
 TVB翡翠,欢迎访问http://tonkiang.us搜索最新直播源
 TVB翡翠,http://r.jdshipin.com/qClQf
 TVB翡翠,欢迎访问http://tonkiang.us搜索最新直播源
@@ -772,11 +772,11 @@ TVB翡翠,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=1533
 TVB翡翠,欢迎访问http://tonkiang.us搜索最新直播源
 TVB翡翠,http://198.16.100.90:8278/jade_twn/playlist.m3u8?tid=ME6E1330319113303191&ct=19225&tsum=d76985c4965fd63807e131035f66af09
 TVB翡翠,欢迎访问http://tonkiang.us搜索最新直播源
+TVB翡翠,http://198.16.100.90:8278/jade_twn/playlist.m3u8?tid=MDAD1890217018902170&ct=19249&tsum=36346362d72a1e85802fa5d3eee3861c
+TVB翡翠,欢迎访问http://tonkiang.us搜索最新直播源
 TVB翡翠,https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
 TVB翡翠,欢迎访问http://tonkiang.us搜索最新直播源
 TVB翡翠,https://edge6a.v2h-cdn.com/jade/jade.stream/playlist.m3u8
-TVB翡翠,欢迎访问http://tonkiang.us搜索最新直播源
-TVB翡翠,http://198.16.100.90:8278/jade_twn/playlist.m3u8?tid=MDAD1890217018902170&ct=19249&tsum=36346362d72a1e85802fa5d3eee3861c
 TVB翡翠,欢迎访问http://tonkiang.us搜索最新直播源
 TVB翡翠,https://pi.0472.org/tv/fct.php?auth=230918
 TVB翡翠,欢迎访问http://tonkiang.us搜索最新直播源
@@ -792,23 +792,21 @@ TVB翡翠,http://198.16.100.90:8278/jade_twn/playlist.m3u8?tid=ME6E1330319113303
 TVB翡翠,欢迎访问http://tonkiang.us搜索最新直播源
 TVB翡翠,http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=571187
 TVB翡翠,欢迎访问http://tonkiang.us搜索最新直播源
-TVB翡翠,http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=153505
+TVB翡翠,https://epg.pw/stream/fe02817d95c6d58f41e1ea8208b5a8c9462bf525b153819b0c3918406127925a.m3u8
 TVB翡翠,欢迎访问http://tonkiang.us搜索最新直播源
 TVB翡翠,https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
 TVB翡翠,欢迎访问http://tonkiang.us搜索最新直播源
-TVB翡翠,https://epg.pw/stream/fe02817d95c6d58f41e1ea8208b5a8c9462bf525b153819b0c3918406127925a.m3u8
+TVB翡翠,https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
 TVB翡翠,欢迎访问http://tonkiang.us搜索最新直播源
 TVB翡翠,http://198.16.100.90:8278/jade_twn/playlist.m3u8?tid=ME6E1330319113303191&ct=19225&tsum=d76985c4965fd63807e131035f66af09
 TVB翡翠,欢迎访问http://tonkiang.us搜索最新直播源
-TVB翡翠,https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
-TVB翡翠,欢迎访问http://tonkiang.us搜索最新直播源
 TVB翡翠,https://cloudfront41.lexanetwork.com:1344/relay01/livestream002.sdp/playlist.m3u8
-TVB翡翠,欢迎访问http://tonkiang.us搜索最新直播源
-TVB翡翠,http://162.244.81.145:3333/live/telebostonrtb/playlist.m3u8
 TVB翡翠,欢迎访问http://tonkiang.us搜索最新直播源
 TVB翡翠,http://tvdrs.wsrtv.com.cn:8100/channellive/ch1.flv
 TVB翡翠,欢迎访问http://tonkiang.us搜索最新直播源
-TVB翡翠,https://rpn1.bozztv.com/36bay2/gusa-tvsrarecollectibles/index.m3u8
+TVB翡翠,http://162.244.81.145:3333/live/telebostonrtb/playlist.m3u8
+TVB翡翠,欢迎访问http://tonkiang.us搜索最新直播源
+TVB翡翠,http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=153505
 TVB翡翠,欢迎访问http://tonkiang.us搜索最新直播源
 TVB翡翠,http://abcnew.site:8880/3ca7123n11/ewfr543ds/71040
 TVB翡翠,欢迎访问http://tonkiang.us搜索最新直播源
@@ -829,6 +827,9 @@ TVB翡翠,欢迎访问http://tonkiang.us搜索最新直播源
 TVB翡翠,http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxA5oJl8b5Icz-0MXK7POxcc/ts
 TVB翡翠,欢迎访问http://tonkiang.us搜索最新直播源
 TVB翡翠,https://sc2022.stream-link.org/tv2306.php?id=h02&checkedby:iptvcat.com
+
+TVB翡翠,欢迎访问http://tonkiang.us搜索最新直播源
+TVB翡翠,https://sc2022.stream-link.org/tv2306.php?id=h01&checkedby:iptvcat.com
 
 TVB明珠台,欢迎访问http://tonkiang.us搜索最新直播源
 TVB明珠台,http://198.16.100.90:8278/pearl_twn/playlist.m3u8?tid=MC6C7041327570413275&ct=19226&tsum=681972baf66d69caf7cccc92a90e5aad
@@ -1158,6 +1159,8 @@ CNA新闻,https://14033.live.streamtheworld.com/938NOW_PREM.aac
 CNA新闻,欢迎访问http://tonkiang.us搜索最新直播源
 CNA新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 CNA新闻,欢迎访问http://tonkiang.us搜索最新直播源
+CNA新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+CNA新闻,欢迎访问http://tonkiang.us搜索最新直播源
 CNA新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 CNA新闻,欢迎访问http://tonkiang.us搜索最新直播源
 CNA新闻,http://198.16.100.90:8278/cna/playlist.m3u8?tid=MFAF1272681512726815&ct=19225&tsum=4d6a781648283b1bb018bc5c098432d0
@@ -1182,8 +1185,6 @@ CNA新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe
 CNA新闻,欢迎访问http://tonkiang.us搜索最新直播源
 CNA新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 CNA新闻,欢迎访问http://tonkiang.us搜索最新直播源
-CNA新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
-CNA新闻,欢迎访问http://tonkiang.us搜索最新直播源
 CNA新闻,https://sc2022.stream-link.org/tv2306.php?id=e06&checkedby:iptvcat.com
 
 CNA新闻,欢迎访问http://tonkiang.us搜索最新直播源
@@ -1194,8 +1195,6 @@ CNA新闻,欢迎访问http://tonkiang.us搜索最新直播源
 CNA新闻,http://2022.stream-link.org/live/1603999174
 CNA新闻,欢迎访问http://tonkiang.us搜索最新直播源
 CNA新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
-BBC新闻,欢迎访问http://tonkiang.us搜索最新直播源
-BBC新闻,http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=45331
 BBC新闻,欢迎访问http://tonkiang.us搜索最新直播源
 BBC新闻,http://myott.top/stream/DT6QU63K5VX/85.m3u8
 BBC新闻,欢迎访问http://tonkiang.us搜索最新直播源
@@ -1220,6 +1219,8 @@ BBC新闻,欢迎访问http://tonkiang.us搜索最新直播源
 BBC新闻,http://2hubs.ddns.net:25461/BabNour/telegrramm/59863
 BBC新闻,欢迎访问http://tonkiang.us搜索最新直播源
 BBC新闻,http://sc2022.stream-link.org/list.php?id=e005
+BBC新闻,欢迎访问http://tonkiang.us搜索最新直播源
+BBC新闻,http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=45331
 BBC新闻,欢迎访问http://tonkiang.us搜索最新直播源
 BBC新闻,https://ktpremium.com:443/M919HR/5577/26174?c=大马
 BBC新闻,欢迎访问http://tonkiang.us搜索最新直播源
@@ -1256,9 +1257,9 @@ BBC新闻,http://line.premiumpowers.net/play/live.php?mac=00:1A:79:BF:D2:44&exte
 BBC新闻,欢迎访问http://tonkiang.us搜索最新直播源
 BBC新闻,http://livetv.ktv.zone/60/play.m3u8
 BBC新闻,欢迎访问http://tonkiang.us搜索最新直播源
-BBC新闻,http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/Stream(02)/index.m3u8
-BBC新闻,欢迎访问http://tonkiang.us搜索最新直播源
 BBC新闻,https://rakuten-euronews-10-be.samsung.wurl.tv/playlist.m3u8
+BBC新闻,欢迎访问http://tonkiang.us搜索最新直播源
+BBC新闻,http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/Stream(02)/index.m3u8
 BBC新闻,欢迎访问http://tonkiang.us搜索最新直播源
 BBC新闻,http://198.16.100.90:8278/bbcnews_twn/playlist.m3u8?tid=MF3F9344101593441015&ct=19254&tsum=ee2dfdc43081584c1c81ddf78256bf30
 BBC新闻,欢迎访问http://tonkiang.us搜索最新直播源
