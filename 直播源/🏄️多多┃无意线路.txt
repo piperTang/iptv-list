@@ -8785,6 +8785,110 @@ Soda东南亚之旅,https://vdse.bdstatic.com//b6295e9776c2cd347716fc2447e27fac.
 香港台星空卫视,http://wouu.net:9977/udp/239.93.0.156:2193
 香港台星空卫视,http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=683118
 香港台星空卫视,http://203.80.165.14/stream/channelid/192561066?profile=pass
+香港备用港台32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream2/streamPlaylist.m3u8
+香港备用港台33,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream03/streamPlaylist.m3u8
+香港备用港台34,https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream02/streamPlaylist.m3u8
+香港备用港台35,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream02/streamPlaylist.m3u8
+香港备用香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+香港备用香港電台(RTHK 34),https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
+香港备用香港電台(RTHK 34),https://livedoc.cgtn.com/1000d/prog_index.m3u8
+香港备用EZTV1台,http://vvlive.eztv.vip:80/huawen1/huawen1.m3u8?auth_key=1661769627-0-0-3a16475ac0fa2a152a25661e8634fe39
+香港备用EZTV2台,http://vvlive.eztv.vip:80/huawen2/huawen2.m3u8?auth_key=1661418936-0-0-bc9f000c6daa2def0b71d5389778b0d3
+香港备用EZTV6台,http://vvlive.eztv.vip:80/huawen6/huawen6.m3u8?auth_key=1660814676-0-0-4d45d97f017e545dd368719f8dd48ffe
+香港备用凤凰资讯,http://112.19.171.156:9999/udp/239.93.0.118:2191
+香港备用凤凰卫视,http://112.19.171.156:9999/udp/239.93.0.162:2192
+香港备用凤凰资讯,http://112.19.171.156:9999/udp/239.93.0.118:2191
+香港备用凤凰卫视,http://112.19.171.156:9999/udp/239.93.0.162:2192
+香港备用CGNTV1,http://live.cgtn.com/1000/prog_index.m3u8
+香港备用CGNTV2,http://livear.cgtn.com/1000a/prog_index.m3u8
+香港备用CGNTV,http://livees.cgtn.com/1000e/prog_index.m3u8
+香港备用CGNTV3,http://liveru.cgtn.com/1000r/prog_index.m3u8
+香港备用CGNTV4,https://livedoc.cgtn.com/500d/prog_index.m3u8
+香港备用CGNTV5,http://live.cgtn.com/1000/prog_index.m3u8
+香港备用CGNTV6,http://livear.cgtn.com/1000a/prog_index.m3u8
+香港备用CGNTV7,http://livees.cgtn.com/1000e/prog_index.m3u8
+香港备用CGNTV8,http://liveru.cgtn.com/1000r/prog_index.m3u8
+香港备用CGNTV9,https://livedoc.cgtn.com/500d/prog_index.m3u8
+香港备用CGNTV10,http://liveru.cgtn.com/1000r/prog_index.m3u8
+香港备用CGNTV11,https://livedoc.cgtn.com/500d/prog_index.m3u8
+香港备用港台電視33,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream04/streamPlaylist.m3u8
+香港备用港台電視34,https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream04/streamPlaylist.m3u8
+香港备用耀才财经,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
+香港备用TVB翡翠,http://ali.hlspull.yximgs.com/live/huanqiuhklivefhwwjpthjyjtjjjxcxbfhjjfjvhdtjdvbtvjsjxjfsjjcvbctvbfc.flv
+香港备用J2,http://ali.hlspull.yximgs.com/live/huanqiuhklivefhwohdpthjyfiplhdftujfbvdimhdjnbjsjbcvxjfjsehbvbjtvbd2.flv
+香港备用J2,http://1.65.195.85:9981/stream/channelid/2082072924?profile=pass
+香港备用J2,http://sz.l68.fun:9001/bysid/82
+香港备用J2,http://bziyunshao.synology.me:8890/bysid/82
+香港备用TVB Pearl,http://ali.hlspull.yximgs.com/live/huanqiuhklivetcfjhvdjjxcodwoetjmncthvbstyreyhbnnvbdjjwthjyjtvbmj.flv
+香港备用TVB Pearl,http://bziyunshao.synology.me:8890/bysid/2
+香港备用TVB Pearl,https://s2.pub/cctv-6
+香港备用TVB Pearl,http://120.238.13.198:8000/hls/19/index.m3u8
+香港备用VIUTV,http://ali.hlspull.yximgs.com/live/huanqiuhklivefhtjjnjjdldjlujobnmjjhnbbmdjlpthjyjvjutv.flv
+香港备用VIUTV,http://bziyunshao.synology.me:8889/bysid/99
+香港备用VIUTV,http://ali.hlspull.yximgs.com/live/twlivefhtzznzzdldzluzobnmzzhnbbmdzlpthzyzvzutv.flv
+香港备用VIUTV6,http://ali.hlspull.yximgs.com/live/huanqiuhklivefhwjptdjbehjtyhbvhfjcvsjjfyjtvjutvsjx.flv
+香港备用VIUTV6,http://bziyunshao.synology.me:8889/bysid/96
+香港备用VIUTV6,https://s2.pub/cctv-8
+香港备用HOY76,http://bziyunshao.synology.me:8891/bysid/76
+香港备用HOY77,http://ali.hlspull.yximgs.com/live/huanqiuhkliveyvjojmfdyjjdjdjhdnowspjjlfjhjtycxjfjjojtspjjmehoytv.flv
+香港备用HOY77,http://bziyunshao.synology.me:8891/bysid/77
+香港备用HOY77,https://s2.pub/cctv-9
+香港备用HOY78,http://ali.hlspull.yximgs.com/live/huanqiuhklivejejcxlvofbncvshhjsjcvndfncvbdjpeyjhxchjsjjhjejjjyxxw.flv
+香港备用HOY78,http://bziyunshao.synology.me:8891/bysid/78
+香港备用HOY78,https://s2.pub/cctv-10
+香港备用TVB无线财经体育资讯1,http://ali.hlspull.yximgs.com/live/huanqiuhklivefhwylwpthjyjjfjxvjlmnduhyjmtvbwxcd.flv
+香港备用TVB无线财经体育资讯2,http://ali.hlspull.yximgs.com/live/huanqiuhklivefhwohdpthfgfbvcfghjyfjsjbcvxjvbxjsfjfjsehbvbjtvbd5.flv
+香港备用TVB无线财经体育资讯,https://ha.jmied.com/aa/aa.flv?auth_key=1661958232-0-0-3d9174957759709f8b53448167c0b6f6
+香港备用TVB无线财经体育资讯,http://live.cooltv.top/tv/tvb.php?id=2
+香港备用TVB无线财经体育资讯,http://hksc.vnetidc.hk:61282/bysid/85
+香港备用TVB无线新闻,http://ali.hlspull.yximgs.com/live/huanqiuhklivefhwjpthljjsjsjjbvdljdmnbjhdhyjyjtvbwxxw.flv
+香港备用TVB无线新闻,http://sz.l68.fun:9001/bysid/83
+香港备用TVB无线新闻,http://1.65.195.85:9981/stream/channelid/2051586642?profile=pass
+香港备用TVB无线新闻,http://bziyunshao.synology.me:8890/bysid/83
+香港备用TVB无线新闻,https://s2.pub/cctv-12
+香港备用TVB无线新闻,http://live.cooltv.top/tv/tvb.php?id=0
+香港备用TVB无线新闻,http://hksc.vnetidc.hk:61282/bysid/83
+香港备用TVB无线新闻,https://tvp22.sky4k.top/index1.php
+香港备用RTHK31,http://ali.hlspull.yximgs.com/live/huanqiuhklivehpjdthpthcvhnjujulsfjhcvbjuyhbnjyjthj31.flv
+香港备用RTHK32,http://ali.hlspull.yximgs.com/live/huanqiuhklivejpjjecxvjjusjfjjfdhnbthjjsjfwdtncyjthj32.flv
+香港备用RTHK32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream2/streamPlaylist.m3u8
+香港备用RTHK32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream1/streamPlaylist.m3u8
+香港备用RTHK32,http://bziyunshao.synology.me:8892/bysid/32
+香港备用RTHK32,https://s2.pub/cctv-15
+香港备用RTHK33,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream03/streamPlaylist.m3u8
+香港备用RTHK33,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream04/streamPlaylist.m3u8
+香港备用RTHK33,http://hksc.vnetidc.hk:61284/bysid/33
+香港备用RTHK34,https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream02/streamPlaylist.m3u8
+香港备用RTHK34,https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream04/streamPlaylist.m3u8
+香港备用RTHK35,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream02/streamPlaylist.m3u8
+香港备用TVB星河,http://ali.hlspull.yximgs.com/live/huanqiuhklivejjmjptvjsjjwxnhjjwjjtjjjtyfjsjjsjcfjxfjwmxjdtvbxh.flv
+香港备用TVB星河,https://s2.pub/cctv-16
+香港备用TVB星河(粤),http://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8
+香港备用TVB星河(粤),https://edge6a.v2h-cdn.com/xinghe/xinghe.stream/chunklist.m3u8
+香港备用TVB娱乐新闻,https://edge6a.v2h-cdn.com/enew/enew.stream/chunklist.m3u8
+香港备用TVB娱乐新闻,https://s2.pub/cctv-19
+香港备用TVB娱乐新闻,http://v2h.jdshipin.com/enew/enew.stream/chunklist.m3u8
+香港备用TVB功夫台,https://ali.hlspull.yximgs.com/live/12344.flv
+香港备用TVB功夫台,https://s2.pub/cctv-20
+香港备用TVB功夫台,http://v2h.jdshipin.com/asia_action/asia_action.stream/chunklist.m3u8
+香港备用耀才财经,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
+香港备用耀才财经,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8?wowzasessionid=64000
+香港备用耀才财经,https://v3.mediacast.hk/webcast/bshdlive-pc/playlist.m3u8
+香港备用耀才财经,https://v3.mediacast.hk/webcast/bshdlive-pc/chunklist_w99771165.m3u8
+香港备用大爱1台,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
+香港备用大爱2台,https://pulltv1.wanfudaluye.com/live/tv2.m3u8
+香港备用大爱2,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
+香港备用好消息,https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch1-2.m3u8
+香港备用香港佛陀,http://js1.amtb.cn/liveedge/_definst_/livetv/chunklist.m3u8
+香港备用香港佛陀,https://js1.amtb.cn/liveedge/_definst_/livetv/playlist.m3u8
+香港备用香港面包,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
+香港备用FTV-时装高清,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
+香港备用FASHION TV时装,http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8
+香港备用FASHION TV时装,http://lb.streaming.sk/fashiontv/stream/chunklist_w1906011378.m3u8
+香港备用FASHION TV时装,http://lb.streaming.sk/fashiontv/stream/chunklist_w1702070444.m3u8
+
+
+
 
 
 
@@ -8895,107 +8999,7 @@ Soda东南亚之旅,https://vdse.bdstatic.com//b6295e9776c2cd347716fc2447e27fac.
 台湾台三洋,http://livetv.skycf.eu.org/live.m3u8?c=12
 台湾台华视新闻台,http://livetv.skycf.eu.org/live.m3u8?c=13
 台湾台东森经财,http://livetv.skycf.eu.org/live.m3u8?c=14
-香港备用港台32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream2/streamPlaylist.m3u8
-香港备用港台33,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream03/streamPlaylist.m3u8
-香港备用港台34,https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream02/streamPlaylist.m3u8
-香港备用港台35,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream02/streamPlaylist.m3u8
-香港备用香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-香港备用香港電台(RTHK 34),https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
-香港备用香港電台(RTHK 34),https://livedoc.cgtn.com/1000d/prog_index.m3u8
-香港备用EZTV1台,http://vvlive.eztv.vip:80/huawen1/huawen1.m3u8?auth_key=1661769627-0-0-3a16475ac0fa2a152a25661e8634fe39
-香港备用EZTV2台,http://vvlive.eztv.vip:80/huawen2/huawen2.m3u8?auth_key=1661418936-0-0-bc9f000c6daa2def0b71d5389778b0d3
-香港备用EZTV6台,http://vvlive.eztv.vip:80/huawen6/huawen6.m3u8?auth_key=1660814676-0-0-4d45d97f017e545dd368719f8dd48ffe
-香港备用凤凰资讯,http://112.19.171.156:9999/udp/239.93.0.118:2191
-香港备用凤凰卫视,http://112.19.171.156:9999/udp/239.93.0.162:2192
-香港备用凤凰资讯,http://112.19.171.156:9999/udp/239.93.0.118:2191
-香港备用凤凰卫视,http://112.19.171.156:9999/udp/239.93.0.162:2192
-香港备用CGNTV1,http://live.cgtn.com/1000/prog_index.m3u8
-香港备用CGNTV2,http://livear.cgtn.com/1000a/prog_index.m3u8
-香港备用CGNTV,http://livees.cgtn.com/1000e/prog_index.m3u8
-香港备用CGNTV3,http://liveru.cgtn.com/1000r/prog_index.m3u8
-香港备用CGNTV4,https://livedoc.cgtn.com/500d/prog_index.m3u8
-香港备用CGNTV5,http://live.cgtn.com/1000/prog_index.m3u8
-香港备用CGNTV6,http://livear.cgtn.com/1000a/prog_index.m3u8
-香港备用CGNTV7,http://livees.cgtn.com/1000e/prog_index.m3u8
-香港备用CGNTV8,http://liveru.cgtn.com/1000r/prog_index.m3u8
-香港备用CGNTV9,https://livedoc.cgtn.com/500d/prog_index.m3u8
-香港备用CGNTV10,http://liveru.cgtn.com/1000r/prog_index.m3u8
-香港备用CGNTV11,https://livedoc.cgtn.com/500d/prog_index.m3u8
-香港备用港台電視33,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream04/streamPlaylist.m3u8
-香港备用港台電視34,https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream04/streamPlaylist.m3u8
-香港备用耀才财经,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
-香港备用TVB翡翠,http://ali.hlspull.yximgs.com/live/huanqiuhklivefhwwjpthjyjtjjjxcxbfhjjfjvhdtjdvbtvjsjxjfsjjcvbctvbfc.flv
-香港备用J2,http://ali.hlspull.yximgs.com/live/huanqiuhklivefhwohdpthjyfiplhdftujfbvdimhdjnbjsjbcvxjfjsehbvbjtvbd2.flv
-香港备用J2,http://1.65.195.85:9981/stream/channelid/2082072924?profile=pass
-香港备用J2,http://sz.l68.fun:9001/bysid/82
-香港备用J2,http://bziyunshao.synology.me:8890/bysid/82
-香港备用TVB Pearl,http://ali.hlspull.yximgs.com/live/huanqiuhklivetcfjhvdjjxcodwoetjmncthvbstyreyhbnnvbdjjwthjyjtvbmj.flv
-香港备用TVB Pearl,http://bziyunshao.synology.me:8890/bysid/2
-香港备用TVB Pearl,https://s2.pub/cctv-6
-香港备用TVB Pearl,http://120.238.13.198:8000/hls/19/index.m3u8
-香港备用VIUTV,http://ali.hlspull.yximgs.com/live/huanqiuhklivefhtjjnjjdldjlujobnmjjhnbbmdjlpthjyjvjutv.flv
-香港备用VIUTV,http://bziyunshao.synology.me:8889/bysid/99
-香港备用VIUTV,http://ali.hlspull.yximgs.com/live/twlivefhtzznzzdldzluzobnmzzhnbbmdzlpthzyzvzutv.flv
-香港备用VIUTV6,http://ali.hlspull.yximgs.com/live/huanqiuhklivefhwjptdjbehjtyhbvhfjcvsjjfyjtvjutvsjx.flv
-香港备用VIUTV6,http://bziyunshao.synology.me:8889/bysid/96
-香港备用VIUTV6,https://s2.pub/cctv-8
-香港备用HOY76,http://bziyunshao.synology.me:8891/bysid/76
-香港备用HOY77,http://ali.hlspull.yximgs.com/live/huanqiuhkliveyvjojmfdyjjdjdjhdnowspjjlfjhjtycxjfjjojtspjjmehoytv.flv
-香港备用HOY77,http://bziyunshao.synology.me:8891/bysid/77
-香港备用HOY77,https://s2.pub/cctv-9
-香港备用HOY78,http://ali.hlspull.yximgs.com/live/huanqiuhklivejejcxlvofbncvshhjsjcvndfncvbdjpeyjhxchjsjjhjejjjyxxw.flv
-香港备用HOY78,http://bziyunshao.synology.me:8891/bysid/78
-香港备用HOY78,https://s2.pub/cctv-10
-香港备用TVB无线财经体育资讯1,http://ali.hlspull.yximgs.com/live/huanqiuhklivefhwylwpthjyjjfjxvjlmnduhyjmtvbwxcd.flv
-香港备用TVB无线财经体育资讯2,http://ali.hlspull.yximgs.com/live/huanqiuhklivefhwohdpthfgfbvcfghjyfjsjbcvxjvbxjsfjfjsehbvbjtvbd5.flv
-香港备用TVB无线财经体育资讯,https://ha.jmied.com/aa/aa.flv?auth_key=1661958232-0-0-3d9174957759709f8b53448167c0b6f6
-香港备用TVB无线财经体育资讯,http://live.cooltv.top/tv/tvb.php?id=2
-香港备用TVB无线财经体育资讯,http://hksc.vnetidc.hk:61282/bysid/85
-香港备用TVB无线新闻,http://ali.hlspull.yximgs.com/live/huanqiuhklivefhwjpthljjsjsjjbvdljdmnbjhdhyjyjtvbwxxw.flv
-香港备用TVB无线新闻,http://sz.l68.fun:9001/bysid/83
-香港备用TVB无线新闻,http://1.65.195.85:9981/stream/channelid/2051586642?profile=pass
-香港备用TVB无线新闻,http://bziyunshao.synology.me:8890/bysid/83
-香港备用TVB无线新闻,https://s2.pub/cctv-12
-香港备用TVB无线新闻,http://live.cooltv.top/tv/tvb.php?id=0
-香港备用TVB无线新闻,http://hksc.vnetidc.hk:61282/bysid/83
-香港备用TVB无线新闻,https://tvp22.sky4k.top/index1.php
-香港备用RTHK31,http://ali.hlspull.yximgs.com/live/huanqiuhklivehpjdthpthcvhnjujulsfjhcvbjuyhbnjyjthj31.flv
-香港备用RTHK32,http://ali.hlspull.yximgs.com/live/huanqiuhklivejpjjecxvjjusjfjjfdhnbthjjsjfwdtncyjthj32.flv
-香港备用RTHK32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream2/streamPlaylist.m3u8
-香港备用RTHK32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream1/streamPlaylist.m3u8
-香港备用RTHK32,http://bziyunshao.synology.me:8892/bysid/32
-香港备用RTHK32,https://s2.pub/cctv-15
-香港备用RTHK33,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream03/streamPlaylist.m3u8
-香港备用RTHK33,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream04/streamPlaylist.m3u8
-香港备用RTHK33,http://hksc.vnetidc.hk:61284/bysid/33
-香港备用RTHK34,https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream02/streamPlaylist.m3u8
-香港备用RTHK34,https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream04/streamPlaylist.m3u8
-香港备用RTHK35,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream02/streamPlaylist.m3u8
-香港备用TVB星河,http://ali.hlspull.yximgs.com/live/huanqiuhklivejjmjptvjsjjwxnhjjwjjtjjjtyfjsjjsjcfjxfjwmxjdtvbxh.flv
-香港备用TVB星河,https://s2.pub/cctv-16
-香港备用TVB星河(粤),http://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8
-香港备用TVB星河(粤),https://edge6a.v2h-cdn.com/xinghe/xinghe.stream/chunklist.m3u8
-香港备用TVB娱乐新闻,https://edge6a.v2h-cdn.com/enew/enew.stream/chunklist.m3u8
-香港备用TVB娱乐新闻,https://s2.pub/cctv-19
-香港备用TVB娱乐新闻,http://v2h.jdshipin.com/enew/enew.stream/chunklist.m3u8
-香港备用TVB功夫台,https://ali.hlspull.yximgs.com/live/12344.flv
-香港备用TVB功夫台,https://s2.pub/cctv-20
-香港备用TVB功夫台,http://v2h.jdshipin.com/asia_action/asia_action.stream/chunklist.m3u8
-香港备用耀才财经,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
-香港备用耀才财经,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8?wowzasessionid=64000
-香港备用耀才财经,https://v3.mediacast.hk/webcast/bshdlive-pc/playlist.m3u8
-香港备用耀才财经,https://v3.mediacast.hk/webcast/bshdlive-pc/chunklist_w99771165.m3u8
-香港备用大爱1台,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
-香港备用大爱2台,https://pulltv1.wanfudaluye.com/live/tv2.m3u8
-香港备用大爱2,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
-香港备用好消息,https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch1-2.m3u8
-香港备用香港佛陀,http://js1.amtb.cn/liveedge/_definst_/livetv/chunklist.m3u8
-香港备用香港佛陀,https://js1.amtb.cn/liveedge/_definst_/livetv/playlist.m3u8
-香港备用香港面包,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
-香港备用FTV-时装高清,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
-香港备用FASHION TV时装,http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8
-香港备用FASHION TV时装,http://lb.streaming.sk/fashiontv/stream/chunklist_w1906011378.m3u8
-香港备用FASHION TV时装,http://lb.streaming.sk/fashiontv/stream/chunklist_w1702070444.m3u8
+
 
 
 ▶️澳门地区,#genre#
@@ -14479,6 +14483,95 @@ SHARQ,https://59nyqa5elwap-hls-live.5centscdn.com/Sharq/eec89088ee408b8038715527
 
 
 💕美国,#genre#
+美国测试FOXNEWS,https://lnc-kcpq.tubi.video/index_3.m3u8
+美国测试AFV family,https://futuretoday-afv-family-2-be.samsung.wurl.tv:443/1200.m3u8
+美国测试NASA,https://ntv1.akamaized.net:443/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8?
+美国测试CNN,https://cnn-cnninternational-1-eu.rakuten.wurl.tv/a34479f36e18de8ab839234f2a59ab7c.m3u8
+美国测试CNN USA,http://38.44.109.41:8888/play/a00d
+美国测试Action MAX,http://honeywatch.net:80/play/live.php?mac=00:1A:79:A5:9F:91&stream=174538&extension=ts&play_token=tcXAKx88Rl
+美国测试A2iNaija,https://stream.sen-gt.com/A2iNaija/myStream/playlist.m3u8
+美国测试A2iMusic,https://stream.sen-gt.com/A2iMusic/myStream/playlist.m3u8
+美国测试Bounce,http://72.46.118.193/Bounce/index.m3u8
+美国测试Grit,http://72.46.118.193/Grit/index.m3u8
+美国测试Laff,http://72.46.118.193/Laff/index.m3u8
+美国测试Defy,http://72.46.118.193/Defy/index.m3u8
+美国测试Court,http://72.46.118.193/Court/index.m3u8
+美国测试Newsy,http://72.46.118.193/Newsy/index.m3u8
+美国测试UTV,http://173.225.32.123/UTV-2362/index.m3u8
+美国测试KELO,http://173.225.32.123/KELO-2361/index.m3u8
+美国测试CW,http://173.225.32.123/KABY-CW-2364/index.m3u8
+美国测试ME TV,http://173.225.32.123/KPRY-MeTV-2347/index.m3u8
+美国测试KSFY,http://173.225.32.123/KSFY-2363/index.m3u8
+美国测试COZI,http://173.225.32.123/Cozi-2358/index.m3u8
+美国测试KTTW,http://173.225.32.123/KTTW-2357/index.m3u8
+美国测试KDLT,http://173.225.32.123/KDLT-2396/index.m3u8
+美国测试LAKEFIELD,http://173.225.32.123/LAKEFIELD-2370/index.m3u8
+美国测试JACKSON,http://173.225.32.123/JACKSON-2371/index.m3u8
+美国测试UTV,http://173.225.32.123/UTV-2362/index.m3u8
+美国测试KELO,http://173.225.32.123/KELO-2361/index.m3u8
+美国测试CW,http://173.225.32.123/KABY-CW-2364/index.m3u8
+美国测试ME TV,http://173.225.32.123/KPRY-MeTV-2347/index.m3u8
+美国测试KSFY,http://173.225.32.123/KSFY-2363/index.m3u8
+美国测试COZI,http://173.225.32.123/Cozi-2358/index.m3u8
+美国测试KTTW,http://173.225.32.123/KTTW-2357/index.m3u8
+美国测试KDLT,http://173.225.32.123/KDLT-2396/index.m3u8
+美国测试LAKEFIELD,http://173.225.32.123/LAKEFIELD-2370/index.m3u8
+美国测试JACKSON,http://173.225.32.123/JACKSON-2371/index.m3u8
+美国测试Logo,http://streamsy.online:2999/coachj88/N93DPKS9pJ/952
+美国测试Me TV,http://streamsy.online:2999/coachj88/N93DPKS9pJ/744
+美国测试NASA,http://streamsy.online:2999/coachj88/N93DPKS9pJ/1610
+美国测试Nat Geo,http://streamsy.online:2999/coachj88/N93DPKS9pJ/141
+美国测试Nat Geo Wild,http://streamsy.online:2999/coachj88/N93DPKS9pJ/140
+美国测试NBA TV,http://streamsy.online:2999/coachj88/N93DPKS9pJ/136
+美国测试Outdoor Channel,http://streamsy.online:2999/coachj88/N93DPKS9pJ/292
+美国测试PBS KIDS,http://streamsy.online:2999/coachj88/N93DPKS9pJ/227
+美国测试Pop,http://streamsy.online:2999/coachj88/N93DPKS9pJ/226
+美国测试Showtime,http://streamsy.online:2999/coachj88/N93DPKS9pJ/223
+美国测试Showtime Women,http://streamsy.online:2999/coachj88/N93DPKS9pJ/1251
+美国测试SNY,http://streamsy.online:2999/coachj88/N93DPKS9pJ/330
+美国测试Start TV,http://streamsy.online:2999/coachj88/N93DPKS9pJ/1467
+美国测试The Weather Channel,http://streamsy.online:2999/coachj88/N93DPKS9pJ/301
+美国测试Universal Kids,http://streamsy.online:2999/coachj88/N93DPKS9pJ/252
+美国测试WE TV,http://streamsy.online:2999/coachj88/N93DPKS9pJ/247
+美国测试Showtime Beyond,http://streamsy.online:2999/coachj88/N93DPKS9pJ/1619
+美国测试WWE,http://streamsy.online:2999/coachj88/N93DPKS9pJ/398
+美国测试ABC Phoenix,http://streamsy.online:2999/coachj88/N93DPKS9pJ/1233
+美国测试Mega TV,http://streamsy.online:2999/coachj88/N93DPKS9pJ/124
+美国测试3ABN,https://3abn-live.akamaized.net/hls/live/2010543/3ABN/master.m3u8
+美国测试3ABN,https://3abn-live.akamaized.net/hls/live/2010546/French/master.m3u8
+美国测试30A Darcizzle Offshore,https://30a-tv.com/darcizzle.m3u8
+美国测试少儿,https://stream.ads.ottera.tv/playlist.m3u8?network_id=31
+美国测试少儿0,https://stream.ads.ottera.tv/playlist.m3u8?network_id=125
+美国测试少儿1,https://stream.ads.ottera.tv/playlist.m3u8?network_id=33
+美国测试少儿2,https://stream.ads.ottera.tv/playlist.m3u8?network_id=34
+美国测试少儿3,https://stream.ads.ottera.tv/playlist.m3u8?network_id=37
+美国测试少儿4,https://stream.ads.ottera.tv/playlist.m3u8?network_id=40
+美国测试少儿5,https://stream.ads.ottera.tv/playlist.m3u8?network_id=41
+美国测试少儿6,https://stream.ads.ottera.tv/playlist.m3u8?network_id=55
+美国测试少儿7,https://stream.ads.ottera.tv/playlist.m3u8?network_id=142
+美国测试少儿8,https://stream.ads.ottera.tv/playlist.m3u8?network_id=157
+美国测试少儿9,https://stream.ads.ottera.tv/playlist.m3u8?network_id=198
+美国测试KTV,https://stream.ads.ottera.tv/playlist.m3u8?network_id=146
+美国测试KTV,https://stream.ads.ottera.tv/playlist.m3u8?network_id=161
+美国测试美食,https://stream.ads.ottera.tv/playlist.m3u8?network_id=165
+美国测试美食,https://stream.ads.ottera.tv/playlist.m3u8?network_id=180
+美国测试娱乐,https://stream.ads.ottera.tv/playlist.m3u8?network_id=185
+美国测试科幻电影,https://stream.ads.ottera.tv/playlist.m3u8?network_id=151
+美国测试48,https://stream.ads.ottera.tv/playlist.m3u8?network_id=48
+美国测试53,https://stream.ads.ottera.tv/playlist.m3u8?network_id=53
+美国测试74,https://stream.ads.ottera.tv/playlist.m3u8?network_id=74
+美国测试76,https://stream.ads.ottera.tv/playlist.m3u8?network_id=76
+美国测试102,https://stream.ads.ottera.tv/playlist.m3u8?network_id=102
+美国测试154,https://stream.ads.ottera.tv/playlist.m3u8?network_id=154
+美国测试181,https://stream.ads.ottera.tv/playlist.m3u8?network_id=181
+美国测试电影0,https://stream.ads.ottera.tv/playlist.m3u8?network_id=45
+美国测试Canela Clasicos,https://stream.ads.ottera.tv/playlist.m3u8?network_id=652
+美国测试电影1,https://stream.ads.ottera.tv/playlist.m3u8?network_id=656
+美国测试电影2,https://stream.ads.ottera.tv/playlist.m3u8?network_id=821
+美国测试电影3,https://stream.ads.ottera.tv/playlist.m3u8?network_id=822
+美国测试电影4,https://stream.ads.ottera.tv/playlist.m3u8?network_id=827
+美国测试电影5,https://stream.ads.ottera.tv/playlist.m3u8?network_id=3434
+美国测试动漫,https://stream.ads.ottera.tv/playlist.m3u8?network_id=634
 红牛TV,http://rbmn-live.akamaized.net:80/hls/live/590964/BoRB-AT/master_1660.m3u8?
 NASA,https://ntv1.akamaized.net:443/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8?
 ESTV,https://estv-rakuten-samsung.amagi.tv/playlist.m3u8?utm_medium=social&utm_source=heylink.me
